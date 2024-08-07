@@ -1,0 +1,289 @@
+﻿LV1 English,LV1 繁中,LV1 簡中,LV2 English,LV2 繁中,LV2 簡中,Class,Class English,Class 中文,MCH,MCH Name,MCH 中文
+Vegetable,蔬菜,蔬菜,Greens,葉菜,叶菜,22,Leaf,葉菜類,30102201,Leaf Vegetable,葉菜類
+Vegetable,蔬菜,蔬菜,Vegetables,非葉菜,非叶菜,21,Root,根莖類,30102101,Root,根莖類
+Vegetable,蔬菜,蔬菜,Vegetables,非葉菜,非叶菜,32,Stem/Tuber Vegetable,莖類,30103201,Stem/Tuber Vegetable,莖類
+Vegetable,蔬菜,蔬菜,Vegetables,非葉菜,非叶菜,24,Botanical Fruit,果實瓜類,30102401,Botanical Fruit,果實瓜類
+Vegetable,蔬菜,蔬菜,Vegetables,非葉菜,非叶菜,28,Flower Vegetable,花菜類,30102801,Flower Vegetable,花菜類
+Vegetable,蔬菜,蔬菜,Vegetables,非葉菜,非叶菜,31,Seed/Sprout,種子類/芽苗類,30103101,Seed/Sprout,種子類/芽苗類
+Vegetable,蔬菜,蔬菜,Mushrooms,菌菇類,菌菇类,26,Mushroom,蘑菇類,30102601,Mushroom,蘑菇類
+Vegetable,蔬菜,蔬菜,Herbs,香辛料,香辛料,29,Bulb,球莖類,30102901,Bulb,球莖類
+Vegetable,蔬菜,蔬菜,Herbs,香辛料,香辛料,23,Spicy,調味類,30102301,Spicy,調味類
+Vegetable,蔬菜,蔬菜,Herbs,香辛料,香辛料,30,Herb Vegetable,草本植物,30103001,Herb Vegetable,草本植物
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,33,Organic Vegetable,有機蔬菜,30103301,Organic Vegetable,有機蔬菜
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,34,Prepared Vegetable,净菜類,30103401,Prepared Vegetable,净菜類
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,35,Salad,色拉,30103501,Salad,色拉
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,35,Salad,色拉,30103599,Produce dept. key,0
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,27,Nut,堅果類,30102701,Nut,堅果類
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,25,Grains/Legumes,穀物豆類,30102501,Grains/Legumes,穀物豆類
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,41,Cutted Flower,花束,30104101,Fresh Flower,鮮花
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,41,Cutted Flower,花束,30104102,Flower Bouquets,花束
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,42,Potted Plant,盆栽植物,30104201,Potted Flower ,盆栽花
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,42,Potted Plant,盆栽植物,30104202,Potted Plant,盆栽植物
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,42,Potted Plant,盆栽植物,30104203,Potted Fruit Tree,盆栽果樹
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,42,Potted Plant,盆栽植物,30104204,Potted Tree,盆栽樹
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,43,Garden Supplies,園藝用品,30104301,Garden Tool,園藝工具
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,43,Garden Supplies,園藝用品,30104302,Fertilizer,肥料
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,43,Garden Supplies,園藝用品,30104303,Accessories,配件
+Vegetable,蔬菜,蔬菜,Others Vegetable,其他蔬菜,其他蔬菜,43,Garden Supplies,園藝用品,30104304,Seeds,種子
+Fruit,水果,水果,Stone Fruits,果核水果,果核水果,29,Stone Fruits,核果類,30202901,Domestic Stone Fruit,本地核果類
+Fruit,水果,水果,Stone Fruits,果核水果,果核水果,29,Stone Fruits,核果類,30202902,Imported Stone Fruit,进口核果類
+Fruit,水果,水果,Apples,蘋果,苹果,21,Apple,蘋果類,30202101,Domestic Apple,本地蘋果類
+Fruit,水果,水果,Apples,蘋果,苹果,21,Apple,蘋果類,30202102,Imported Apple,进口蘋果類
+Fruit,水果,水果,Pears,梨,梨,28,Pears,梨類,30202801,Domestic Pears,本地梨類
+Fruit,水果,水果,Pears,梨,梨,28,Pears,梨類,30202802,Imported Pears,进口梨類
+Fruit,水果,水果,Melons,瓜,瓜,26,Melons,瓜類,30202601,Domestic Melons,本地瓜類
+Fruit,水果,水果,Melons,瓜,瓜,26,Melons,瓜類,30202602,Imported Melons,进口瓜類
+Fruit,水果,水果,Grapes,葡萄,葡萄,25,Grapes,葡萄類,30202501,Domestic Grapes,本地葡萄類
+Fruit,水果,水果,Grapes,葡萄,葡萄,25,Grapes,葡萄類,30202502,Imported Grapes,进口葡萄類
+Fruit,水果,水果,Berries,莓子,莓子,23,Berries,漿果類,30202301,Domestic Berries,本地漿果類
+Fruit,水果,水果,Berries,莓子,莓子,23,Berries,漿果類,30202302,Imported Berries,进口漿果類
+Fruit,水果,水果,Citrus,柑橘,柑橘,24,Citrus,柑橘類,30202401,Domestic Citrus,本地柑橘類
+Fruit,水果,水果,Citrus,柑橘,柑橘,24,Citrus,柑橘類,30202402,Imported Citrus,进口柑橘類
+Fruit,水果,水果,Tropical,熱帶水果,热带水果,22,Bananas,香蕉類,30202201,Domestic Bananas,本地香蕉類
+Fruit,水果,水果,Tropical,熱帶水果,热带水果,22,Bananas,香蕉類,30202202,Imported Bananas,进口香蕉類
+Fruit,水果,水果,Tropical,熱帶水果,热带水果,30,Tropical Fruit,熱帶水果,30203001,Drmst Tropical Fruit,本地熱帶水果
+Fruit,水果,水果,Tropical,熱帶水果,热带水果,30,Tropical Fruit,熱帶水果,30203002,Imprt Tropical Fruit,进口熱帶水果
+Fruit,水果,水果,Other Fruit,其他水果,其他水果,31,Organic Fruit,有機水果類,30203101,Organic Fruit,有機水果類
+Fruit,水果,水果,Other Fruit,其他水果,其他水果,32,Other Fruit,其他水果類,30203201,Other Fruit,其他水果類
+Fruit,水果,水果,Other Fruit,其他水果,其他水果,41,Fresh Fruit Cup,鮮果切,30204101,Fresh Fruit Cup,鮮果切
+Fruit,水果,水果,Other Fruit,其他水果,其他水果,41,Fresh Fruit Cup,鮮果切,30204102,Fresh Fruit Cup Mix,鮮果切拼盤
+Fruit,水果,水果,Other Fruit,其他水果,其他水果,39,Mixed Fruit Gift Box,果籃類,30203901,Mixed Fruit Gift Box,果籃類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102101,Fr Cut Boneless pork,鮮切豬肉
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102102,Fresh Cut pork Belly,鮮切割豬肉類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102103,Fresh Cut pork Rib,鮮切割豬排骨類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102104,Fresh Cut pork Bones,鮮切割豬筒骨/湯骨類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102105,Fresh Ground pork ,鮮豬肉餡
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102106,Fresh Slice Pork ,鮮豬肉切片類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102107,Mat. Half carcass,原料鮮半片豬
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102108,Material Pork Rear,原料鮮豬後段
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102109,Material Pork Middle,原料鮮豬中段
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102110,Material Pork Front,原料鮮豬前段
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102111,Fr Ct Blk pork Belly,黑豚鮮切割五花類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102112,Fr Cut Blk pork Rib,黑豚鮮切割排骨類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102113,Fr Cut Blk pork Bone,黑豚鮮切割豬筒骨/湯骨類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102114,Fr Ground Blk Pork,黑豚鮮豬肉餡
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102115,Fr Slice Black Pork,黑豚鮮豬肉切片類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102116,Fr Cut Black pork ,黑豚鮮切黑豬肉
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102117,Mat. Black Pork Rear,原料鲜黑豚鮮後段
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102118,Mat. Blk Pork Middle,原料鲜黑豚鮮中段
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102119,Mat. Blk Pork Front,原料鲜黑豚鮮前段
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102120,Frz Grnd Black pork,黑豚凍豬肉餡
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102121,Frz Slice Black Pork,黑豚凍豬肉切片類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102122,Fresh marinate Pork,鮮腌製豬肉
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102123,Fresh Pork Organs,鮮豬内臟類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102124,Frozen Pork Belly,凍豬肉類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102125,Frozen Pork Rib,凍豬排骨類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102126,Frozen Pork Bones,凍豬筒骨/湯骨類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102127,Frozen Ground Pork ,凍豬肉餡
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102128,Frozen slice Pork ,凍豬肉切片類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102129,Frozen Pork Organs,凍豬内臟類
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102130,Frz Mat. Pork Rear,原料凍豬後段
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102131,Frz Mat Pork Middle,原料凍豬中段
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102132,Frz Mat. Pork Front,原料凍豬前段
+Meat,肉類,肉类,Pork,豬,猪,21,Pork,豬肉類,20102199,Meat dept. key,0
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102201,Fresh boneless Beef,鮮切割牛肉類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102202,Fresh bone in beef,鮮切帶骨牛肉類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102203,Fresh Beef bone,鮮切牛骨類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102204,Fresh Beef Steak,鮮切牛排類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102205,Fr Steak USDA Choice,鮮切牛排類USDA Choice
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102206,Fr Steak USDA Prime,鮮切牛排類USDA Prime
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102207,Material Fresh Beef,原料鮮部位牛肉
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102208,Fresh Beef Steak CAB,鮮切黑毛牛牛排類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102209,Fr Beef Steak Wagyu,鮮切和牛牛排類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102210,Fr Steak JP Wagyu,鮮切日本和牛牛排類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102211,Fresh Slice Beef,鮮牛肉切片類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102212,Fr Slice Beef Choice,鮮牛肉切片類USDA Choice
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102213,Fr Slice Beef Prime,鮮牛肉切片類USDA Prime
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102214,Fresh Slice Beef CAB,鮮黑毛牛牛肉切片類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102215,Fr Slice Beef Wagyu,鮮和牛牛肉切片類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102216,Fr Slice Beef JP Wag,鮮日本和牛牛肉切片類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102217,Mat Fresh Wagyu Beef,原料鮮部位和牛肉
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102218,Fresh Oxtail,鮮切牛尾骨
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102219,Fresh Ground Beef,鮮牛肉餡
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102220,Fr Grnd Beef Choice,鮮牛肉餡USDA Choice
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102221,Fr Ground Beef Wagyu,鮮和牛牛肉餡
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102222,Fresh marinate Beef,鮮腌製牛肉
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102223,Fresh Beef Organs,鮮牛肉臟類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102224,Frozen Oxtail,凍牛尾骨
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102225,Frozen Ground Beef,凍牛肉餡
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102226,Frozen Slice Beef,凍牛肉切片類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102227,Frz Slce Beef Choice,凍牛肉切片類USDA Choice
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102228,Frz Slice Beef Prime,凍牛肉切片類USDA Prime
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102229,Frz Slice Beef CAB,凍黑毛牛牛肉切片類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102230,Frz Slice Beef Wagyu,凍和牛牛肉切片類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102231,Frozen Boneless Beef,凍切割牛肉類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102232,FrozenBone in Beef,凍切牛帶骨牛肉類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102233,Frozen Beef Bone,凍切牛骨類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102234,Frozen beef Organs,凍牛肉臟類
+Meat,肉類,肉类,Beef,牛,牛,22,Beef,牛肉類,20102235,Material Frozen Beef,原料冻部位牛肉
+Meat,肉類,肉类,Goat/Lamb,羊,羊,24,lamb,羊肉類,20102401,Fresh lamb,鮮羊肉類
+Meat,肉類,肉类,Goat/Lamb,羊,羊,24,lamb,羊肉類,20102402,frozen lamb,凍羊肉類
+Meat,肉類,肉类,Goat/Lamb,羊,羊,24,lamb,羊肉類,20102403,Fresh Slice lamb,鮮切羊肉
+Meat,肉類,肉类,Goat/Lamb,羊,羊,24,lamb,羊肉類,20102404,Frozen slice lamb,凍切羊肉
+Meat,肉類,肉类,Goat/Lamb,羊,羊,24,lamb,羊肉類,20102405,Goat,草羊類
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102301,Fresh Whole Chicken,鮮整鷄類
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102302,Fr Bnless CHKN meat,鮮鷄肉
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102303,Fr Bone in CHKN part,鮮帶骨雞肉
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102304,Fresh Chicken Organs,鮮雞内臟
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102305,Fr Organic Chicken,鮮有機整雞
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102306,Fr Org Boneless CHKN,鮮有機鷄肉
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102307,Fr Org Bone in CHKN,鮮有機帶骨鷄肉
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102308,Frozen Whole Chicken,凍整鷄類
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102309,Frz Organic Chicken,凍有機鷄類
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102310,Frz Bnless CHKN meat,凍鷄肉
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102311,Frz Bone in CHKN pt,凍帶骨雞肉
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102312,Frz Chicken Organs,凍雞内臟
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102313,Fresh Whole Duck,鮮整鴨類
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102314,Fr Boneless Duck,鮮鴨肉
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102315,Fr Bone in Duck part,鮮帶骨鴨肉
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102316,Fr Duck Cuts&Organs,鮮鴨内臟
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102317,Frozen Whole Duck,凍整鴨類
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102318,Frz Boneless Duck ,凍鴨肉
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102319,Frz Bonein Duck part,凍帶骨鴨肉
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102320,Frz Duck Cuts&Organ,凍鴨内臟
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102321,Fresh Other Poultry,鮮其他家禽類
+Meat,肉類,肉类,Poultry,家禽,家禽,23,Poultry,家禽類,20102322,Frozen Other Poultry,凍其他家禽類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,26,Hot Pot,火鍋類,20102601,Frz Hotpot Slc Pork,凍火鍋豬肉類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,26,Hot Pot,火鍋類,20102602,Frz Hotpot Slc Beef,凍火鍋牛肉類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,26,Hot Pot,火鍋類,20102603,Frz Hotpot Slc lamb,凍火鍋羊肉類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,21,Pork,豬肉類,20102106,Fresh Slice Pork ,鮮豬肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,21,Pork,豬肉類,20102115,Fr Slice Black Pork,黑豚鮮豬肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,21,Pork,豬肉類,20102121,Frz Slice Black Pork,黑豚凍豬肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,21,Pork,豬肉類,20102128,Frozen slice Pork ,凍豬肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102211,Fresh Slice Beef,鮮牛肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102212,Fr Slice Beef Choice,鮮牛肉切片類USDA Choice
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102213,Fr Slice Beef Prime,鮮牛肉切片類USDA Prime
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102214,Fresh Slice Beef CAB,鮮黑毛牛牛肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102215,Fr Slice Beef Wagyu,鮮和牛牛肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102216,Fr Slice Beef JP Wag,鮮日本和牛牛肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102226,Frozen Slice Beef,凍牛肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102227,Frz Slce Beef Choice,凍牛肉切片類USDA Choice
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102228,Frz Slice Beef Prime,凍牛肉切片類USDA Prime
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102229,Frz Slice Beef CAB,凍黑毛牛牛肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102230,Frz Slice Beef Wagyu,凍和牛牛肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,24,lamb,羊肉類,20102403,Fresh Slice lamb,鮮切羊肉
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,24,lamb,羊肉類,20102404,Frozen slice lamb,凍切羊肉
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102216,Fr Slice Beef JP Wag,鮮日本和牛牛肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102226,Frozen Slice Beef,凍牛肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102227,Frz Slce Beef Choice,凍牛肉切片類USDA Choice
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102228,Frz Slice Beef Prime,凍牛肉切片類USDA Prime
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102229,Frz Slice Beef CAB,凍黑毛牛牛肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,22,Beef,牛肉類,20102230,Frz Slice Beef Wagyu,凍和牛牛肉切片類
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,24,lamb,羊肉類,20102403,Fresh Slice lamb,鮮切羊肉
+Meat,肉類,肉类,Shabu Shabu,火鍋/肉片,火锅/肉片,24,lamb,羊肉類,20102404,Frozen slice lamb,凍切羊肉
+Meat,肉類,肉类,Others,其他,其他,29,Ready to Cook,肉類預製菜（生）,20102901,Chilled Deep Fried ,冷藏製炸物類
+Meat,肉類,肉类,Others,其他,其他,29,Ready to Cook,肉類預製菜（生）,20102902,Chilled Dish Meat,冷藏肉類菜餚類
+Meat,肉類,肉类,Others,其他,其他,29,Ready to Cook,肉類預製菜（生）,20102903,Frozen Deep Fried ,凍預製炸物類
+Meat,肉類,肉类,Others,其他,其他,29,Ready to Cook,肉類預製菜（生）,20102904,Frozen Dish Meat,凍肉類預製菜餚類
+Meat,肉類,肉类,Others,其他,其他,25,Other Meat,其他肉類,20102523,Fresh Other Meat,鮮其他肉類
+Meat,肉類,肉类,Others,其他,其他,25,Other Meat,其他肉類,20102524,Frozen Other Meat,凍其他肉類
+Seafood,海鮮,海鲜,Live Seafood,鮮活海鮮,鲜活海鲜,21,Live Seafood,活鮮類,40102101,Fresh Water Fish,淡水魚
+Seafood,海鮮,海鲜,Live Seafood,鮮活海鮮,鲜活海鲜,21,Live Seafood,活鮮類,40102102,Salt Water Fish,海水魚
+Seafood,海鮮,海鲜,Live Seafood,鮮活海鮮,鲜活海鲜,21,Live Seafood,活鮮類,40102103,Live Shrimp,活蝦類
+Seafood,海鮮,海鲜,Live Seafood,鮮活海鮮,鲜活海鲜,21,Live Seafood,活鮮類,40102104,Live Crab,活蟹類
+Seafood,海鮮,海鲜,Live Seafood,鮮活海鮮,鲜活海鲜,21,Live Seafood,活鮮類,40102105,Live Shellfish,活貝類
+Seafood,海鮮,海鲜,Live Seafood,鮮活海鮮,鲜活海鲜,21,Live Seafood,活鮮類,40102106,Other live seafood,其他活鮮類
+Seafood,海鮮,海鲜,Live Seafood,鮮活海鮮,鲜活海鲜,21,Live Seafood,活鮮類,40102199,Seafood dept. key,0
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,22,Fresh Seafood,冰鮮類,40102201,Fresh Fish,冰鮮魚類
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,22,Fresh Seafood,冰鮮類,40102202,Fresh Shrimp,冰鮮蝦類
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,22,Fresh Seafood,冰鮮類,40102203,Fresh Shellfish,冰鮮類貝
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,22,Fresh Seafood,冰鮮類,40102204,Other Fresh Seafood,其他冰鮮類
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,22,Fresh Seafood,冰鮮類,40102205,Processed Fresh Fish,加工冰鮮魚
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,22,Fresh Seafood,冰鮮類,40102206,Proc Fresh Shellfish,加工冰鮮貝類
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,22,Fresh Seafood,冰鮮類,40102207,Proc Fresh Shrimp,加工冰鮮蝦類
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,22,Fresh Seafood,冰鮮類,40102208,Oth Processed Fresh ,其他加工冰鮮類
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,24,Frozen Seafood,冷凍海產,40102401,Frozen Whole Fish,凍整魚類
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,24,Frozen Seafood,冷凍海產,40102402,Frozen Fish Fillet,凍魚扒類
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,24,Frozen Seafood,冷凍海產,40102403,Frz Shrimp Head on,凍帶頭蝦
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,24,Frozen Seafood,冷凍海產,40102404,Frz Shrimp WO Head,凍去頭蝦
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,24,Frozen Seafood,冷凍海產,40102405,Frozen Shellfish,凍貝類
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,24,Frozen Seafood,冷凍海產,40102406,Crab Meat,假蟹肉
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,24,Frozen Seafood,冷凍海產,40102407,Frozen Crab,凍蟹類
+Seafood,海鮮,海鲜,Fresh & Frozen Fish,冰鮮魚類,冰鲜鱼类,24,Frozen Seafood,冷凍海產,40102409,Other Frozen seafood,其他凍海產
+Seafood,海鮮,海鲜,Shrimp/Crab,蝦蟹類,虾蟹类,21,Live Seafood,活鮮類,40102103,Live Shrimp,活蝦類
+Seafood,海鮮,海鲜,Shrimp/Crab,蝦蟹類,虾蟹类,21,Live Seafood,活鮮類,40102104,Live Crab,活蟹類
+Seafood,海鮮,海鲜,Shrimp/Crab,蝦蟹類,虾蟹类,22,Fresh Seafood,冰鮮類,40102202,Fresh Shrimp,冰鮮蝦類
+Seafood,海鮮,海鲜,Shrimp/Crab,蝦蟹類,虾蟹类,22,Fresh Seafood,冰鮮類,40102207,Proc Fresh Shrimp,加工冰鮮蝦類
+Seafood,海鮮,海鲜,Shrimp/Crab,蝦蟹類,虾蟹类,24,Frozen Seafood,冷凍海產,40102403,Frz Shrimp Head on,凍帶頭蝦
+Seafood,海鮮,海鲜,Shrimp/Crab,蝦蟹類,虾蟹类,24,Frozen Seafood,冷凍海產,40102404,Frz Shrimp WO Head,凍去頭蝦
+Seafood,海鮮,海鲜,Shrimp/Crab,蝦蟹類,虾蟹类,24,Frozen Seafood,冷凍海產,40102406,Crab Meat,假蟹肉
+Seafood,海鮮,海鲜,Shellfish,貝類,贝类,21,Live Seafood,活鮮類,40102105,Live Shellfish,活貝類
+Seafood,海鮮,海鲜,Shellfish,貝類,贝类,22,Fresh Seafood,冰鮮類,40102203,Fresh Shellfish,冰鮮類貝
+Seafood,海鮮,海鲜,Shellfish,貝類,贝类,22,Fresh Seafood,冰鮮類,40102206,Proc Fresh Shellfish,加工冰鮮貝類
+Seafood,海鮮,海鲜,Shellfish,貝類,贝类,24,Frozen Seafood,冷凍海產,40102405,Frozen Shellfish,凍貝類
+Seafood,海鮮,海鲜,Sashimi,魚生類,鱼生类,23,Sushi,壽司類,40102301,Sushi,壽司類
+Seafood,海鮮,海鲜,Sashimi,魚生類,鱼生类,23,Sushi,壽司類,40102302,Sashimi,魚生類
+Seafood,海鮮,海鲜,Sashimi,魚生類,鱼生类,23,Sushi,壽司類,40102303,Sushi Roll,壽司卷
+Seafood,海鮮,海鲜,Sashimi,魚生類,鱼生类,23,Sushi,壽司類,40102304,Poke Bowl,鱼生饭
+Seafood,海鮮,海鲜,Sashimi,魚生類,鱼生类,23,Sushi,壽司類,40102305,Combo Box,壽司拼盤
+Seafood,海鮮,海鲜,Sashimi,魚生類,鱼生类,23,Sushi,壽司類,40102306,Mat. Whole Salmon,原料鲜整條三文魚
+Seafood,海鮮,海鲜,Ready To Cook/Eat,調理品/半成品,调理品/半成品,25,Frz Hotpot Sfd ball,冷凍火鍋魚丸,40102501,Frz Hotpot Sfd ball,冷凍火鍋魚丸
+Seafood,海鮮,海鲜,Ready To Cook/Eat,調理品/半成品,调理品/半成品,26,Seafood Ready toCook,海鮮預製菜,40102601,Seafood RTC Chilled ,冷藏海鮮預製菜
+Seafood,海鮮,海鲜,Ready To Cook/Eat,調理品/半成品,调理品/半成品,26,Seafood Ready toCook,海鮮預製菜,40102602,Seafood RTC Frozen,冷凍海鮮預製菜
+Seafood,海鮮,海鲜,Frozen,冷凍產品,冷冻产品,24,Frozen Seafood,冷凍海產,40102401,Frozen Whole Fish,凍整魚類
+Seafood,海鮮,海鲜,Frozen,冷凍產品,冷冻产品,24,Frozen Seafood,冷凍海產,40102402,Frozen Fish Fillet,凍魚扒類
+Seafood,海鮮,海鲜,Frozen,冷凍產品,冷冻产品,24,Frozen Seafood,冷凍海產,40102403,Frz Shrimp Head on,凍帶頭蝦
+Seafood,海鮮,海鲜,Frozen,冷凍產品,冷冻产品,24,Frozen Seafood,冷凍海產,40102404,Frz Shrimp WO Head,凍去頭蝦
+Seafood,海鮮,海鲜,Frozen,冷凍產品,冷冻产品,24,Frozen Seafood,冷凍海產,40102405,Frozen Shellfish,凍貝類
+Seafood,海鮮,海鲜,Frozen,冷凍產品,冷冻产品,24,Frozen Seafood,冷凍海產,40102406,Crab Meat,假蟹肉
+Seafood,海鮮,海鲜,Frozen,冷凍產品,冷冻产品,24,Frozen Seafood,冷凍海產,40102407,Frozen Crab,凍蟹類
+Seafood,海鮮,海鲜,Frozen,冷凍產品,冷冻产品,24,Frozen Seafood,冷凍海產,40102409,Other Frozen seafood,其他凍海產
+Seafood,海鮮,海鲜,Others,其他水產,其他水产,27,Dry Seafood,乾海產,40102701,Dry Fish,乾魚類
+Seafood,海鮮,海鲜,Others,其他水產,其他水产,27,Dry Seafood,乾海產,40102702,Dry Shrimp,乾蝦類
+Seafood,海鮮,海鲜,Others,其他水產,其他水产,27,Dry Seafood,乾海產,40102703,Dry Shellfish,乾貝類
+Seafood,海鮮,海鲜,Others,其他水產,其他水产,27,Dry Seafood,乾海產,40102704,Dry squid,乾軟足類
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102101,BBQ BEEF,燒臘牛肉
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102102,BBQ Lamb,燒臘羊肉
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102103,BBQ PORK,燒臘豬肉
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102104,BBQ POULTRY,燒臘禽類
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102105,BBQ Other,其他燒臘产品
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102106,BBQ SAUCE/Marinate,燒臘卤水类
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102107,BBQ COMBO,燒臘飯
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102199,Hot Deli dept. key,0
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102301,ASIAN ENTREE,東南亞熟食
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102302,JP/KO ENTREE,日韩熟食
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102303,Combo Lunch,快餐
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102304,Fried Food,炸物类
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102305,Hot Entree,热菜类
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102306,Bento,便当
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102307,Breakfast,早餐
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102308,Snack,小吃
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102309,Other Hot Meal,其他热餐食
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102310,Service Charge,服務費
+Hot Deli,熟食,熟食,Bento,便當,便当,31,Sushi,壽司類,60103101,Sushi,壽司類
+Hot Deli,熟食,熟食,Bento,便當,便当,31,Sushi,壽司類,60103102,Sashimi,魚生類
+Hot Deli,熟食,熟食,Bento,便當,便当,31,Sushi,壽司類,60103103,Sushi Roll,壽司卷
+Hot Deli,熟食,熟食,Bento,便當,便当,31,Sushi,壽司類,60103104,Poke Bowl,鱼生饭
+Hot Deli,熟食,熟食,Bento,便當,便当,31,Sushi,壽司類,60103105,Combo Box,壽司拼盤
+Hot Deli,熟食,熟食,Bento,便當,便当,32,Sandwich & Wrap ,三明治/卷餅,60103201,Sandwich&Wrap Mnstrm,三明治/卷餅 主流
+Hot Deli,熟食,熟食,Bento,便當,便当,32,Sandwich & Wrap ,三明治/卷餅,60103202,Sandwich&Wrap CH,卷餅 中式
+Hot Deli,熟食,熟食,Dim Sum,點心,点心,22,Dim Sum,點心類,60102201,HK Dim Sum Steam,港粵蒸點
+Hot Deli,熟食,熟食,Dim Sum,點心,点心,22,Dim Sum,點心類,60102202,HK Dim Sum Fry,港粵炸點
+Hot Deli,熟食,熟食,Dim Sum,點心,点心,22,Dim Sum,點心類,60102203,HK Dim Sum Griddle,港粵煎點
+Hot Deli,熟食,熟食,Dim Sum,點心,点心,22,Dim Sum,點心類,60102204,Other DIM SUM,其他點心
+Hot Deli,熟食,熟食,Dim Sum,點心,点心,22,Dim Sum,點心類,60102205,Congee/Noodle/Soup,粥/麵/湯
+Hot Deli,熟食,熟食,Others,其他,其他,33,Cold Marinated Meat,冷滷葷菜,60103301,Cold Marinated Pork,冷鹵豬肉類
+Hot Deli,熟食,熟食,Others,其他,其他,33,Cold Marinated Meat,冷滷葷菜,60103302,Cold Marinated Beef,冷鹵牛肉類
+Hot Deli,熟食,熟食,Others,其他,其他,33,Cold Marinated Meat,冷滷葷菜,60103303,Cold Mrntd Chicken,冷鹵鷄肉類
+Hot Deli,熟食,熟食,Others,其他,其他,33,Cold Marinated Meat,冷滷葷菜,60103304,Cold Mrntd Seafood,冷鹵鱼类/海鲜
+Hot Deli,熟食,熟食,Others,其他,其他,33,Cold Marinated Meat,冷滷葷菜,60103305,Cold Marinated Combo,冷鹵拼盘
+Hot Deli,熟食,熟食,Others,其他,其他,33,Cold Marinated Meat,冷滷葷菜,60103306,Cold Marinated Other,其他冷鹵
+Hot Deli,熟食,熟食,Others,其他,其他,34,Cold Entrée,冷吃小菜,60103401,Cold Chinese Entrée,小菜中式
+Hot Deli,熟食,熟食,Others,其他,其他,34,Cold Entrée,冷吃小菜,60103402,Cold Se Entrée,小菜東南亞 
+Hot Deli,熟食,熟食,Others,其他,其他,34,Cold Entrée,冷吃小菜,60103403,Other Cold Entrée,其他小菜
+Hot Deli,熟食,熟食,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103901,Meat Buns,肉包
+Hot Deli,熟食,熟食,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103902,Vegetable Buns,素包
+Hot Deli,熟食,熟食,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103903,Sweet Buns,甜包
+Hot Deli,熟食,熟食,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103904,No Filling Buns,馒头类
+Hot Deli,熟食,熟食,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103905,Other Buns,其他面点
+Hot Deli,熟食,熟食,Others,其他,其他,40,Cooler Rice Dumpling,冷藏粽子,60104001,Meat Rice Dumplings,肉粽
+Hot Deli,熟食,熟食,Others,其他,其他,40,Cooler Rice Dumpling,冷藏粽子,60104002,Veg Rice Dumplings,素粽
+Hot Deli,熟食,熟食,Others,其他,其他,40,Cooler Rice Dumpling,冷藏粽子,60104003,Sweet Rice Dumplings,甜粽
+Hot Deli,熟食,熟食,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104101,Cooler instant food ,冷藏即热食品
+Hot Deli,熟食,熟食,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104102,Cooler Bento,冷藏便当
+Hot Deli,熟食,熟食,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104103,Cooler Dimsum/Snack,冷藏点心/小吃
+Hot Deli,熟食,熟食,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104104,Cooler Materials,冷藏食材
+Hot Deli,熟食,熟食,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104105,Cooler Mealkit,冷藏配菜
+Hot Deli,熟食,熟食,Others,其他,其他,51,Material,原材料,60105101,Import Frozen,進口冷凍
+Hot Deli,熟食,熟食,Others,其他,其他,51,Material,原材料,60105102,Import Refrigeration,進口冷藏
+Hot Deli,熟食,熟食,Others,其他,其他,51,Material,原材料,60105103,Import Room Temp,進口常溫

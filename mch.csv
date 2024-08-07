@@ -1,0 +1,1245 @@
+﻿LV1 排序,LV1 English,LV1 簡中,LV1 繁中,LV2 排序,LV2 English,LV2 簡中,LV2 繁中,Class,Class English,Class 中文,MCH,MCH Name,MCH 中文
+1,Holiday 1,预留位 1,預留位 1,1.1,XXXXX,预留位,預留位,,,,,,
+2,Holiday 2,预留位 2,預留位 2,2.1,XXXXX,预留位,預留位,,,,,,
+3,Vegetables,蔬菜,蔬菜,3.1,XXXXX,预留位,預留位,,,,,,
+3,Vegetables,蔬菜,蔬菜,3.2,Leaf Veggies,叶菜类,葉菜類,22,Leaf,葉菜類,30102201,Leaf Vegetable,葉菜類
+3,Vegetables,蔬菜,蔬菜,3.3,Non-leaf Veggies,根茎果/芽苗,根莖果/芽苗,21,Root,根莖類,30102101,Root,根莖類
+3,Vegetables,蔬菜,蔬菜,3.3,Non-leaf Veggies,根茎果/芽苗,根莖果/芽苗,32,Stem/Tuber Vegetable,莖類,30103201,Stem/Tuber Vegetable,莖類
+3,Vegetables,蔬菜,蔬菜,3.3,Non-leaf Veggies,根茎果/芽苗,根莖果/芽苗,24,Botanical Fruit,果實瓜類,30102401,Botanical Fruit,果實瓜類
+3,Vegetables,蔬菜,蔬菜,3.3,Non-leaf Veggies,根茎果/芽苗,根莖果/芽苗,28,Flower Vegetable,花菜類,30102801,Flower Vegetable,花菜類
+3,Vegetables,蔬菜,蔬菜,3.3,Non-leaf Veggies,根茎果/芽苗,根莖果/芽苗,31,Seed/Sprout,種子類/芽苗類,30103101,Seed/Sprout,種子類/芽苗類
+3,Vegetables,蔬菜,蔬菜,3.4,Bulbs/Spices/Herbs,辛香料/佐料,辛香料/佐料,29,Bulb,球莖類,30102901,Bulb,球莖類
+3,Vegetables,蔬菜,蔬菜,3.4,Bulbs/Spices/Herbs,辛香料/佐料,辛香料/佐料,23,Spicy,調味類,30102301,Spicy,調味類
+3,Vegetables,蔬菜,蔬菜,3.4,Bulbs/Spices/Herbs,辛香料/佐料,辛香料/佐料,30,Herb Vegetable,草本植物,30103001,Herb Vegetable,草本植物
+3,Vegetables,蔬菜,蔬菜,3.5,Mushrooms,菌菇类,菌菇類,26,Mushroom,蘑菇類,30102601,Mushroom,蘑菇類
+3,Vegetables,蔬菜,蔬菜,3.6,Organic Veggies,有机蔬菜,有機蔬菜,33,Organic Vegetable,有機蔬菜,30103301,Organic Vegetable,有機蔬菜
+3,Vegetables,蔬菜,蔬菜,3.7,Packaged Veggies/Salads,包装蔬菜/沙拉,包裝蔬菜/沙拉,34,Prepared Vegetable,净菜類,30103401,Prepared Vegetable,净菜類
+3,Vegetables,蔬菜,蔬菜,3.7,Packaged Veggies/Salads,包装蔬菜/沙拉,包裝蔬菜/沙拉,35,Salad,色拉,30103501,Salad,色拉
+3,Vegetables,蔬菜,蔬菜,3.7,Packaged Veggies/Salads,包装蔬菜/沙拉,包裝蔬菜/沙拉,35,Salad,色拉,30103599,Produce dept. key,0
+3,Vegetables,蔬菜,蔬菜,3.8,Grains/Nuts,谷物坚果,穀物堅果,27,Nut,堅果類,30102701,Nut,堅果類
+3,Vegetables,蔬菜,蔬菜,3.8,Grains/Nuts,谷物坚果,穀物堅果,25,Grains/Legumes,穀物豆類,30102501,Grains/Legumes,穀物豆類
+3,Vegetables,蔬菜,蔬菜,3.9,Flowers/Plants,鲜花/盆栽,鮮花/盆栽,41,Cutted Flower,花束,30104101,Fresh Flower,鮮花
+3,Vegetables,蔬菜,蔬菜,3.9,Flowers/Plants,鲜花/盆栽,鮮花/盆栽,41,Cutted Flower,花束,30104102,Flower Bouquets,花束
+3,Vegetables,蔬菜,蔬菜,3.9,Flowers/Plants,鲜花/盆栽,鮮花/盆栽,42,Potted Plant,盆栽植物,30104201,Potted Flower ,盆栽花
+3,Vegetables,蔬菜,蔬菜,3.9,Flowers/Plants,鲜花/盆栽,鮮花/盆栽,42,Potted Plant,盆栽植物,30104202,Potted Plant,盆栽植物
+3,Vegetables,蔬菜,蔬菜,3.9,Flowers/Plants,鲜花/盆栽,鮮花/盆栽,42,Potted Plant,盆栽植物,30104203,Potted Fruit Tree,盆栽果樹
+3,Vegetables,蔬菜,蔬菜,3.9,Flowers/Plants,鲜花/盆栽,鮮花/盆栽,42,Potted Plant,盆栽植物,30104204,Potted Tree,盆栽樹
+3,Vegetables,蔬菜,蔬菜,3.9,Flowers/Plants,鲜花/盆栽,鮮花/盆栽,43,Garden Supplies,園藝用品,30104301,Garden Tool,園藝工具
+3,Vegetables,蔬菜,蔬菜,3.9,Flowers/Plants,鲜花/盆栽,鮮花/盆栽,43,Garden Supplies,園藝用品,30104302,Fertilizer,肥料
+3,Vegetables,蔬菜,蔬菜,3.9,Flowers/Plants,鲜花/盆栽,鮮花/盆栽,43,Garden Supplies,園藝用品,30104303,Accessories,配件
+3,Vegetables,蔬菜,蔬菜,3.9,Flowers/Plants,鲜花/盆栽,鮮花/盆栽,43,Garden Supplies,園藝用品,30104304,Seeds,種子
+4,Fruits,水果,水果,4.1,XXXXX,预留位,預留位,,,,,,
+4,Fruits,水果,水果,4.2,Apples/Pears,苹果/梨,蘋果/梨,21,Apple,蘋果類,30202101,Domestic Apple,本地蘋果類
+4,Fruits,水果,水果,4.2,Apples/Pears,苹果/梨,蘋果/梨,21,Apple,蘋果類,30202102,Imported Apple,进口蘋果類
+4,Fruits,水果,水果,4.2,Apples/Pears,苹果/梨,蘋果/梨,28,Pears,梨類,30202801,Domestic Pears,本地梨類
+4,Fruits,水果,水果,4.2,Apples/Pears,苹果/梨,蘋果/梨,28,Pears,梨類,30202802,Imported Pears,进口梨類
+4,Fruits,水果,水果,4.3,Citrus/Bananas,柑橘/香蕉,柑橘/香蕉,22,Bananas,香蕉類,30202201,Domestic Bananas,本地香蕉類
+4,Fruits,水果,水果,4.3,Citrus/Bananas,柑橘/香蕉,柑橘/香蕉,22,Bananas,香蕉類,30202202,Imported Bananas,进口香蕉類
+4,Fruits,水果,水果,4.3,Citrus/Bananas,柑橘/香蕉,柑橘/香蕉,24,Citrus,柑橘類,30202401,Domestic Citrus,本地柑橘類
+4,Fruits,水果,水果,4.3,Citrus/Bananas,柑橘/香蕉,柑橘/香蕉,24,Citrus,柑橘類,30202402,Imported Citrus,进口柑橘類
+4,Fruits,水果,水果,4.4,Berries/Melons,莓果/瓜类,莓果/瓜類,23,Berries,漿果類,30202301,Domestic Berries,本地漿果類
+4,Fruits,水果,水果,4.5,Berries/Melons,莓果/瓜类,莓果/瓜類,23,Berries,漿果類,30202302,Imported Berries,进口漿果類
+4,Fruits,水果,水果,4.6,Berries/Melons,莓果/瓜类,莓果/瓜類,26,Melons,瓜類,30202601,Domestic Melons,本地瓜類
+4,Fruits,水果,水果,4.7,Berries/Melons,莓果/瓜类,莓果/瓜類,26,Melons,瓜類,30202602,Imported Melons,进口瓜類
+4,Fruits,水果,水果,4.5,Grapes/Stone Fruits,葡萄/核果类,葡萄/核果類,25,Grapes,葡萄類,30202501,Domestic Grapes,本地葡萄類
+4,Fruits,水果,水果,4.5,Grapes/Stone Fruits,葡萄/核果类,葡萄/核果類,25,Grapes,葡萄類,30202502,Imported Grapes,进口葡萄類
+4,Fruits,水果,水果,4.5,Grapes/Stone Fruits,葡萄/核果类,葡萄/核果類,29,Stone Fruits,核果類,30202901,Domestic Stone Fruit,本地核果類
+4,Fruits,水果,水果,4.5,Grapes/Stone Fruits,葡萄/核果类,葡萄/核果類,29,Stone Fruits,核果類,30202902,Imported Stone Fruit,进口核果類
+4,Fruits,水果,水果,4.6,Tropical Fruits,热带水果,熱帶水果,30,Tropical Fruit,熱帶水果,30203001,Drmst Tropical Fruit,本地熱帶水果
+4,Fruits,水果,水果,4.6,Tropical Fruits,热带水果,熱帶水果,30,Tropical Fruit,熱帶水果,30203002,Imprt Tropical Fruit,进口熱帶水果
+4,Fruits,水果,水果,4.7,Organics/Others,有机水果/其他,有機水果/其他,31,Organic Fruit,有機水果類,30203101,Organic Fruit,有機水果類
+4,Fruits,水果,水果,4.7,Organics/Others,有机水果/其他,有機水果/其他,32,Other Fruit,其他水果類,30203201,Other Fruit,其他水果類
+4,Fruits,水果,水果,4.7,Organics/Others,有机水果/其他,有機水果/其他,41,Fresh Fruit Cup,鮮果切,30204101,Fresh Fruit Cup,鮮果切
+4,Fruits,水果,水果,4.7,Organics/Others,有机水果/其他,有機水果/其他,41,Fresh Fruit Cup,鮮果切,30204102,Fresh Fruit Cup Mix,鮮果切拼盤
+4,Fruits,水果,水果,4.7,Organics/Others,有机水果/其他,有機水果/其他,39,Mixed Fruit Gift Box,果籃類,30203901,Mixed Fruit Gift Box,果籃類
+5,Meat,肉类,肉類,5.1,XXXXX,预留位,預留位,,,,,,
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102101,Fr Cut Boneless pork,鮮切豬肉
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102102,Fresh Cut pork Belly,鮮切割豬肉類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102103,Fresh Cut pork Rib,鮮切割豬排骨類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102104,Fresh Cut pork Bones,鮮切割豬筒骨/湯骨類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102105,Fresh Ground pork ,鮮豬肉餡
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102106,Fresh Slice Pork ,鮮豬肉切片類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102107,Mat. Half carcass,原料鮮半片豬
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102108,Material Pork Rear,原料鮮豬後段
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102109,Material Pork Middle,原料鮮豬中段
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102110,Material Pork Front,原料鮮豬前段
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102111,Fr Ct Blk pork Belly,黑豚鮮切割五花類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102112,Fr Cut Blk pork Rib,黑豚鮮切割排骨類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102113,Fr Cut Blk pork Bone,黑豚鮮切割豬筒骨/湯骨類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102114,Fr Ground Blk Pork,黑豚鮮豬肉餡
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102115,Fr Slice Black Pork,黑豚鮮豬肉切片類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102116,Fr Cut Black pork ,黑豚鮮切黑豬肉
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102117,Mat. Black Pork Rear,原料鲜黑豚鮮後段
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102118,Mat. Blk Pork Middle,原料鲜黑豚鮮中段
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102119,Mat. Blk Pork Front,原料鲜黑豚鮮前段
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102120,Frz Grnd Black pork,黑豚凍豬肉餡
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102121,Frz Slice Black Pork,黑豚凍豬肉切片類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102122,Fresh marinate Pork,鮮腌製豬肉
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102123,Fresh Pork Organs,鮮豬内臟類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102124,Frozen Pork Belly,凍豬肉類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102125,Frozen Pork Rib,凍豬排骨類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102126,Frozen Pork Bones,凍豬筒骨/湯骨類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102127,Frozen Ground Pork ,凍豬肉餡
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102128,Frozen slice Pork ,凍豬肉切片類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102129,Frozen Pork Organs,凍豬内臟類
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102130,Frz Mat. Pork Rear,原料凍豬後段
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102131,Frz Mat Pork Middle,原料凍豬中段
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102132,Frz Mat. Pork Front,原料凍豬前段
+5,Meat,肉类,肉類,5.2,Pork,猪肉,豬肉,21,Pork,豬肉類,20102199,Meat dept. key,0
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102201,Fresh boneless Beef,鮮切割牛肉類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102202,Fresh bone in beef,鮮切帶骨牛肉類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102203,Fresh Beef bone,鮮切牛骨類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102204,Fresh Beef Steak,鮮切牛排類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102205,Fr Steak USDA Choice,鮮切牛排類USDA Choice
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102206,Fr Steak USDA Prime,鮮切牛排類USDA Prime
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102207,Material Fresh Beef,原料鮮部位牛肉
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102208,Fresh Beef Steak CAB,鮮切黑毛牛牛排類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102209,Fr Beef Steak Wagyu,鮮切和牛牛排類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102210,Fr Steak JP Wagyu,鮮切日本和牛牛排類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102211,Fresh Slice Beef,鮮牛肉切片類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102212,Fr Slice Beef Choice,鮮牛肉切片類USDA Choice
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102213,Fr Slice Beef Prime,鮮牛肉切片類USDA Prime
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102214,Fresh Slice Beef CAB,鮮黑毛牛牛肉切片類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102215,Fr Slice Beef Wagyu,鮮和牛牛肉切片類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102216,Fr Slice Beef JP Wag,鮮日本和牛牛肉切片類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102217,Mat Fresh Wagyu Beef,原料鮮部位和牛肉
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102218,Fresh Oxtail,鮮切牛尾骨
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102219,Fresh Ground Beef,鮮牛肉餡
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102220,Fr Grnd Beef Choice,鮮牛肉餡USDA Choice
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102221,Fr Ground Beef Wagyu,鮮和牛牛肉餡
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102222,Fresh marinate Beef,鮮腌製牛肉
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102223,Fresh Beef Organs,鮮牛肉臟類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102224,Frozen Oxtail,凍牛尾骨
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102225,Frozen Ground Beef,凍牛肉餡
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102226,Frozen Slice Beef,凍牛肉切片類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102227,Frz Slce Beef Choice,凍牛肉切片類USDA Choice
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102228,Frz Slice Beef Prime,凍牛肉切片類USDA Prime
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102229,Frz Slice Beef CAB,凍黑毛牛牛肉切片類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102230,Frz Slice Beef Wagyu,凍和牛牛肉切片類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102231,Frozen Boneless Beef,凍切割牛肉類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102232,FrozenBone in Beef,凍切牛帶骨牛肉類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102233,Frozen Beef Bone,凍切牛骨類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102234,Frozen beef Organs,凍牛肉臟類
+5,Meat,肉类,肉類,5.3,Beef,牛肉,牛肉,22,Beef,牛肉類,20102235,Material Frozen Beef,原料冻部位牛肉
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102301,Fresh Whole Chicken,鮮整鷄類
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102302,Fr Bnless CHKN meat,鮮鷄肉
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102303,Fr Bone in CHKN part,鮮帶骨雞肉
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102304,Fresh Chicken Organs,鮮雞内臟
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102305,Fr Organic Chicken,鮮有機整雞
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102306,Fr Org Boneless CHKN,鮮有機鷄肉
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102307,Fr Org Bone in CHKN,鮮有機帶骨鷄肉
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102308,Frozen Whole Chicken,凍整鷄類
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102309,Frz Organic Chicken,凍有機鷄類
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102310,Frz Bnless CHKN meat,凍鷄肉
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102311,Frz Bone in CHKN pt,凍帶骨雞肉
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102312,Frz Chicken Organs,凍雞内臟
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102313,Fresh Whole Duck,鮮整鴨類
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102314,Fr Boneless Duck,鮮鴨肉
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102315,Fr Bone in Duck part,鮮帶骨鴨肉
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102316,Fr Duck Cuts&Organs,鮮鴨内臟
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102317,Frozen Whole Duck,凍整鴨類
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102318,Frz Boneless Duck ,凍鴨肉
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102319,Frz Bonein Duck part,凍帶骨鴨肉
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102320,Frz Duck Cuts&Organ,凍鴨内臟
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102321,Fresh Other Poultry,鮮其他家禽類
+5,Meat,肉类,肉類,5.4,Poultry,家禽,家禽,23,Poultry,家禽類,20102322,Frozen Other Poultry,凍其他家禽類
+5,Meat,肉类,肉類,5.5,Lamb,羊肉,羊肉,24,lamb,羊肉類,20102401,Fresh lamb,鮮羊肉類
+5,Meat,肉类,肉類,5.5,Lamb,羊肉,羊肉,24,lamb,羊肉類,20102402,frozen lamb,凍羊肉類
+5,Meat,肉类,肉類,5.5,Lamb,羊肉,羊肉,24,lamb,羊肉類,20102403,Fresh Slice lamb,鮮切羊肉
+5,Meat,肉类,肉類,5.5,Lamb,羊肉,羊肉,24,lamb,羊肉類,20102404,Frozen slice lamb,凍切羊肉
+5,Meat,肉类,肉類,5.5,Lamb,羊肉,羊肉,24,lamb,羊肉類,20102405,Goat,草羊類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,26,Hot Pot,火鍋類,20102601,Frz Hotpot Slc Pork,凍火鍋豬肉類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,26,Hot Pot,火鍋類,20102602,Frz Hotpot Slc Beef,凍火鍋牛肉類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,26,Hot Pot,火鍋類,20102603,Frz Hotpot Slc lamb,凍火鍋羊肉類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,21,Pork,豬肉類,20102106,Fresh Slice Pork ,鮮豬肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,21,Pork,豬肉類,20102115,Fr Slice Black Pork,黑豚鮮豬肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,21,Pork,豬肉類,20102121,Frz Slice Black Pork,黑豚凍豬肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,21,Pork,豬肉類,20102128,Frozen slice Pork ,凍豬肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102211,Fresh Slice Beef,鮮牛肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102212,Fr Slice Beef Choice,鮮牛肉切片類USDA Choice
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102213,Fr Slice Beef Prime,鮮牛肉切片類USDA Prime
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102214,Fresh Slice Beef CAB,鮮黑毛牛牛肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102215,Fr Slice Beef Wagyu,鮮和牛牛肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102216,Fr Slice Beef JP Wag,鮮日本和牛牛肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102226,Frozen Slice Beef,凍牛肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102227,Frz Slce Beef Choice,凍牛肉切片類USDA Choice
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102228,Frz Slice Beef Prime,凍牛肉切片類USDA Prime
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102229,Frz Slice Beef CAB,凍黑毛牛牛肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102230,Frz Slice Beef Wagyu,凍和牛牛肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,24,lamb,羊肉類,20102403,Fresh Slice lamb,鮮切羊肉
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,24,lamb,羊肉類,20102404,Frozen slice lamb,凍切羊肉
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102216,Fr Slice Beef JP Wag,鮮日本和牛牛肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102226,Frozen Slice Beef,凍牛肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102227,Frz Slce Beef Choice,凍牛肉切片類USDA Choice
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102228,Frz Slice Beef Prime,凍牛肉切片類USDA Prime
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102229,Frz Slice Beef CAB,凍黑毛牛牛肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,22,Beef,牛肉類,20102230,Frz Slice Beef Wagyu,凍和牛牛肉切片類
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,24,lamb,羊肉類,20102403,Fresh Slice lamb,鮮切羊肉
+5,Meat,肉类,肉類,5.6,Sliced Meat,切片肉,切片肉,24,lamb,羊肉類,20102404,Frozen slice lamb,凍切羊肉
+5,Meat,肉类,肉類,5.7,Ready to Cook,预制肉品,預製肉品,29,Ready to Cook,肉類預製菜（生）,20102901,Chilled Deep Fried ,冷藏製炸物類
+5,Meat,肉类,肉類,5.7,Ready to Cook,预制肉品,預製肉品,29,Ready to Cook,肉類預製菜（生）,20102902,Chilled Dish Meat,冷藏肉類菜餚類
+5,Meat,肉类,肉類,5.7,Ready to Cook,预制肉品,預製肉品,29,Ready to Cook,肉類預製菜（生）,20102903,Frozen Deep Fried ,凍預製炸物類
+5,Meat,肉类,肉類,5.7,Ready to Cook,预制肉品,預製肉品,29,Ready to Cook,肉類預製菜（生）,20102904,Frozen Dish Meat,凍肉類預製菜餚類
+5,Meat,肉类,肉類,5.8,Others,其他,其他,25,Other Meat,其他肉類,20102523,Fresh Other Meat,鮮其他肉類
+5,Meat,肉类,肉類,5.8,Others,其他,其他,25,Other Meat,其他肉類,20102524,Frozen Other Meat,凍其他肉類
+6,Seafood,海鲜,海鮮,6.1,XXXXX,预留位,預留位,,,,,,
+6,Seafood,海鲜,海鮮,6.2,Live Seafood,鲜活海鲜,鮮活海鮮,21,Live Seafood,活鮮類,40102101,Fresh Water Fish,淡水魚
+6,Seafood,海鲜,海鮮,6.2,Live Seafood,鲜活海鲜,鮮活海鮮,21,Live Seafood,活鮮類,40102102,Salt Water Fish,海水魚
+6,Seafood,海鲜,海鮮,6.2,Live Seafood,鲜活海鲜,鮮活海鮮,21,Live Seafood,活鮮類,40102103,Live Shrimp,活蝦類
+6,Seafood,海鲜,海鮮,6.2,Live Seafood,鲜活海鲜,鮮活海鮮,21,Live Seafood,活鮮類,40102104,Live Crab,活蟹類
+6,Seafood,海鲜,海鮮,6.2,Live Seafood,鲜活海鲜,鮮活海鮮,21,Live Seafood,活鮮類,40102105,Live Shellfish,活貝類
+6,Seafood,海鲜,海鮮,6.2,Live Seafood,鲜活海鲜,鮮活海鮮,21,Live Seafood,活鮮類,40102106,Other live seafood,其他活鮮類
+6,Seafood,海鲜,海鮮,6.2,Live Seafood,鲜活海鲜,鮮活海鮮,21,Live Seafood,活鮮類,40102199,Seafood dept. key,0
+6,Seafood,海鲜,海鮮,6.3,Fresh Seafood,冰鲜水产,冰鮮水產,22,Fresh Seafood,冰鮮類,40102201,Fresh Fish,冰鮮魚類
+6,Seafood,海鲜,海鮮,6.3,Fresh Seafood,冰鲜水产,冰鮮水產,22,Fresh Seafood,冰鮮類,40102202,Fresh Shrimp,冰鮮蝦類
+6,Seafood,海鲜,海鮮,6.3,Fresh Seafood,冰鲜水产,冰鮮水產,22,Fresh Seafood,冰鮮類,40102203,Fresh Shellfish,冰鮮類貝
+6,Seafood,海鲜,海鮮,6.3,Fresh Seafood,冰鲜水产,冰鮮水產,22,Fresh Seafood,冰鮮類,40102204,Other Fresh Seafood,其他冰鮮類
+6,Seafood,海鲜,海鮮,6.3,Fresh Seafood,冰鲜水产,冰鮮水產,22,Fresh Seafood,冰鮮類,40102205,Processed Fresh Fish,加工冰鮮魚
+6,Seafood,海鲜,海鮮,6.3,Fresh Seafood,冰鲜水产,冰鮮水產,22,Fresh Seafood,冰鮮類,40102206,Proc Fresh Shellfish,加工冰鮮貝類
+6,Seafood,海鲜,海鮮,6.3,Fresh Seafood,冰鲜水产,冰鮮水產,22,Fresh Seafood,冰鮮類,40102207,Proc Fresh Shrimp,加工冰鮮蝦類
+6,Seafood,海鲜,海鮮,6.3,Fresh Seafood,冰鲜水产,冰鮮水產,22,Fresh Seafood,冰鮮類,40102208,Oth Processed Fresh ,其他加工冰鮮類
+6,Seafood,海鲜,海鮮,6.4,Frozen Seafood,冷冻海鲜,冷凍海鮮,24,Frozen Seafood,冷凍海產,40102401,Frozen Whole Fish,凍整魚類
+6,Seafood,海鲜,海鮮,6.4,Frozen Seafood,冷冻海鲜,冷凍海鮮,24,Frozen Seafood,冷凍海產,40102402,Frozen Fish Fillet,凍魚扒類
+6,Seafood,海鲜,海鮮,6.4,Frozen Seafood,冷冻海鲜,冷凍海鮮,24,Frozen Seafood,冷凍海產,40102403,Frz Shrimp Head on,凍帶頭蝦
+6,Seafood,海鲜,海鮮,6.4,Frozen Seafood,冷冻海鲜,冷凍海鮮,24,Frozen Seafood,冷凍海產,40102404,Frz Shrimp WO Head,凍去頭蝦
+6,Seafood,海鲜,海鮮,6.4,Frozen Seafood,冷冻海鲜,冷凍海鮮,24,Frozen Seafood,冷凍海產,40102405,Frozen Shellfish,凍貝類
+6,Seafood,海鲜,海鮮,6.4,Frozen Seafood,冷冻海鲜,冷凍海鮮,24,Frozen Seafood,冷凍海產,40102406,Crab Meat,假蟹肉
+6,Seafood,海鲜,海鮮,6.4,Frozen Seafood,冷冻海鲜,冷凍海鮮,24,Frozen Seafood,冷凍海產,40102407,Frozen Crab,凍蟹類
+6,Seafood,海鲜,海鮮,6.4,Frozen Seafood,冷冻海鲜,冷凍海鮮,24,Frozen Seafood,冷凍海產,40102409,Other Frozen seafood,其他凍海產
+6,Seafood,海鲜,海鮮,6.5,Sushi/Sashimi,寿司/生鱼片,壽司/生魚片,23,Sushi,壽司類,40102301,Sushi,壽司類
+6,Seafood,海鲜,海鮮,6.5,Sushi/Sashimi,寿司/生鱼片,壽司/生魚片,23,Sushi,壽司類,40102302,Sashimi,魚生類
+6,Seafood,海鲜,海鮮,6.5,Sushi/Sashimi,寿司/生鱼片,壽司/生魚片,23,Sushi,壽司類,40102303,Sushi Roll,壽司卷
+6,Seafood,海鲜,海鮮,6.5,Sushi/Sashimi,寿司/生鱼片,壽司/生魚片,23,Sushi,壽司類,40102304,Poke Bowl,鱼生饭
+6,Seafood,海鲜,海鮮,6.5,Sushi/Sashimi,寿司/生鱼片,壽司/生魚片,23,Sushi,壽司類,40102305,Combo Box,壽司拼盤
+6,Seafood,海鲜,海鮮,6.5,Sushi/Sashimi,寿司/生鱼片,壽司/生魚片,23,Sushi,壽司類,40102306,Mat. Whole Salmon,原料鲜整條三文魚
+6,Seafood,海鲜,海鮮,6.6,Ready to Cook,预制海鲜,預製海鮮,25,Frz Hotpot Sfd ball,冷凍火鍋魚丸,40102501,Frz Hotpot Sfd ball,冷凍火鍋魚丸
+6,Seafood,海鲜,海鮮,6.6,Ready to Cook,预制海鲜,預製海鮮,26,Seafood Ready toCook,海鮮預製菜,40102601,Seafood RTC Chilled ,冷藏海鮮預製菜
+6,Seafood,海鲜,海鮮,6.6,Ready to Cook,预制海鲜,預製海鮮,26,Seafood Ready toCook,海鮮預製菜,40102602,Seafood RTC Frozen,冷凍海鮮預製菜
+6,Seafood,海鲜,海鮮,6.7,Dry Seafood,干海产,乾海產,27,Dry Seafood,乾海產,40102701,Dry Fish,乾魚類
+6,Seafood,海鲜,海鮮,6.7,Dry Seafood,干海产,乾海產,27,Dry Seafood,乾海產,40102702,Dry Shrimp,乾蝦類
+6,Seafood,海鲜,海鮮,6.7,Dry Seafood,干海产,乾海產,27,Dry Seafood,乾海產,40102703,Dry Shellfish,乾貝類
+6,Seafood,海鲜,海鮮,6.7,Dry Seafood,干海产,乾海產,27,Dry Seafood,乾海產,40102704,Dry squid,乾軟足類
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,XXXXX,预留位,預留位,,,,,,
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105501,Soy Milk,豆奶
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105502,Almond Milk,杏仁奶
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105503,Oat Milk,燕麥奶
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105504,Rice Milk,米漿飲品
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105505,Coconut Milk,椰子奶
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105511,Yogurt Drink,常溫乳酸飲料
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105521,Oth PltMilkYogurtDrk,其他植物蛋白/乳酸飲料
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,21,Milk,牛奶,10302101,Milk Whole 3.5%,冷藏牛奶 全脂3.5%
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,21,Milk,牛奶,10302102,Milk Non-Fat <0.5%,冷藏牛奶 脫脂<0.5%
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,21,Milk,牛奶,10302103,Milk Low Fat 1%,冷藏牛奶 低脂 1%
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,21,Milk,牛奶,10302104,Milk 2%,冷藏牛奶 2%
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,21,Milk,牛奶,10302105,Half&Half,冷藏半奶半奶油
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,21,Milk,牛奶,10302106,Heavy Cream,冷藏鮮奶油
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,21,Milk,牛奶,10302107,Other Milk Products,其他冷藏動物奶
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,22,Cheese & Butter,起司/牛油,10302201,Cheese,起司
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,22,Cheese & Butter,起司/牛油,10302202,Butter,牛油/奶油
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,22,Cheese & Butter,起司/牛油,10302203,Margarine,植物奶油
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,22,Cheese & Butter,起司/牛油,10302204,Other fat/cheese,其他起司以及動物油
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,23,Yogurt,優酪乳,10302301,Yogurt Mainstrm reg,優酪乳 主流普通
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,23,Yogurt,優酪乳,10302302,Yogurt Mnstrm Greek,優酪乳 希臘式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,23,Yogurt,優酪乳,10302303,Yogurt Chinese Style,優酪乳 中式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,23,Yogurt,優酪乳,10302304,Yogurt Drink Chill,冷藏養樂多
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,23,Yogurt,優酪乳,10302305,Other Yogurt/drink,其他冷藏乳酸飲料
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,24,Chilled Dairy Drink,冷藏乳制飲品,10302401,Dairy Drink Mainstrm,乳制飲品 主流
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,24,Chilled Dairy Drink,冷藏乳制飲品,10302402,Dairy Drink China,乳制飲品 中國
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,24,Chilled Dairy Drink,冷藏乳制飲品,10302403,Dairy Drink Taiwan,乳制飲品 台灣
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,24,Chilled Dairy Drink,冷藏乳制飲品,10302404,Dairy Drink Korea,乳制飲品 韓國
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,24,Chilled Dairy Drink,冷藏乳制飲品,10302405,Dairy Drink Japan,乳制飲品 日本
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,24,Chilled Dairy Drink,冷藏乳制飲品,10302406,Other Dairy Drink,其它乳制飲品
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,25,Chilled Plant Milk,冷藏植物奶,10302501,Chilled Soy Milk MS,冷藏豆漿豆奶 主流
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,25,Chilled Plant Milk,冷藏植物奶,10302502,Chilled Soy Milk OT,冷藏豆漿豆奶 其他
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,25,Chilled Plant Milk,冷藏植物奶,10302503,Chilled Almond Milk,冷藏杏仁奶
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,25,Chilled Plant Milk,冷藏植物奶,10302504,Chilled Oat Milk,冷藏燕麥奶
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,25,Chilled Plant Milk,冷藏植物奶,10302505,Other Chill plt milk,冷藏其他植物奶
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,27,Chilled Coffee,冷藏咖啡,10302703,Chilled Coffee Mate,冷藏咖啡伴侶
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,51,Egg Regular,普通鷄蛋,10305101,Egg Regular,普通鷄蛋
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,52,Egg Ranch Free,走地鷄鷄蛋,10305201,Egg Ranch Free,走地鷄鷄蛋
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,53,Processed Egg,加工蛋類,10305301,Salted Egg,鹹鴨蛋
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,53,Processed Egg,加工蛋類,10305302,Preserved Egg,皮蛋
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,54,Organic Egg,有機蛋類,10305401,Organic Egg,有機蛋類
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,55,Other Egg,其他蛋類,10305501,Other Egg,其他蛋類
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.2,Dairy/Plant Milk/Eggs,乳制品/植物奶/蛋类,乳製品/植物奶/蛋類,56,Cooked marinated Eeg,卤蛋类,10305601,Cooked marinated Eeg,卤蛋类
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,21,Dumpling &Popsticker,水餃鍋貼,10402101,Frz Meat Dumpling CH,冷凍肉水餃 中式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,21,Dumpling &Popsticker,水餃鍋貼,10402102,Frz Meat Dumpling JP,冷凍肉水餃 日式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,21,Dumpling &Popsticker,水餃鍋貼,10402103,Frz Meat Dumpling KO,冷凍肉水餃 韓式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,21,Dumpling &Popsticker,水餃鍋貼,10402104,Frz Sfd Dumpling CH,冷凍海鮮餃 中式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,21,Dumpling &Popsticker,水餃鍋貼,10402105,Frz Sfd Dumpling JP,冷凍海鮮餃 日式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,21,Dumpling &Popsticker,水餃鍋貼,10402106,Frz Sfd Dumpling KO,冷凍海鮮餃 韓式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,21,Dumpling &Popsticker,水餃鍋貼,10402107,Frz Pot Sticker CH,冷凍鍋貼 中式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,21,Dumpling &Popsticker,水餃鍋貼,10402108,Frz Pot Sticker JP,冷凍鍋貼 日式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,21,Dumpling &Popsticker,水餃鍋貼,10402109,Frz Pot Sticker KO,冷凍鍋貼 韓式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,21,Dumpling &Popsticker,水餃鍋貼,10402110,Frozen Vege Dumpling,冷凍素水餃 韓式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,21,Dumpling &Popsticker,水餃鍋貼,10402111,Other Frz Dumplings,其他冷凍水餃鍋貼
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,23,Frozen Dim Sum,冷凍包點,10402304,Frz Meat Soup Dpl CH,冷凍含肉小籠包 中式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,23,Frozen Dim Sum,冷凍包點,10402305,Frz Meat Soup Dpl KO,冷凍含肉小籠包 韓式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.3,Dumplings,水饺/锅贴/馄饨/小笼包,水餃/鍋貼/餛飩/小籠包,23,Frozen Dim Sum,冷凍包點,10402306,Frz Veg Soup Dpl CH,冷凍素小籠包
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,31,Chilled Noodle&Bun,冷藏麵點,10303106,Chilled Bun,冷藏饅頭包點
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,31,Chilled Noodle&Bun,冷藏麵點,10303107,Chill Rdsh/Taro Cake,冷藏蘿蔔糕芋頭糕
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,31,Chilled Noodle&Bun,冷藏麵點,10303111,Chilled Pancake,冷藏燒餅捲餅
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,23,Frozen Dim Sum,冷凍包點,10402301,Frozen Meat Bun,冷凍肉包
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,23,Frozen Dim Sum,冷凍包點,10402302,Frozen Vege Bun,冷凍素包
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,23,Frozen Dim Sum,冷凍包點,10402303,Frozen Dessert Bun,冷凍甜包
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,23,Frozen Dim Sum,冷凍包點,10402307,Frz Plain Bun Taiwan,冷凍饅頭 台灣
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,23,Frozen Dim Sum,冷凍包點,10402308,Frz Plain Bun CH,冷凍饅頭 中國
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,23,Frozen Dim Sum,冷凍包點,10402309,Frozen Shumai,冷凍燒賣
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,23,Frozen Dim Sum,冷凍包點,10402310,Frozen Spring Roll,冷凍春捲
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,23,Frozen Dim Sum,冷凍包點,10402311,Other Frz Dim Sum ,其他冷凍包點
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,23,Frozen Dim Sum,冷凍包點,10402312,Frz DimSum Shrmp Dpg,冷凍蝦餃
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,23,Frozen Dim Sum,冷凍包點,10402316,Frozen Fried Dough,冷凍油條
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,23,Frozen Dim Sum,冷凍包點,10402317,Frz Radish/Taro Cake,冷凍蘿蔔芋頭地瓜糕
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,24,Frozen Meal,冷凍餐食,10402408,Frozen Pancake,冷凍手抓餅
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,24,Frozen Meal,冷凍餐食,10402409,Frz Pancake Savory,冷凍餡餅 鹹
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.4,Buns/Pancakes/Dim Sum,包子/馒头/饼类/点心,包子/饅頭/餅類/點心,24,Frozen Meal,冷凍餐食,10402410,Frz Pancake Sweet,冷凍餡餅 甜
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.5,XXXXX,预留位,預留位,,,,,,
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.6,XXXXX,预留位,預留位,,,,,,
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.7,Noodles/Rice Cakes/Konjac,面/年糕/蒟蒻/魔芋,麵/年糕/蒟蒻/魔芋,31,Chilled Noodle&Bun,冷藏麵點,10303101,Chill Rice Noodle,冷藏米粉粿條河粉 無料包
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.7,Noodles/Rice Cakes/Konjac,面/年糕/蒟蒻/魔芋,麵/年糕/蒟蒻/魔芋,31,Chilled Noodle&Bun,冷藏麵點,10303102,Chill Rice Ndl W/SN,冷藏米粉粿條河粉 含料包
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.7,Noodles/Rice Cakes/Konjac,面/年糕/蒟蒻/魔芋,麵/年糕/蒟蒻/魔芋,31,Chilled Noodle&Bun,冷藏麵點,10303103,Chill Wheat Noodle,冷藏麵條烏冬 無料包
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.7,Noodles/Rice Cakes/Konjac,面/年糕/蒟蒻/魔芋,麵/年糕/蒟蒻/魔芋,31,Chilled Noodle&Bun,冷藏麵點,10303104,Chill Wheat NDL W/SN,冷藏麵條烏冬 含料包
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.7,Noodles/Rice Cakes/Konjac,面/年糕/蒟蒻/魔芋,麵/年糕/蒟蒻/魔芋,31,Chilled Noodle&Bun,冷藏麵點,10303105,Chilled Rice Cake,冷藏年糕
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.7,Noodles/Rice Cakes/Konjac,面/年糕/蒟蒻/魔芋,麵/年糕/蒟蒻/魔芋,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303204,Chilled Konjac,冷藏魔芋
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.7,Noodles/Rice Cakes/Konjac,面/年糕/蒟蒻/魔芋,麵/年糕/蒟蒻/魔芋,24,Frozen Meal,冷凍餐食,10402406,Frz Udon Noodle pln,冷凍烏冬麵 無料包
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.7,Noodles/Rice Cakes/Konjac,面/年糕/蒟蒻/魔芋,麵/年糕/蒟蒻/魔芋,24,Frozen Meal,冷凍餐食,10402407,Frz Noodle Plain,冷凍麵條 無料包
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.7,Noodles/Rice Cakes/Konjac,面/年糕/蒟蒻/魔芋,麵/年糕/蒟蒻/魔芋,24,Frozen Meal,冷凍餐食,10402411,Frz Rice Cake Plain,冷凍年糕
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.8,Wrappers/Fillings,面皮/馅料,麵皮/餡料,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303201,Chill Dumpling Wrppr,冷藏餃子皮
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.8,Wrappers/Fillings,面皮/馅料,麵皮/餡料,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303202,Chill Wonton Wrapper,冷藏雲吞皮
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.8,Wrappers/Fillings,面皮/馅料,麵皮/餡料,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303203,Chill Spg Roll Wrppr,冷藏春捲皮
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.8,Wrappers/Fillings,面皮/馅料,麵皮/餡料,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303205,Chilled Fillings,冷藏餡料
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,34,Clr Sausages Cooked ,冷藏即食香腸,10303401,Clr Fish ssg Cooked,冷藏即食魚肉腸
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,34,Clr Sausages Cooked,冷藏即食香腸,10303402,Clr Meat ssg Cooked,冷藏即食腸火腿腸
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,35,"Sausage,Bacon&Ham",香腸/培根/火腿,10303501,Sausage,香腸
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,35,"Sausage,Bacon&Ham",香腸/培根/火腿,10303502,Bacon,培根
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,35,"Sausage,Bacon&Ham",香腸/培根/火腿,10303503,Ham,火腿
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,36,Chil Hot Pot Ball,冷藏火鍋丸子,10303601,Chil Hotpot meatball,冷藏火鍋肉丸類
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,36,Chil Hot Pot Ball,冷藏火鍋丸子,10303602,Chil Hotpot Sfd ball,冷藏火鍋魚丸類
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,37,Salted Meat,臘肉,10303701,Dry preserved meat,中式臘肉/臘鴨
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,37,Salted Meat,臘肉,10303702,Dry Chinese sausage,中式臘腸
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,27,Frz Hot Pot Ball,冷凍丸子,10402701,Frz Hotpot meat ball,冷凍火鍋肉丸類
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,27,Frz Hot Pot Ball,冷凍丸子,10402702,Frz Hotpot Sfd ball,冷凍火鍋魚丸類
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,28,Frz SausageBacon&Ham,冷凍香腸/培根/火腿,10402801,Frz Sausage,冷凍香腸
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,28,Frz SausageBacon&Ham,冷凍香腸/培根/火腿,10402802,Frz Bacon,冷凍培根
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.9,Meat/Seafood/Meat Balls,肉/海鲜/丸子,肉/海鮮/丸子,28,Frz SausageBacon&Ham,冷凍香腸/培根/火腿,10402803,Frz Ham,冷凍火腿
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,33,Fresh & Dried Tofu,豆腐/豆干,10303301,Chilled Tofu,冷藏豆腐
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,33,Fresh & Dried Tofu,豆腐/豆干,10303302,Chilled Dean Curd,冷藏豆乾
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,39,Chilld Pickle&Kimchi,冷藏酱菜/泡菜,10303901,Cooler Kimchi,冷藏泡菜韓式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,39,Chilld Pickle&Kimchi,冷藏酱菜/泡菜,10303902,Cooler Pickle Ch,冷藏泡菜中式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,39,Chilld Pickle&Kimchi,冷藏酱菜/泡菜,10303903,Pickled mustard/Oth,冷藏榨菜/醃菜
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,25,Frozen Vege & Fruit,冷凍蔬果,10402501,Frozen Corn,冷凍玉米
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,25,Frozen Vege & Fruit,冷凍蔬果,10402502,Frz Edamame Peeled,冷凍毛豆仁
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,25,Frozen Vege & Fruit,冷凍蔬果,10402503,Frozen Edamame W/Pod,冷凍毛豆夾
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,25,Frozen Vege & Fruit,冷凍蔬果,10402504,Frozen Bamboo,冷凍筍
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,25,Frozen Vege & Fruit,冷凍蔬果,10402505,Frozen Chestnut,冷凍板栗
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,25,Frozen Vege & Fruit,冷凍蔬果,10402506,Frozen Cassava,冷凍木薯
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,25,Frozen Vege & Fruit,冷凍蔬果,10402507,Frozen Nato,冷凍納豆
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,25,Frozen Vege & Fruit,冷凍蔬果,10402508,Other Frz Vegetables,其他冷凍蔬菜
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,25,Frozen Vege & Fruit,冷凍蔬果,10402509,Frozen Durian,冷凍榴蓮
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,25,Frozen Vege & Fruit,冷凍蔬果,10402510,Other Frz Fruit,其他冷凍水果 除榴蓮
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,26,Frozen Soy Product,冷凍豆製品,10402601,Frz Fried Soy Prod,冷凍油炸豆製品
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,26,Frozen Soy Product,冷凍豆製品,10402602,Frz Non-Fried Soy Pd,冷凍非油炸豆製品
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,26,Frozen Soy Product,冷凍豆製品,10402603,Frz Plant Based Meat,冷凍素肉
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.1,Vegetables/Fruits/Soy-based,蔬果/豆制品,蔬果/豆製品,26,Frozen Soy Product,冷凍豆製品,10402604,Oth Frz Soy Product,其他冷凍豆製品
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.11,XXXXX,预留位,預留位,,,,,,
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.12,Instant Meals,速食餐,速食餐,41,Chilled Meal,冷藏餐食,10304101,Chilled Cooked Soup,冷藏湯類
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.12,Instant Meals,速食餐,速食餐,41,Chilled Meal,冷藏餐食,10304102,Chilled Cooked Congee,冷藏粥類
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.12,Instant Meals,速食餐,速食餐,41,Chilled Meal,冷藏餐食,10304103,Chilled Rice Meal,冷藏飯食
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.12,Instant Meals,速食餐,速食餐,23,Frozen Dim Sum,冷凍包點,10402313,Frz Rice Ball/Roll,冷凍飯糰
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.12,Instant Meals,速食餐,速食餐,23,Frozen Dim Sum,冷凍包點,10402314,Frz Rice Dplg Savory,冷凍粽子 咸
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.12,Instant Meals,速食餐,速食餐,23,Frozen Dim Sum,冷凍包點,10402315,Frz Rice Dplg Sweet,冷凍粽子 甜
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.12,Instant Meals,速食餐,速食餐,24,Frozen Meal,冷凍餐食,10402401,Frozen Rice Meal,冷凍飯食
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.12,Instant Meals,速食餐,速食餐,24,Frozen Meal,冷凍餐食,10402402,Frozen Noodle Meal,冷凍麵食
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.12,Instant Meals,速食餐,速食餐,24,Frozen Meal,冷凍餐食,10402403,Frozen Cooked Congee,冷凍粥 熟
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.12,Instant Meals,速食餐,速食餐,24,Frozen Meal,冷凍餐食,10402404,Frozen Cooked Dish,冷凍熟菜
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.12,Instant Meals,速食餐,速食餐,24,Frozen Meal,冷凍餐食,10402405,Frozen Cooked Soup,冷凍湯
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.12,Instant Meals,速食餐,速食餐,24,Frozen Meal,冷凍餐食,10402412,Frz Meal Mainstream,冷凍西式餐食
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.13,Rice Balls/Desserts,汤圆/甜点,湯圓/甜點,22,Rice Ball,湯圓,10402201,Frz Rice Ball Sesame,冷凍湯圓 芝麻
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.13,Rice Balls/Desserts,汤圆/甜点,湯圓/甜點,22,Rice Ball,湯圓,10402202,Frz Rice Ball Peanut,冷凍湯圓 花生
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.13,Rice Balls/Desserts,汤圆/甜点,湯圓/甜點,22,Rice Ball,湯圓,10402203,Frz Rice Ball RedBn,冷凍湯圓 紅豆
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.13,Rice Balls/Desserts,汤圆/甜点,湯圓/甜點,22,Rice Ball,湯圓,10402204,Frz Rice Ball Mixed,冷凍湯圓 混合
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.13,Rice Balls/Desserts,汤圆/甜点,湯圓/甜點,22,Rice Ball,湯圓,10402205,Frz Rice Ball Other,冷凍湯圓 其他
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.13,Rice Balls/Desserts,汤圆/甜点,湯圓/甜點,31,Chilled Noodle&Bun,冷藏麵點,10303121,Chilled Dessert/Cake,冷藏甜點/蛋糕
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.13,Rice Balls/Desserts,汤圆/甜点,湯圓/甜點,32,Frozen Dessert,冷凍冰品,10403201,Frz Boba/Topioca,冷凍珍珠粉圓
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.13,Rice Balls/Desserts,汤圆/甜点,湯圓/甜點,32,Frozen Dessert,冷凍冰品,10403202,Frz Swt Rice cake,冷凍八寶飯發糕
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.13,Rice Balls/Desserts,汤圆/甜点,湯圓/甜點,32,Frozen Dessert,冷凍冰品,10403203,Frozen Dessert Soup,冷凍甜湯
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.13,Rice Balls/Desserts,汤圆/甜点,湯圓/甜點,32,Frozen Dessert,冷凍冰品,10403204,Frz Pastry Mainstrm,冷凍糕點西餅
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.13,Rice Balls/Desserts,汤圆/甜点,湯圓/甜點,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303206,Chilled Jello/Jelly,冷藏果凍愛玉
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.13,Rice Balls/Desserts,汤圆/甜点,湯圓/甜點,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303207,Fermanted Rice Bev,冷藏酒釀
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.13,Rice Balls/Desserts,汤圆/甜点,湯圓/甜點,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303208,Chilled Tofu Pudding,冷藏豆花
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.14,Ice Cream/Popsicles,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403101,Ice Cream Tub Mnstrm,冰淇淋 主流桶裝
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.14,Ice Cream/Popsicles,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403102,Ice Cream Bar Mnstrm,冰棒 主流
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.14,Ice Cream/Popsicles,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403103,Gelato,冰淇淋 主流意式
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.14,Ice Cream/Popsicles,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403104,Frozen Yogurt,酸奶冰淇淋
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.14,Ice Cream/Popsicles,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403105,Ice Cream China,冰淇淋 中國
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.14,Ice Cream/Popsicles,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403106,Ice Cream Taiwan,冰淇淋 台灣
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.14,Ice Cream/Popsicles,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403107,Ice Cream Japan,冰淇淋 日本
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.14,Ice Cream/Popsicles,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403108,Ice Cream Korea,冰淇淋 韓國
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.14,Ice Cream/Popsicles,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403109,Ice Cream Se Asia,冰淇淋 東南亞
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.14,Ice Cream/Popsicles,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403110,Other Ice Cream,其他冰淇淋
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.14,Ice Cream/Popsicles,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403111,Package Ice,包裝冰塊
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.14,Ice Cream/Popsicles,冰淇淋/冰棒,冰淇淋/冰棒,32,Frozen Dessert,冷凍冰品,10403205,Frozen Yogurt Drink,冷凍養樂多
+7,Chilled/Frozen,冷藏冷冻,冷藏冷凍,7.14,Ice Cream/Popsicles,冰淇淋/冰棒,冰淇淋/冰棒,32,Frozen Dessert,冷凍冰品,10403206,Other Frozen Dessert,其他冷凍冰品飲品
+8,Instant,速食,速食,8.1,XXXXX,预留位,預留位,,,,,,
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604101,Inst Noodl Bag ChBrd,速食麵袋裝中系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604102,Inst Vmcll Bag ChBrd,速食粉袋裝中系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604111,Inst Noodl Bag KrBrd,速食粉麵袋裝韓系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604112,Inst Noodl Bag JpBrd,速食粉麵袋裝日系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604113,Inst Noodl Bag ThBrd,速食粉麵裝泰系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604114,Inst Noodl Bag FlBrd,速食粉麵裝菲律賓系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604115,Inst Noodl Bag VnBrd,速食粉麵裝越南系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604121,Inst Noodle Bag Oth,速食粉麵袋裝其他
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604131,InstNoodl Bowl ChBrd,速食麵碗裝中系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604132,InstVmcll Bowl ChBrd,速食粉碗裝中系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604141,InstNoodl Bowl KrBrd,速食粉麵碗裝韓系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604142,InstNoodl Bowl JpBrd,速食粉麵碗裝日系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604143,InstNoodl Bowl ThBrd,速食粉麵碗裝泰系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604144,InstNoodl Bowl FlBrd,速食粉麵碗裝菲律賓系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604145,InstNoodl Bowl VnBrd,速食粉麵碗裝越南系
+8,Instant,速食,速食,8.2,Instant Noodles,泡面/速食面,泡麵/速食麵,41,Instant Noodle,泡麵,10604151,Inst Noodle Bowl Oth,速食粉麵碗裝其他
+8,Instant,速食,速食,8.3,XXXXX,预留位,預留位,,,,,,
+8,Instant,速食,速食,8.4,XXXXX,预留位,預留位,,,,,,
+8,Instant,速食,速食,8.5,Instant Meals,即食餐,即食餐,42,Instant Meal,即食餐點,10604201,Instant Rice,自熱米飯
+8,Instant,速食,速食,8.5,Instant Meals,即食餐,即食餐,42,Instant Meal,即食餐點,10604202,Instant Hot Pot,自熱火鍋
+8,Instant,速食,速食,8.5,Instant Meals,即食餐,即食餐,42,Instant Meal,即食餐點,10604203,Instant Congee/Soup,即食粥/湯
+8,Instant,速食,速食,8.5,Instant Meals,即食餐,即食餐,42,Instant Meal,即食餐點,10604211,Other Instant Meal,其他速食餐點
+9,Snacks,零食,零食,9.1,XXXXX,预留位,預留位,,,,,,
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,21,Cracker,鹹餅乾,10102101,Cracker Mnstr Brand,鹹餅乾主流
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,21,Cracker,鹹餅乾,10102102,Cracker Ch/Tw Brand,鹹餅乾中系台系
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,21,Cracker,鹹餅乾,10102103,Cracker Kr Brand,鹹餅乾韓系
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,21,Cracker,鹹餅乾,10102104,Cracker Jp Brand,鹹餅乾日系
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,21,Cracker,鹹餅乾,10102105,Cracker SE Asian Brd,鹹餅乾東南亞系
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,21,Cracker,鹹餅乾,10102111,Other Cracker Brand,其他鹹餅乾
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,22,Cookie,甜餅乾/曲奇,10102201,Cookie Mnstr Brand,甜餅乾主流
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,22,Cookie,甜餅乾/曲奇,10102209,Cookie Other Brand,甜餅乾其他
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,22,Cookie,甜餅乾/曲奇,10102211,Butter Cookie US Brd,奶油曲奇美系
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,22,Cookie,甜餅乾/曲奇,10102212,Butter Cookie EU Brd,奶油曲奇歐系
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,22,Cookie,甜餅乾/曲奇,10102219,Butter Cookie OthBrd,奶油曲奇其他
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,22,Cookie,甜餅乾/曲奇,10102221,Digestive Biscuit,雜糧/麥消化餅乾
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,22,Cookie,甜餅乾/曲奇,10102222,Tuiles,瓦片餅乾
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,22,Cookie,甜餅乾/曲奇,10102251,ChocCoat CookieStick,巧克力塗層餅乾棒
+9,Snacks,零食,零食,9.2,Cookies/Crackers,饼干,餅乾,22,Cookie,甜餅乾/曲奇,10102261,Other Cookie,其他甜餅乾/曲奇
+9,Snacks,零食,零食,9.3,XXXXX,预留位,預留位,,,,,,
+9,Snacks,零食,零食,9.4,XXXXX,预留位,預留位,,,,,,
+9,Snacks,零食,零食,9.5,Wafers/Egg Rolls,威化/蛋卷,威化/蛋捲,22,Cookie,甜餅乾/曲奇,10102231,Wafer Chinese Brand,威化餅乾中系
+9,Snacks,零食,零食,9.5,Wafers/Egg Rolls,威化/蛋卷,威化/蛋捲,22,Cookie,甜餅乾/曲奇,10102239,Wafer Other Brand,威化餅乾其他
+9,Snacks,零食,零食,9.5,Wafers/Egg Rolls,威化/蛋卷,威化/蛋捲,22,Cookie,甜餅乾/曲奇,10102241,Eggroll Ch Brand,蛋捲中系
+9,Snacks,零食,零食,9.5,Wafers/Egg Rolls,威化/蛋卷,威化/蛋捲,22,Cookie,甜餅乾/曲奇,10102249,Eggroll Other Brand,蛋捲其他
+9,Snacks,零食,零食,9.6,Rice Crackers/Popcorn,米果/爆米花,米果/爆米花,23,Rice Cracker&Popcorn,米果/爆米花,10102301,Rice Cracker ChTwBrd,米果中系台系
+9,Snacks,零食,零食,9.6,Rice Crackers/Popcorn,米果/爆米花,米果/爆米花,23,Rice Cracker&Popcorn,米果/爆米花,10102302,Rice Cracker Kr Brd,米果韓系
+9,Snacks,零食,零食,9.6,Rice Crackers/Popcorn,米果/爆米花,米果/爆米花,23,Rice Cracker&Popcorn,米果/爆米花,10102303,Rice Cracker Jp Brd,米果日系
+9,Snacks,零食,零食,9.6,Rice Crackers/Popcorn,米果/爆米花,米果/爆米花,23,Rice Cracker&Popcorn,米果/爆米花,10102304,Rice Crack SEAsiaBrd,米果東南亞系
+9,Snacks,零食,零食,9.6,Rice Crackers/Popcorn,米果/爆米花,米果/爆米花,23,Rice Cracker&Popcorn,米果/爆米花,10102311,Rice Cracker Oth Brd,米果其他
+9,Snacks,零食,零食,9.6,Rice Crackers/Popcorn,米果/爆米花,米果/爆米花,23,Rice Cracker&Popcorn,米果/爆米花,10102321,Popcorn,爆米花
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,24,Pastry,糕餅點心,10102401,Snack Cake Mnstr Brd,零食蛋糕主流
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,24,Pastry,糕餅點心,10102402,Snack Cake Ch/Tw Brd,零食蛋糕中系台系
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,24,Pastry,糕餅點心,10102403,Snack Cake Jp Brand,零食蛋糕日系
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,24,Pastry,糕餅點心,10102404,Snack Cake Kr Brand,零食蛋糕韓系
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,24,Pastry,糕餅點心,10102411,Snack Cake Oth Brand,零食蛋糕其他
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,24,Pastry,糕餅點心,10102421,Snack Bread MnstrBrd,零食麵包主流
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,24,Pastry,糕餅點心,10102422,Snack Bread ChTw Brd,零食麵包中系台系
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,24,Pastry,糕餅點心,10102423,Snack Bread Jp Brand,零食麵包日系
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,24,Pastry,糕餅點心,10102424,Snack Bread Kr Brand,零食麵包韓系
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,24,Pastry,糕餅點心,10102431,Snack Bread Oth Brd,零食麵包其他
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,43,Brand Bakery SSL,供應商烘培短保,10104301,Toast,吐司
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,43,Brand Bakery SSL,供應商烘培短保,10104302,Roll,餐包
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,43,Brand Bakery SSL,供應商烘培短保,10104303,Tortilla,卷餅
+9,Snacks,零食,零食,9.7,Cakes/Breads,蛋糕/面包,蛋糕/麵包,43,Brand Bakery SSL,供應商烘培短保,10104309,Other Brd Bakery SSL,其他供應商烘培短保
+9,Snacks,零食,零食,9.8,XXXXX,预留位,預留位,,,,,,
+9,Snacks,零食,零食,9.9,Pastries,酥饼/糕点,酥餅/糕點,24,Pastry,糕餅點心,10102441,Fruit Cake,水果酥
+9,Snacks,零食,零食,9.9,Pastries,酥饼/糕点,酥餅/糕點,24,Pastry,糕餅點心,10102442,Red/Mungbean Pastry,紅豆綠豆酥餅/糕
+9,Snacks,零食,零食,9.9,Pastries,酥饼/糕点,酥餅/糕點,24,Pastry,糕餅點心,10102443,Sachima Soft Cake,沙琪瑪
+9,Snacks,零食,零食,9.9,Pastries,酥饼/糕点,酥餅/糕點,24,Pastry,糕餅點心,10102445,Puff Cookie,泡芙
+9,Snacks,零食,零食,9.1,XXXXX,预留位,預留位,,,,,,
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102601,Gummy Mnstr Brand,軟糖主流
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102609,Gummy Other Brand,軟糖其他
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102611,Hard Candy Mnstr Brd,硬糖主流
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102619,Hard Candy Other Brd,硬糖其他
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102621,Gum Mainstream Brand,口香糖主流
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102629,Gum Other Brand,口香糖其他
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102631,Mints Mnstr Brand,薄荷糖主流
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102639,Mints Other Brand,薄荷糖其他
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102641,Candied Nuts,果仁酥糖
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102651,Other Candy,其他糖果
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102652,Bulk Candy,稱重糖果
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,27,Chocolate,巧克力,10102701,Choc Bar Mnstr Brd,大塊巧克力主流
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,27,Chocolate,巧克力,10102711,Choc Bar Other Brd,大塊巧克力其他
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,27,Chocolate,巧克力,10102721,Choc BagBox MnstrBrd,袋/盒裝巧克力主流
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,27,Chocolate,巧克力,10102731,Choc BagBox OtherBrd,袋/盒裝巧克力其他
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,27,Chocolate,巧克力,10102741,Candy Bar Mnstr Brd,巧克力糖果條主流
+9,Snacks,零食,零食,9.11,Candy/Chocolate,糖果/巧克力,糖果/巧克力,27,Chocolate,巧克力,10102751,Candy Bar Other Brd,巧克力糖果條其他
+9,Snacks,零食,零食,9.12,Mochi/Jelly/Pudding,麻糬/果冻/布丁,麻糬/果凍/布丁,24,Pastry,糕餅點心,10102444,Mochi,麻糬
+9,Snacks,零食,零食,9.12,Mochi/Jelly/Pudding,麻糬/果冻/布丁,麻糬/果凍/布丁,25,Jelly,果凍布丁,10102501,Jelly Chinese Brand,果凍布丁中系
+9,Snacks,零食,零食,9.12,Mochi/Jelly/Pudding,麻糬/果冻/布丁,麻糬/果凍/布丁,25,Jelly,果凍布丁,10102502,Jelly Japanese Brand,果凍布丁日系
+9,Snacks,零食,零食,9.12,Mochi/Jelly/Pudding,麻糬/果冻/布丁,麻糬/果凍/布丁,25,Jelly,果凍布丁,10102511,Jelly Other Brand,果凍布丁其他
+9,Snacks,零食,零食,9.12,Mochi/Jelly/Pudding,麻糬/果冻/布丁,麻糬/果凍/布丁,25,Jelly,果凍布丁,10102531,Other Jelly,其他果凍布丁
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102801,Potato Chips MnstBrd,薯片主流
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102802,Potato Chips ChTwBrd,薯片中系台系
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102803,Potato Chips Kr Brd,薯片韓系
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102804,Potato Chips Jp Brd,薯片日系
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102805,Potato Chips SEAsnBr,薯片東南亞系
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102811,Potato Chips Oth Brd,薯片其他
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102821,Corn Chips Mnstr Brd,玉米片主流
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102822,Corn Chips Ch/Tw Brd,玉米片中系台系
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102823,Corn Chips Kr Brand,玉米片韓系
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102824,Corn Chips Jp Brand,玉米片日系
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102825,Corn Chips SEAsn Brd,玉米片東南亞系
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102831,Corn Chips Other Brd,玉米片其他
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102841,Shrimp Chips,蝦片
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102851,Other Chips,其他薯片蝦片
+9,Snacks,零食,零食,9.13,Chips,薯片/洋芋片/玉米片/虾片,薯片/洋芋片/玉米片/蝦片,28,Chips,薯片,10102861,Chips Salsa Sauce,薯片蘸酱
+9,Snacks,零食,零食,9.14,XXXXX,预留位,預留位,,,,,,
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102901,Sunflower Seeds,葵花子
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102902,Watermelon Seeds,西瓜子
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102903,Pumpkin Seeds,南瓜子
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102904,Peanut w/Shell,帶殼花生
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102905,Walnut w/Shell,帶殼核桃
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102906,Pine Seeds w/Shell,帶殼松子
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102907,Pistachio w/Shell,開心果
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102911,Oth SeedsNuts wShell,其他帶殼瓜子堅果
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102921,Shelled Seeds,瓜子仁
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102922,Shelled Peanut,花生仁
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102923,Walnut Kernel,核桃仁
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102924,Cashew,腰果
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102925,Almond,杏仁
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102926,Bean Snack,豆類零食
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102927,Chestnut,板栗仁
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102931,Mixed Nuts,綜合果仁
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102932,Oth ShelledSeedsNuts,其他瓜子堅果仁
+9,Snacks,零食,零食,9.15,Nuts/Seeds,坚果/瓜子,堅果/瓜子,29,Nuts & Seeds,堅果/瓜子,10102941,Bulk Seeds & Nuts,稱重瓜子堅果
+9,Snacks,零食,零食,9.16,XXXXX,预留位,預留位,,,,,,
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103101,Dry Mango,芒果乾
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103102,Raisin/Grape Snack,葡萄乾
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,26,Dry Vege & Goods,南北乾貨,10602635,Dry Grape,葡萄乾
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103103,Dry Banana,香蕉乾
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103104,Dry Apple,蘋果乾/脆
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103105,Dry Date,棗乾
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103111,Dry Sweet Potato,地瓜乾/紫薯乾
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103112,Dry Mushroom Chips,蘑菇乾
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103121,Mixed Dry Fruit Vege,綜合果蔬乾
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103122,Other Dry Fruit Vege,其他果蔬乾
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103131,Marinated Plum,梅乾/話梅
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103132,Marinated Apricot,杏乾
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103133,Hawthorn Snack,山楂零食
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103141,Oth Marinated Fruit,其他果乾蜜餞
+9,Snacks,零食,零食,9.17,Dried/Preserved Vegetables & Fruits,蔬果干/蜜饯,蔬果乾/蜜餞,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103142,Bulk Dry Fruit &Vege,稱重果蔬乾/蜜餞
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103001,Beef Jerky Asian Brd,牛肉亞系
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103009,Beef Jerky Other Brd,牛肉乾其他
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103011,Pork Jerky Asian Brd,豬肉乾亞系
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103019,Pork Jerky Other Brd,豬肉乾其他
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103021,Pork Rind Mnstr Brd,豬皮零食主流
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103022,Pork Rind LatinStyle,豬皮零食西語裔系
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103029,Pork Rind Other Brd,豬皮零食其他
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103031,Marinated Egg Snack,即食滷蛋
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103041,Dry Fish Snack,魚片魚乾魚絲
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103042,Dry Squid,魷魚絲
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103051,Beancurd Snack ChBrd,豆乾零食中系
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103052,Beancurd Snack TwBrd,豆乾零食台系
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103059,Beancurd Snack OthBr,豆乾零食其他
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103061,Gluten Snack Ch Brd,麵筋零食中系
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103062,Gluten Snack Tw Brd,麵筋零食台系
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103069,Gluten Snack Oth Brd,麵筋零食其他
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103071,Konjac Snack,魔芋
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,30,Jerky & Soy Snack,肉乾/豆乾,10103081,Oth Jerky Soy Snack,其他肉乾豆乾
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,32,Seaweed Snack,即食海苔,10103201,Seaweed Snack Kr Brd,即食海苔韓系
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,32,Seaweed Snack,即食海苔,10103202,Seaweed Snack Jp Brd,即食海苔日系
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,32,Seaweed Snack,即食海苔,10103211,Seaweed Snack OthBrd,即食海苔其他
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,32,Seaweed Snack,即食海苔,10103221,Sushi Seaweed,包飯海苔
+9,Snacks,零食,零食,9.18,Egg/Soy/Seafood/Jerky/Konjac,蛋豆鱼肉/魔芋/海苔,蛋豆魚肉/魔芋/海苔,32,Seaweed Snack,即食海苔,10103231,Other Seaweed Snack,其他即食海苔
+9,Snacks,零食,零食,9.19,XXXXX,预留位,預留位,,,,,,
+9,Snacks,零食,零食,9.2,Oatmeal/Cereal/Granola,麦片/谷物,麥片/穀物,35,Cereal,麥片,10103501,Oatmeal Mnstr Brand,燕麥片主流
+9,Snacks,零食,零食,9.2,Oatmeal/Cereal/Granola,麦片/谷物,麥片/穀物,35,Cereal,麥片,10103511,Oatmeal Other Brand,燕麥片其他
+9,Snacks,零食,零食,9.2,Oatmeal/Cereal/Granola,麦片/谷物,麥片/穀物,35,Cereal,麥片,10103521,Granola Mnstr Brand,穀麥片主流
+9,Snacks,零食,零食,9.2,Oatmeal/Cereal/Granola,麦片/谷物,麥片/穀物,35,Cereal,麥片,10103531,Granola Other Brand,穀麥片其他
+9,Snacks,零食,零食,9.2,Oatmeal/Cereal/Granola,麦片/谷物,麥片/穀物,35,Cereal,麥片,10103541,Cereal Mnstr Brand,早餐穀物主流
+9,Snacks,零食,零食,9.2,Oatmeal/Cereal/Granola,麦片/谷物,麥片/穀物,35,Cereal,麥片,10103551,Cereal Other Brand,早餐穀物其他
+9,Snacks,零食,零食,9.2,Oatmeal/Cereal/Granola,麦片/谷物,麥片/穀物,35,Cereal,麥片,10103561,Granola/Cereal Bar,早餐穀物棒
+10,Beverages,饮品,飲品,10.1,XXXXX,预留位,預留位,,,,,,
+10,Beverages,饮品,飲品,10.2,Coffee,咖啡,咖啡,33,Drink Powder,沖泡飲料,10103331,InstCoff wosugarmilk,即溶咖啡無糖奶
+10,Beverages,饮品,飲品,10.2,Coffee,咖啡,咖啡,33,Drink Powder,沖泡飲料,10103332,InstCoffee sugarmilk,即溶咖啡含糖奶
+10,Beverages,饮品,飲品,10.2,Coffee,咖啡,咖啡,33,Drink Powder,沖泡飲料,10103333,Coffee Bean/Powder,咖啡豆/咖啡粉
+10,Beverages,饮品,飲品,10.2,Coffee,咖啡,咖啡,57,Coffee&Energy Drink,咖啡/能量飲料,10105701,Coffee Drink Mnstr,咖啡飲品主流
+10,Beverages,饮品,飲品,10.2,Coffee,咖啡,咖啡,57,Coffee&Energy Drink,咖啡/能量飲料,10105711,Coffee Drink Other,咖啡飲品其他
+10,Beverages,饮品,飲品,10.2,Coffee,咖啡,咖啡,27,Chilled Coffee,冷藏咖啡,10302701,Chill Coffee Mnstrm,冷藏咖啡 主流
+10,Beverages,饮品,飲品,10.2,Coffee,咖啡,咖啡,27,Chilled Coffee,冷藏咖啡,10302702,Chilled Coffee Other,冷藏咖啡 其他
+10,Beverages,饮品,飲品,10.2,Coffee,咖啡,咖啡,27,Chilled Coffee,冷藏咖啡,10302703,Chilled Coffee Mate,冷藏咖啡伴侶
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103401,TeaBag Mnstr BlGrOol,茶包主流紅綠烏
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103402,TeaBag Mnstr FrtHbl,茶包主流水果花草
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103403,TeaBag Asian BlGrOol,茶包亞洲紅綠烏
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103404,TeaBag Asian FrtHbl,茶包亞洲水果花草
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103411,Tea Bag Other,茶包其他
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103421,Tea Leaf Black Tea,茶葉紅茶
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103422,Tea Leaf Green Tea,茶葉綠茶
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103423,Tea Leaf Oolong Tea,茶葉烏龍茶
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103424,Tea Leaf Floral Tea,茶葉花茶
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103425,Tea Leaf Fruits,茶葉水果
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103431,Tea Leaf Other,茶葉其他
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103441,Milk Tea Powder,奶茶粉
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103442,Matcha Powder,抹茶粉
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103443,Ginger Tea,薑茶
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103444,Fruit Honey Tea,水果蜜茶
+10,Beverages,饮品,飲品,10.3,Tea Leaves/Tea Bags/Instant Tea,茶叶/茶包/冲泡茶,茶葉/茶包/沖泡茶,34,Tea Leaf & Bag,茶葉/茶包,10103451,Other Tea Leaf & Bag,其他茶葉茶包
+10,Beverages,饮品,飲品,10.4,XXXXX,预留位,預留位,,,,,,
+10,Beverages,饮品,飲品,10.5,Tea Drinks,茶类饮品,茶類飲品,53,Tea,茶飲料,10105301,Tea Drink Mnstr,茶飲料主流
+10,Beverages,饮品,飲品,10.5,Tea Drinks,茶类饮品,茶類飲品,53,Tea,茶飲料,10105302,Tea Drink Ch Brand,茶飲料中系
+10,Beverages,饮品,飲品,10.5,Tea Drinks,茶类饮品,茶類飲品,53,Tea,茶飲料,10105303,Tea Drink Tw Brand,茶飲料台系
+10,Beverages,饮品,飲品,10.5,Tea Drinks,茶类饮品,茶類飲品,53,Tea,茶飲料,10105304,Tea Drink Kr Brand,茶飲料韓系
+10,Beverages,饮品,飲品,10.5,Tea Drinks,茶类饮品,茶類飲品,53,Tea,茶飲料,10105305,Tea Drink Jp Brand,茶飲料日系
+10,Beverages,饮品,飲品,10.5,Tea Drinks,茶类饮品,茶類飲品,53,Tea,茶飲料,10105311,Tea Drink Other Brd,茶飲料其他
+10,Beverages,饮品,飲品,10.5,Tea Drinks,茶类饮品,茶類飲品,53,Tea,茶飲料,10105321,Milk Tea Drink,奶茶
+10,Beverages,饮品,飲品,10.5,Tea Drinks,茶类饮品,茶類飲品,53,Tea,茶飲料,10105332,Herbal Tea,涼茶
+10,Beverages,饮品,飲品,10.5,Tea Drinks,茶类饮品,茶類飲品,53,Tea,茶飲料,10105341,Other Plant Drink,其他草本飲料
+10,Beverages,饮品,飲品,10.5,Tea Drinks,茶类饮品,茶類飲品,53,Tea,茶飲料,10105351,Other Tea Drink,其他茶飲料
+10,Beverages,饮品,飲品,10.5,Tea Drinks,茶类饮品,茶類飲品,26,Chilled Juice,冷藏果汁,10302611,Probiotic/Kombch Bev,冷藏發酵益生菌/康普茶飲料
+10,Beverages,饮品,飲品,10.6,XXXXX,预留位,預留位,,,,,,
+10,Beverages,饮品,飲品,10.7,Powdered Drink,即溶/冲调,即溶/沖調,33,Drink Powder,沖泡飲料,10103301,GrainsPowder NoSugar,無糖穀物粉
+10,Beverages,饮品,飲品,10.7,Powdered Drink,即溶/冲调,即溶/沖調,33,Drink Powder,沖泡飲料,10103311,Sesame Powder,芝麻糊
+10,Beverages,饮品,飲品,10.7,Powdered Drink,即溶/冲调,即溶/沖調,33,Drink Powder,沖泡飲料,10103312,Soy Milk Powder,豆漿粉
+10,Beverages,饮品,飲品,10.7,Powdered Drink,即溶/冲调,即溶/沖調,33,Drink Powder,沖泡飲料,10103321,Other Grain Powder,其他穀物粉
+10,Beverages,饮品,飲品,10.7,Powdered Drink,即溶/冲调,即溶/沖調,33,Drink Powder,沖泡飲料,10103341,Other Drink Powder,其他沖泡飲料
+10,Beverages,饮品,飲品,10.8,Soda,汽水,汽水,51,Soda,汽水,10105101,CSD Mnstr MPk Ea<2L,碳酸飲料主流多瓶裝(單瓶<2L)
+10,Beverages,饮品,飲品,10.8,Soda,汽水,汽水,51,Soda,汽水,10105102,CSD Mnstr SPk <2L,碳酸飲料主流單瓶裝<2L
+10,Beverages,饮品,飲品,10.8,Soda,汽水,汽水,51,Soda,汽水,10105103,CSD Mnstr Each>=2L,碳酸飲料主流單瓶裝>=2L
+10,Beverages,饮品,飲品,10.8,Soda,汽水,汽水,51,Soda,汽水,10105111,CSD Asian Brand,碳酸飲料亞系
+10,Beverages,饮品,飲品,10.8,Soda,汽水,汽水,51,Soda,汽水,10105122,Ramune Soda,彈珠汽水
+10,Beverages,饮品,飲品,10.8,Soda,汽水,汽水,51,Soda,汽水,10105131,Oth Carbonated Drink,其他碳酸飲料
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,52,Water,飲用水,10105201,Spring Wt MPk Ea<2L,泉水多瓶裝(單瓶<2L)
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,52,Water,飲用水,10105202,Spring Wt SPk <2L,泉水單瓶裝<2L
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,52,Water,飲用水,10105203,Spring Wt Each>=2L,泉水單瓶裝>=2L
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,52,Water,飲用水,10105211,MineralWt MPk Ea<2L,礦泉水多瓶裝(單瓶<2L)
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,52,Water,飲用水,10105212,MineralWt SPk <2L,礦泉水單瓶裝<2L
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,52,Water,飲用水,10105213,MineralWt Each>=2L,礦泉水單瓶裝>=2L
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,52,Water,飲用水,10105221,Purifd Wt MPk Ea<2L,純淨水多瓶裝(單瓶<2L)
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,52,Water,飲用水,10105222,Purifd Wt SPk <2L,純淨水單瓶裝<2L
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,52,Water,飲用水,10105223,Purifd Wt Each>=2L,純淨水單瓶裝>=2L
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,52,Water,飲用水,10105231,Alkaline Water,鹼性水
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,52,Water,飲用水,10105232,Natrl SpklWt/Seltzer,天然氣泡水
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,52,Water,飲用水,10105241,Other Bottled Water,其他水
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,51,Soda,汽水,10105123,SodaWater TonicWater,蘇打水/通寧水
+10,Beverages,饮品,飲品,10.9,Water/Sparkling Water,水/气泡水,水/氣泡水,51,Soda,汽水,10105121,Sparkling Water,氣泡水
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,53,Tea,茶飲料,10105331,Aloe Drink,蘆薈飲料
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,54,Juice,果汁,10105401,Condensed Juice,濃縮果汁
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,54,Juice,果汁,10105411,Juice >50% Mnstr Brd,果汁含量>50%主流
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,54,Juice,果汁,10105412,Juice >50% Other Brd,果汁含量>50%其他
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,54,Juice,果汁,10105421,Juice <=50% MnstrBrd,果汁含量<=50%主流
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,54,Juice,果汁,10105422,Juice <=50% OtherBrd,果汁含量<=50%其他
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,54,Juice,果汁,10105431,Coconut Water,椰子水
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,54,Juice,果汁,10105432,Fruit Vinegar,果醋
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,54,Juice,果汁,10105441,Other Juice,其他果汁
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,26,Chilled Juice,冷藏果汁,10302601,Chill Orange JC>50%,冷藏橙汁 >50%
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,26,Chilled Juice,冷藏果汁,10302602,Chill Apple JC>50%,冷藏蘋果汁>50%
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,26,Chilled Juice,冷藏果汁,10302603,Chill Cranbry JC>50%,冷藏蔓越莓汁>50%
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,26,Chilled Juice,冷藏果汁,10302604,Chill Grapeft JC>50%,冷藏西柚汁>50%
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,26,Chilled Juice,冷藏果汁,10302605,Chill Grape JC>50%,冷藏葡萄汁>50%
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,26,Chilled Juice,冷藏果汁,10302606,Chill Pomgrnt JC>50%,冷藏石榴汁>50%
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,26,Chilled Juice,冷藏果汁,10302607,Chill Mixed JC>50%,冷藏混合果汁>50%
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,26,Chilled Juice,冷藏果汁,10302608,Chill Juice Bev<50%,冷藏果汁飲品<=50% 
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,26,Chilled Juice,冷藏果汁,10302609,Chilled Lemonade,冷藏檸檬水
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,26,Chilled Juice,冷藏果汁,10302610,Cold Pressed JC>50%,冷藏冷榨混合果汁 >50%
+10,Beverages,饮品,飲品,10.1,Juices/Fruit Drinks,果汁/水果饮,果汁/水果飲,26,Chilled Juice,冷藏果汁,10302612,Other Chilled Bev,其他冷藏飲料
+10,Beverages,饮品,飲品,10.11,XXXXX,预留位,預留位,,,,,,
+10,Beverages,饮品,飲品,10.12,Plant Milk/Yogurt Drinks,植物奶/乳酸饮料,植物奶/乳酸飲料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105501,Soy Milk,豆奶
+10,Beverages,饮品,飲品,10.12,Plant Milk/Yogurt Drinks,植物奶/乳酸饮料,植物奶/乳酸飲料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105502,Almond Milk,杏仁奶
+10,Beverages,饮品,飲品,10.12,Plant Milk/Yogurt Drinks,植物奶/乳酸饮料,植物奶/乳酸飲料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105503,Oat Milk,燕麥奶
+10,Beverages,饮品,飲品,10.12,Plant Milk/Yogurt Drinks,植物奶/乳酸饮料,植物奶/乳酸飲料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105504,Rice Milk,米漿飲品
+10,Beverages,饮品,飲品,10.12,Plant Milk/Yogurt Drinks,植物奶/乳酸饮料,植物奶/乳酸飲料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105505,Coconut Milk,椰子奶
+10,Beverages,饮品,飲品,10.12,Plant Milk/Yogurt Drinks,植物奶/乳酸饮料,植物奶/乳酸飲料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105511,Yogurt Drink,常溫乳酸飲料
+10,Beverages,饮品,飲品,10.12,Plant Milk/Yogurt Drinks,植物奶/乳酸饮料,植物奶/乳酸飲料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105521,Oth PltMilkYogurtDrk,其他植物蛋白/乳酸飲料
+10,Beverages,饮品,飲品,10.13,Health/Sports/Energy Drinks,保健/运动/能量饮,保健/運動/能量飲,61,Health Food,保健食品,10606101,Swallow Nest,燕窩
+10,Beverages,饮品,飲品,10.13,Health/Sports/Energy Drinks,保健/运动/能量饮,保健/運動/能量飲,61,Health Food,保健食品,10606102,Swallow Nest Drink,燕窩飲品
+10,Beverages,饮品,飲品,10.13,Health/Sports/Energy Drinks,保健/运动/能量饮,保健/運動/能量飲,61,Health Food,保健食品,10606111,Ginseng,人參
+10,Beverages,饮品,飲品,10.13,Health/Sports/Energy Drinks,保健/运动/能量饮,保健/運動/能量飲,61,Health Food,保健食品,10606112,Ginseng Drink,人參飲品
+10,Beverages,饮品,飲品,10.13,Health/Sports/Energy Drinks,保健/运动/能量饮,保健/運動/能量飲,61,Health Food,保健食品,10606121,Chicken Essence,雞精
+10,Beverages,饮品,飲品,10.13,Health/Sports/Energy Drinks,保健/运动/能量饮,保健/運動/能量飲,61,Health Food,保健食品,10606122,Cordyceps,蟲草
+10,Beverages,饮品,飲品,10.13,Health/Sports/Energy Drinks,保健/运动/能量饮,保健/運動/能量飲,61,Health Food,保健食品,10606131,Other Health Food,其他保健食品
+10,Beverages,饮品,飲品,10.13,Health/Sports/Energy Drinks,保健/运动/能量饮,保健/運動/能量飲,56,Sports Drink,運動飲料,10105601,Sports Drink Mnstr,運動飲料主流
+10,Beverages,饮品,飲品,10.13,Health/Sports/Energy Drinks,保健/运动/能量饮,保健/運動/能量飲,56,Sports Drink,運動飲料,10105602,Sports Drink Other,運動飲料其他
+10,Beverages,饮品,飲品,10.13,Health/Sports/Energy Drinks,保健/运动/能量饮,保健/運動/能量飲,57,Coffee&Energy Drink,咖啡/能量飲料,10105721,Energy Drink,能量飲品
+11,Pantry,干货,乾貨,11.1,XXXXX,预留位,預留位,,,,,,
+11,Pantry,干货,乾貨,11.2,Rice,米,米,21,Rice,米,10602101,Long Grain 50lb,長穀米50磅
+11,Pantry,干货,乾貨,11.2,Rice,米,米,21,Rice,米,10602102,Long Grain 25lb,長穀米25磅
+11,Pantry,干货,乾貨,11.2,Rice,米,米,21,Rice,米,10602103,Long Grain 10lb/Less,長穀米10磅及以下
+11,Pantry,干货,乾貨,11.2,Rice,米,米,21,Rice,米,10602111,Short Grain 50lb,短穀米50磅
+11,Pantry,干货,乾貨,11.2,Rice,米,米,21,Rice,米,10602112,Short Grain 25lb,短榖米25磅
+11,Pantry,干货,乾貨,11.2,Rice,米,米,21,Rice,米,10602113,ShortGrain 10lb/Less,短穀米10磅及以下
+11,Pantry,干货,乾貨,11.2,Rice,米,米,21,Rice,米,10602121,Brown Rice,糙米
+11,Pantry,干货,乾貨,11.2,Rice,米,米,21,Rice,米,10602122,Sweet Rice Round,圓糯米
+11,Pantry,干货,乾貨,11.2,Rice,米,米,21,Rice,米,10602123,Sweet Rice Long,長糯米
+11,Pantry,干货,乾貨,11.2,Rice,米,米,21,Rice,米,10602131,Other Rice,其他米
+11,Pantry,干货,乾貨,11.2,Rice,米,米,21,Rice,米,10602132,Bulk Rice,稱重米
+11,Pantry,干货,乾貨,11.3,Noodles/Rice Paper,面条/米纸,麵條/米紙,23,Noodle & Vermicelli,麵條/粉絲,10602301,Wheat Noodle,麵條
+11,Pantry,干货,乾貨,11.3,Noodles/Rice Paper,面条/米纸,麵條/米紙,23,Noodle & Vermicelli,麵條/粉絲,10602302,Rice Noodle/Stick,米粉/粿條
+11,Pantry,干货,乾貨,11.3,Noodles/Rice Paper,面条/米纸,麵條/米紙,23,Noodle & Vermicelli,麵條/粉絲,10602303,Rice Paper,米紙
+11,Pantry,干货,乾貨,11.3,Noodles/Rice Paper,面条/米纸,麵條/米紙,23,Noodle & Vermicelli,麵條/粉絲,10602304,Bean Thread,冬粉/粉絲
+11,Pantry,干货,乾貨,11.3,Noodles/Rice Paper,面条/米纸,麵條/米紙,23,Noodle & Vermicelli,麵條/粉絲,10602305,Potato Noodle,粉皮
+11,Pantry,干货,乾貨,11.3,Noodles/Rice Paper,面条/米纸,麵條/米紙,23,Noodle & Vermicelli,麵條/粉絲,10602306,Sweat Potato Noodle,紅薯粉/苕粉
+11,Pantry,干货,乾貨,11.3,Noodles/Rice Paper,面条/米纸,麵條/米紙,23,Noodle & Vermicelli,麵條/粉絲,10602307,Pasta,義大利麵
+11,Pantry,干货,乾貨,11.3,Noodles/Rice Paper,面条/米纸,麵條/米紙,23,Noodle & Vermicelli,麵條/粉絲,10602311,Other Noodle,其他麵條米綫
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602501,Black Sesame,黑芝麻
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602502,White Sesame,白芝麻
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602511,Millet,小米
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602512,Red Rice,紅米
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602513,Black Rice,黑米
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602514,Sorghum,高粱
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602515,Corn Grit,玉米糝
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602516,Oats,燕麥片
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602517,Chinese Pearl Barley,薏仁
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602521,Mixed Grains,混合雜糧/雜糧粥料
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602531,Other Grain,其他雜糧
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602541,Green Bean,綠豆
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602542,Red Bean,紅豆/大紅豆
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602543,Black Bean,黑豆
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602544,Yellow Bean,黃豆
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602551,Other Bean,其他豆類
+11,Pantry,干货,乾貨,11.4,Grains/Beans,五谷杂粮,五穀雜糧,25,Dry Grain & Bean,雜糧/豆類,10602552,Bulk Grain & Bean,稱重雜糧豆類
+11,Pantry,干货,乾貨,11.5,XXXXX,预留位,預留位,,,,,,
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602601,Dry Mushroom,乾香菇
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602602,Dry AgrocybeAegerita,乾茶樹菇
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602603,Dry Black Fungus,乾黑木耳
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602604,Dry White Fungus,乾銀耳
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602611,Other Dry Mushroom,其他乾菇
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602621,Dry Seaweed,紫菜
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602622,Dry Kelp,乾海帶
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602631,Dry Date,紅棗
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602632,Dry Longan,桂圓乾
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602633,Dry Lotus Seed,蓮子
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602634,Dry Matrimony Vine,枸杞
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602635,Dry Grape,葡萄乾
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602636,Dry Lily Root,百合乾
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602641,Dry Herb,乾貨草藥
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602651,Dry Vegetable,菜乾
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602661,Other Dry Vege/Goods,其他南北乾貨
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,26,Dry Vege & Goods,南北乾貨,10602662,Bulk Dry Vege &Goods,稱重南北乾貨
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,25,Dry Grain & Bean,雜糧/豆類,10602545,Dry Beancurd Skin,乾腐竹
+11,Pantry,干货,乾貨,11.6,Dry Groceries,南北干货,南北乾貨,25,Dry Grain & Bean,雜糧/豆類,10602546,Peanut,花生
+11,Pantry,干货,乾貨,11.7,XXXXX,预留位,預留位,,,,,,
+11,Pantry,干货,乾貨,11.8,Flours/Gelatin/Tapioca,烹饪烘培粉/吉利丁/粉圆,烹飪烘培粉/吉利丁/粉圓,22,Flour,麵粉,10602201,Wheat Flour,小麥麵粉
+11,Pantry,干货,乾貨,11.8,Flours/Gelatin/Tapioca,烹饪烘培粉/吉利丁/粉圆,烹飪烘培粉/吉利丁/粉圓,22,Flour,麵粉,10602202,Rice Flour,稻米粉
+11,Pantry,干货,乾貨,11.8,Flours/Gelatin/Tapioca,烹饪烘培粉/吉利丁/粉圆,烹飪烘培粉/吉利丁/粉圓,22,Flour,麵粉,10602203,Corn Flour,玉米麵粉
+11,Pantry,干货,乾貨,11.8,Flours/Gelatin/Tapioca,烹饪烘培粉/吉利丁/粉圆,烹飪烘培粉/吉利丁/粉圓,22,Flour,麵粉,10602211,Starch,澱粉類
+11,Pantry,干货,乾貨,11.8,Flours/Gelatin/Tapioca,烹饪烘培粉/吉利丁/粉圆,烹飪烘培粉/吉利丁/粉圓,22,Flour,麵粉,10602212,Batter Mix,油炸粉
+11,Pantry,干货,乾貨,11.8,Flours/Gelatin/Tapioca,烹饪烘培粉/吉利丁/粉圆,烹飪烘培粉/吉利丁/粉圓,22,Flour,麵粉,10602213,Panko,麵包粉
+11,Pantry,干货,乾貨,11.8,Flours/Gelatin/Tapioca,烹饪烘培粉/吉利丁/粉圆,烹飪烘培粉/吉利丁/粉圓,22,Flour,麵粉,10602231,Baking Powder/Yeast,蘇打粉/酵母
+11,Pantry,干货,乾貨,11.8,Flours/Gelatin/Tapioca,烹饪烘培粉/吉利丁/粉圆,烹飪烘培粉/吉利丁/粉圓,22,Flour,麵粉,10602241,Other Flour,其他麵粉
+11,Pantry,干货,乾貨,11.8,Flours/Gelatin/Tapioca,烹饪烘培粉/吉利丁/粉圆,烹飪烘培粉/吉利丁/粉圓,22,Flour,麵粉,10602242,Bulk Flour,稱重麵粉
+11,Pantry,干货,乾貨,11.8,Flours/Gelatin/Tapioca,烹饪烘培粉/吉利丁/粉圆,烹飪烘培粉/吉利丁/粉圓,22,Flour,麵粉,10602221,Gelatin/Agar Mix,果凍粉/洋菜
+11,Pantry,干货,乾貨,11.8,Flours/Gelatin/Tapioca,烹饪烘培粉/吉利丁/粉圆,烹飪烘培粉/吉利丁/粉圓,22,Flour,麵粉,10602222,Tapioca Pearl / Boba,西谷米
+12,Condiments,调味料,調味料,12.1,XXXXX,预留位,預留位,,,,,,
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,31,Liquid Sauce,液體調味料,10603101,Soy/Ssn Sauce Ch Brd,醬油/調味汁中系
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,31,Liquid Sauce,液體調味料,10603102,Soy/Ssn Sauce Tw Brd,醬油/調味汁台系
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,31,Liquid Sauce,液體調味料,10603103,Soy/Ssn Sauce Jp Brd,醬油/調味汁日系
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,31,Liquid Sauce,液體調味料,10603111,Other Soy Sauce,其他醬油
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,31,Liquid Sauce,液體調味料,10603141,Sesame Oil,芝麻油
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,31,Liquid Sauce,液體調味料,10603142,Chili Oil,辣椒油
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,31,Liquid Sauce,液體調味料,10603143,Prickly Ash Oil,花椒油
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,31,Liquid Sauce,液體調味料,10603151,Other Sauce Oil,其它調味油
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,31,Liquid Sauce,液體調味料,10603121,Vinegar,醋
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,31,Liquid Sauce,液體調味料,10603131,Cooking Wine,料酒
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,33,Southeast Asia Sauce,東南亞調味料,10603301,Liquid Sauce Vn Brd,液體調味料越系
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,33,Southeast Asia Sauce,東南亞調味料,10603311,Liquid Sauce Fl Brd,液體調味料菲系
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,33,Southeast Asia Sauce,東南亞調味料,10603321,Liquid Sauce Th Brd,液體調味料泰系
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,24,Cooking Oil,食用油,10602401,Bean Oil,大豆油
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,24,Cooking Oil,食用油,10602402,Peanut Oil,花生油
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,24,Cooking Oil,食用油,10602403,Corn Oil,玉米油
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,24,Cooking Oil,食用油,10602404,Canola Oil,菜籽油
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,24,Cooking Oil,食用油,10602405,Tea Oil,茶油
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,24,Cooking Oil,食用油,10602406,Sunfiower Oil,葵花籽油
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,24,Cooking Oil,食用油,10602407,Oliver Oil,橄欖油
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,24,Cooking Oil,食用油,10602411,Mixed Oil,混合油
+12,Condiments,调味料,調味料,12.2,Soy Sauces/Vinegars/Cooking Wine/Oils,酱醋/油/料酒/调味油,醬醋/油/料酒/調味油,24,Cooking Oil,食用油,10602421,Other Oil,其它油
+12,Condiments,调味料,調味料,12.3,XXXXX,预留位,預留位,,,,,,
+12,Condiments,调味料,調味料,12.4,XXXXX,预留位,預留位,,,,,,
+12,Condiments,调味料,調味料,12.5,XXXXX,预留位,預留位,,,,,,
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603201,Oyster/Hoisin Sauce,蠔油/海鮮醬
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603211,Chili Paste,辣椒醬
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603212,Garlic Paste,蒜蓉醬
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603213,Soybean Paste,黃豆醬
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603214,Bean Paste,豆瓣醬
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603215,Fermented Soybean,豆豉
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603216,Fermented Bean Curd,豆腐乳
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603217,Mixed Sauce Paste,混合調味醬
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603231,BBQ Paste Kr Brand,燒烤醬韓系
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603232,BBQ Paste Jp Brand,燒烤醬日系
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603239,BBQ Paste Other,燒烤醬其他
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603241,Curry Japanese Brand,咖喱日系
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603242,Curry SE Asian Brand,咖喱東南亞系
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603243,Curry Indian Brand,咖喱印系
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603249,Curry Other,其他咖喱
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603221,Sesame Paste,芝麻醬
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603222,Peanut Paste,花生醬
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603223,Sasha Jam,沙茶醬
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603271,Other Sauce,其他調味醬料
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,33,Southeast Asia Sauce,東南亞調味料,10603302,Sauce Vietnam Brand,調味醬料越系
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,33,Southeast Asia Sauce,東南亞調味料,10603312,Sauce Filipino Brand,調味醬料菲系
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,33,Southeast Asia Sauce,東南亞調味料,10603322,Sauce Thailand Brand,調味醬料泰系
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,33,Southeast Asia Sauce,東南亞調味料,10603331,Other SE Asian Sauce,其他東南亞調味料
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,34,Western Style Sauce,西式醬料,10603421,Pasta Sauce,義大利面醬
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,34,Western Style Sauce,西式醬料,10603431,Oth Wst Style Sauce,其他西式醬料
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,40,Chilled Sauce & Miso,冷藏醬料/味噌,10304001,Clr Bean/chili Paste,冷藏豆醬辣醬
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,40,Chilled Sauce & Miso,冷藏醬料/味噌,10304002,Cooler Miso JP style,冷藏味增
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,40,Chilled Sauce & Miso,冷藏醬料/味噌,10304003,Clr Shrmp/fish paste,冷藏蝦/鱼醬
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,40,Chilled Sauce & Miso,冷藏醬料/味噌,10304004,Other Cooler Sauce,其他酱料
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603224,Wasabi/Mustard,芥茉
+12,Condiments,调味料,調味料,12.6,Sauces/Pastes,调味酱,調味醬,32,Sauce,調味醬料,10603251,Coconut Milk/Powder,椰奶/椰粉
+12,Condiments,调味料,調味料,12.7,XXXXX,预留位,預留位,,,,,,
+12,Condiments,调味料,調味料,12.8,XXXXX,预留位,預留位,,,,,,
+12,Condiments,调味料,調味料,12.9,Seasonings/Spices,调味粉/辛香料,調味粉/辛香料,36,Spice,香辛料,10603601,Dry Chili,辣椒粉/乾辣椒
+12,Condiments,调味料,調味料,12.9,Seasonings/Spices,调味粉/辛香料,調味粉/辛香料,36,Spice,香辛料,10603602,Chinese Prickly Ash,花椒
+12,Condiments,调味料,調味料,12.9,Seasonings/Spices,调味粉/辛香料,調味粉/辛香料,36,Spice,香辛料,10603603,Black Pepper,黑胡椒
+12,Condiments,调味料,調味料,12.9,Seasonings/Spices,调味粉/辛香料,調味粉/辛香料,36,Spice,香辛料,10603604,White Pepper,白胡椒
+12,Condiments,调味料,調味料,12.9,Seasonings/Spices,调味粉/辛香料,調味粉/辛香料,36,Spice,香辛料,10603605,Cumin,孜然
+12,Condiments,调味料,調味料,12.9,Seasonings/Spices,调味粉/辛香料,調味粉/辛香料,36,Spice,香辛料,10603606,Fennel,茴香
+12,Condiments,调味料,調味料,12.9,Seasonings/Spices,调味粉/辛香料,調味粉/辛香料,36,Spice,香辛料,10603611,Rice Seasoning,香鬆
+12,Condiments,调味料,調味料,12.9,Seasonings/Spices,调味粉/辛香料,調味粉/辛香料,36,Spice,香辛料,10603612,Mixed Spices,調味混合佐料 (粉狀)
+12,Condiments,调味料,調味料,12.9,Seasonings/Spices,调味粉/辛香料,調味粉/辛香料,36,Spice,香辛料,10603621,Tampico,Tampico品牌香辛料
+12,Condiments,调味料,調味料,12.9,Seasonings/Spices,调味粉/辛香料,調味粉/辛香料,36,Spice,香辛料,10603631,Other Spice,其他香料
+12,Condiments,调味料,調味料,12.1,Salt/Sugar/MSG,盐/糖/味精,鹽/糖/味精,35,"Salt, Sugar & MSG",鹽/糖/味精,10603501,Salt,食鹽
+12,Condiments,调味料,調味料,12.1,Salt/Sugar/MSG,盐/糖/味精,鹽/糖/味精,35,"Salt, Sugar & MSG",鹽/糖/味精,10603502,Sea Salt,海鹽
+12,Condiments,调味料,調味料,12.1,Salt/Sugar/MSG,盐/糖/味精,鹽/糖/味精,35,"Salt, Sugar & MSG",鹽/糖/味精,10603503,Mixed Salt,混合鹽
+12,Condiments,调味料,調味料,12.1,Salt/Sugar/MSG,盐/糖/味精,鹽/糖/味精,35,"Salt, Sugar & MSG",鹽/糖/味精,10603511,Sugar,白砂糖
+12,Condiments,调味料,調味料,12.1,Salt/Sugar/MSG,盐/糖/味精,鹽/糖/味精,35,"Salt, Sugar & MSG",鹽/糖/味精,10603512,Rock Sugar White,白冰糖
+12,Condiments,调味料,調味料,12.1,Salt/Sugar/MSG,盐/糖/味精,鹽/糖/味精,35,"Salt, Sugar & MSG",鹽/糖/味精,10603513,Rock Sugar Yellow,黃冰糖
+12,Condiments,调味料,調味料,12.1,Salt/Sugar/MSG,盐/糖/味精,鹽/糖/味精,35,"Salt, Sugar & MSG",鹽/糖/味精,10603514,Black/Red/Yellow Sug,黑糖/紅糖/黃糖
+12,Condiments,调味料,調味料,12.1,Salt/Sugar/MSG,盐/糖/味精,鹽/糖/味精,35,"Salt, Sugar & MSG",鹽/糖/味精,10603521,Other Sugar,其他糖
+12,Condiments,调味料,調味料,12.1,Salt/Sugar/MSG,盐/糖/味精,鹽/糖/味精,35,"Salt, Sugar & MSG",鹽/糖/味精,10603531,Chicken Powder,鷄精
+12,Condiments,调味料,調味料,12.1,Salt/Sugar/MSG,盐/糖/味精,鹽/糖/味精,35,"Salt, Sugar & MSG",鹽/糖/味精,10603532,MSG,味精
+12,Condiments,调味料,調味料,12.1,Salt/Sugar/MSG,盐/糖/味精,鹽/糖/味精,35,"Salt, Sugar & MSG",鹽/糖/味精,10603541,Other Seasong Powder,其他調味粉
+12,Condiments,调味料,調味料,12.11,Soups/Broth,汤底,湯底,32,Sauce,調味醬料,10603261,Hot Pot Condiment Ch,火鍋底料中式
+12,Condiments,调味料,調味料,12.11,Soups/Broth,汤底,湯底,32,Sauce,調味醬料,10603262,Hot Pot Condiment Jp,火鍋底料日式
+12,Condiments,调味料,調味料,12.11,Soups/Broth,汤底,湯底,32,Sauce,調味醬料,10603269,Hot Pot Condi Other,火鍋底料其他
+12,Condiments,调味料,調味料,12.11,Soups/Broth,汤底,湯底,56,Soup,湯底,10605601,Chicken Broth Box,清雞湯盒裝
+12,Condiments,调味料,調味料,12.11,Soups/Broth,汤底,湯底,56,Soup,湯底,10605602,Chicken Broth Can,清雞湯罐裝
+12,Condiments,调味料,調味料,12.11,Soups/Broth,汤底,湯底,56,Soup,湯底,10605603,Beef Broth/Stock Box,清牛湯盒裝
+12,Condiments,调味料,調味料,12.11,Soups/Broth,汤底,湯底,56,Soup,湯底,10605604,Beef Broth/Stock Can,清牛湯罐裝
+12,Condiments,调味料,調味料,12.11,Soups/Broth,汤底,湯底,56,Soup,湯底,10605611,Vegetable Broth,蔬菜清湯
+12,Condiments,调味料,調味料,12.11,Soups/Broth,汤底,湯底,56,Soup,湯底,10605621,Bouillon/Soup Mix,濃縮湯底料
+12,Condiments,调味料,調味料,12.11,Soups/Broth,汤底,湯底,56,Soup,湯底,10605631,Other Canned Soup,其他湯底罐頭
+12,Condiments,调味料,調味料,12.12,Dips/Dressings/Spreads/Honey,沾酱/淋酱/抹酱/蜂蜜,沾醬/淋醬/抹醬/蜂蜜,32,Sauce,調味醬料,10603224,Wasabi/Mustard,芥茉
+12,Condiments,调味料,調味料,12.12,Dips/Dressings/Spreads/Honey,沾酱/淋酱/抹酱/蜂蜜,沾醬/淋醬/抹醬/蜂蜜,32,Sauce,調味醬料,10603251,Coconut Milk/Powder,椰奶/椰粉
+12,Condiments,调味料,調味料,12.12,Dips/Dressings/Spreads/Honey,沾酱/淋酱/抹酱/蜂蜜,沾醬/淋醬/抹醬/蜂蜜,34,Western Style Sauce,西式醬料,10603401,Peanut Butter,花生醬
+12,Condiments,调味料,調味料,12.12,Dips/Dressings/Spreads/Honey,沾酱/淋酱/抹酱/蜂蜜,沾醬/淋醬/抹醬/蜂蜜,34,Western Style Sauce,西式醬料,10603402,Chocolate Dressing,巧克力醬
+12,Condiments,调味料,調味料,12.12,Dips/Dressings/Spreads/Honey,沾酱/淋酱/抹酱/蜂蜜,沾醬/淋醬/抹醬/蜂蜜,34,Western Style Sauce,西式醬料,10603403,Honey,蜂蜜
+12,Condiments,调味料,調味料,12.12,Dips/Dressings/Spreads/Honey,沾酱/淋酱/抹酱/蜂蜜,沾醬/淋醬/抹醬/蜂蜜,34,Western Style Sauce,西式醬料,10603404,Ketchup,番茄醬
+12,Condiments,调味料,調味料,12.12,Dips/Dressings/Spreads/Honey,沾酱/淋酱/抹酱/蜂蜜,沾醬/淋醬/抹醬/蜂蜜,34,Western Style Sauce,西式醬料,10603405,Jam,果醬
+12,Condiments,调味料,調味料,12.12,Dips/Dressings/Spreads/Honey,沾酱/淋酱/抹酱/蜂蜜,沾醬/淋醬/抹醬/蜂蜜,34,Western Style Sauce,西式醬料,10603406,Condensed Milk,煉乳
+12,Condiments,调味料,調味料,12.12,Dips/Dressings/Spreads/Honey,沾酱/淋酱/抹酱/蜂蜜,沾醬/淋醬/抹醬/蜂蜜,34,Western Style Sauce,西式醬料,10603411,Salad Drss Mnstr Brd,沙拉醬主流
+12,Condiments,调味料,調味料,12.12,Dips/Dressings/Spreads/Honey,沾酱/淋酱/抹酱/蜂蜜,沾醬/淋醬/抹醬/蜂蜜,34,Western Style Sauce,西式醬料,10603412,Salad Drss Jp Brd,沙拉醬日系
+12,Condiments,调味料,調味料,12.12,Dips/Dressings/Spreads/Honey,沾酱/淋酱/抹酱/蜂蜜,沾醬/淋醬/抹醬/蜂蜜,34,Western Style Sauce,西式醬料,10603413,Mayonnaise Mnstr Brd,美乃滋主流
+12,Condiments,调味料,調味料,12.12,Dips/Dressings/Spreads/Honey,沾酱/淋酱/抹酱/蜂蜜,沾醬/淋醬/抹醬/蜂蜜,34,Western Style Sauce,西式醬料,10603414,Mayonnaise Jp Brand,美乃滋日系
+12,Condiments,调味料,調味料,12.12,Dips/Dressings/Spreads/Honey,沾酱/淋酱/抹酱/蜂蜜,沾醬/淋醬/抹醬/蜂蜜,28,Chips,薯片,10102861,Chips Salsa Sauce,薯片蘸酱
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.1,XXXXX,预留位,預留位,,,,,,
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.2,Seafood/Meat/Egg,鱼/肉/蛋,魚/肉/蛋,52,Canned Meat,肉類罐頭,10605201,Canned Luncheon Meat,午餐肉罐頭
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.2,Seafood/Meat/Egg,鱼/肉/蛋,魚/肉/蛋,52,Canned Meat,肉類罐頭,10605202,Canned Beef,牛肉罐頭
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.2,Seafood/Meat/Egg,鱼/肉/蛋,魚/肉/蛋,52,Canned Meat,肉類罐頭,10605203,Seasoned Meat Floss,肉鬆
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.2,Seafood/Meat/Egg,鱼/肉/蛋,魚/肉/蛋,52,Canned Meat,肉類罐頭,10605211,Canned Fish,魚罐頭
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.2,Seafood/Meat/Egg,鱼/肉/蛋,魚/肉/蛋,52,Canned Meat,肉類罐頭,10605212,Seasoned Fish Floss,魚肉鬆
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.2,Seafood/Meat/Egg,鱼/肉/蛋,魚/肉/蛋,52,Canned Meat,肉類罐頭,10605221,Canned Quail Egg,鵪鶉蛋罐頭
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.2,Seafood/Meat/Egg,鱼/肉/蛋,魚/肉/蛋,52,Canned Meat,肉類罐頭,10605231,Other Canned Meat,其他肉罐頭
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.3,Vegetables/Soy-based,蔬菜/豆制品,蔬菜/豆製品,51,Pickled Vegetable,醬菜,10605101,Pickle Mustard Tuber,榨菜
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.3,Vegetables/Soy-based,蔬菜/豆制品,蔬菜/豆製品,51,Pickled Vegetable,醬菜,10605102,Pickled Radish,蘿蔔丁
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.3,Vegetables/Soy-based,蔬菜/豆制品,蔬菜/豆製品,51,Pickled Vegetable,醬菜,10605103,Pickled Cucumber,醃黃瓜
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.3,Vegetables/Soy-based,蔬菜/豆制品,蔬菜/豆製品,51,Pickled Vegetable,醬菜,10605104,Canned Gluten,罐頭麵筋
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.3,Vegetables/Soy-based,蔬菜/豆制品,蔬菜/豆製品,51,Pickled Vegetable,醬菜,10605111,Oth Asia PickledVege,其他亞洲醃漬蔬菜
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.3,Vegetables/Soy-based,蔬菜/豆制品,蔬菜/豆製品,51,Pickled Vegetable,醬菜,10605121,Western Pickled Vege,西式醃漬蔬菜
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.3,Vegetables/Soy-based,蔬菜/豆制品,蔬菜/豆製品,53,Canned Vegetable,蔬菜罐頭,10605301,Canned Corn,罐頭玉米
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.3,Vegetables/Soy-based,蔬菜/豆制品,蔬菜/豆製品,53,Canned Vegetable,蔬菜罐頭,10605302,Canned Bean,罐頭豆類
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.3,Vegetables/Soy-based,蔬菜/豆制品,蔬菜/豆製品,53,Canned Vegetable,蔬菜罐頭,10605303,Canned Bamboo Shoot,罐頭筍
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.3,Vegetables/Soy-based,蔬菜/豆制品,蔬菜/豆製品,53,Canned Vegetable,蔬菜罐頭,10605311,Other Canned Vege,其他蔬菜罐頭
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.3,Vegetables/Soy-based,蔬菜/豆制品,蔬菜/豆製品,32,Sauce,調味醬料,10603216,Fermented Bean Curd,豆腐乳
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.4,Fruits/Desserts,水果/甜品,水果/甜品,54,Canned Fruit,水果罐頭,10605401,Canned Pineapple,罐頭鳳梨
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.4,Fruits/Desserts,水果/甜品,水果/甜品,54,Canned Fruit,水果罐頭,10605402,Canned Coconut,罐頭椰子
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.4,Fruits/Desserts,水果/甜品,水果/甜品,54,Canned Fruit,水果罐頭,10605403,Canned Lychee,罐頭荔枝
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.4,Fruits/Desserts,水果/甜品,水果/甜品,54,Canned Fruit,水果罐頭,10605404,Canned Orange,罐頭橘子
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.4,Fruits/Desserts,水果/甜品,水果/甜品,54,Canned Fruit,水果罐頭,10605411,Other Canned Fruit,其他水果罐頭
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.4,Fruits/Desserts,水果/甜品,水果/甜品,55,Canned Dessert,甜品罐頭,10605501,Canned Congee,罐頭粥
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.4,Fruits/Desserts,水果/甜品,水果/甜品,55,Canned Dessert,甜品罐頭,10605502,Canned Dessert Soup,罐頭甜湯
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.4,Fruits/Desserts,水果/甜品,水果/甜品,55,Canned Dessert,甜品罐頭,10605503,Herbal Jelly,龜苓膏/仙草
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.4,Fruits/Desserts,水果/甜品,水果/甜品,55,Canned Dessert,甜品罐頭,10605504,Cannned Fl Dessert,罐頭菲律賓甜品
+13,Canned/Preserved,罐头/腌制品,罐頭/醃製品,13.4,Fruits/Desserts,水果/甜品,水果/甜品,55,Canned Dessert,甜品罐頭,10605511,Other Canned Dessert,其他甜品罐頭
+14,Home & Life,日用百貨,日用百貨,14.1,XXXXX,预留位,預留位,,,,,,
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,44,Wrap,保鮮膜/袋,10504401,Food Storage Bag,食品儲藏袋
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,44,Wrap,保鮮膜/袋,10504402,Wrap,保鮮膜
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,44,Wrap,保鮮膜/袋,10504403,Foil,錫紙
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506501,Turner,鍋鏟
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506502,Ladel,湯勺
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506503,Skimmer,漏勺
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506504,Rice Spoon,飯勺
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506505,Egg Beater,打蛋器
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506506,Tong & Dish Clips,鐵夾/碗夾
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506507,Steam Rack,蒸架
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506508,Steamer Paper,蒸籠紙
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506509,Cheesecloth,料袋
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506511,BBQ Tools,燒烤工具
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506512,Baking Tools,烘焙工具
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506513,Baking Tray,烤盤
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506521,Table Mat/Coaster,隔熱桌墊/杯墊
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506522,Oven Mitts,隔熱手套
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506531,Chopper Knife,菜刀
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506532,Bread Knife,麵包刀
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506533,Fruit Knife,水果刀
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506534,Peeler,刨刀
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506535,Kitchen Scissors,廚用剪刀
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506536,Knives Set,刀具套組
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506537,Knife Sharpner,磨刀棒
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506538,Bottle Opener,開瓶器
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506541,Cutting Board Wood,菜板木質
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506542,Cutting Board Bamboo,菜板竹質
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506543,CuttingBoard Plastic,菜板塑膠
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506544,Rolling Pin,擀麵杖
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,65,Kitchen Gadgets,廚房用具,10506551,Other Kitchen Gadget,其他廚房用具
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,68,Plastic Houseware,塑膠用品,10506811,Seasoning Bottle,調味瓶
+14,Home & Life,日用百貨,日用百貨,14.2,Kitchenware,厨房用品,廚房用品,68,Plastic Houseware,塑膠用品,10506812,Oil Bottle,油壺
+14,Home & Life,日用百貨,日用百貨,14.3,XXXXX,预留位,預留位,,,,,,
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506101,Frying Pan 26cm/Less,炒鍋26釐米及以下
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506102,Frying Pan 28cm,炒鍋28釐米
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506103,Frying Pan 30cm,炒鍋30釐米
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506104,Frying Pan 32cm/More,炒鍋32釐米及以上
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506111,Soup Pot,湯鍋
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506112,Single Handle Pot,單柄鍋/奶鍋
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506113,Steamer,蒸鍋/蒸籠
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506114,Casserole,砂鍋
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506121,Pan Lid,鍋蓋
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506122,Stove Liner,鋁爐墊/瓦斯鋁爐防油墊
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506131,Portable Stove,瓦斯爐
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506132,Butane Gas,瓦斯罐
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506133,BBQ Grill,烤架
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506134,Charcoal/Wood,炭/木柴
+14,Home & Life,日用百貨,日用百貨,14.4,Cookware,锅具,鍋具,61,Cookware,鍋具,10506141,Other Cookware,其他鍋具
+14,Home & Life,日用百貨,日用百貨,14.5,Appliances,电器,電器,62,Kitchen Appliance,廚用電器,10506201,Rice Cooker,電飯鍋
+14,Home & Life,日用百貨,日用百貨,14.5,Appliances,电器,電器,62,Kitchen Appliance,廚用電器,10506202,Pressure Cooker,電壓力鍋
+14,Home & Life,日用百貨,日用百貨,14.5,Appliances,电器,電器,62,Kitchen Appliance,廚用電器,10506203,Electric Hot Pot,電火鍋
+14,Home & Life,日用百貨,日用百貨,14.5,Appliances,电器,電器,62,Kitchen Appliance,廚用電器,10506204,Pressure Cooker Seal,壓力鍋密封圈
+14,Home & Life,日用百貨,日用百貨,14.5,Appliances,电器,電器,62,Kitchen Appliance,廚用電器,10506211,Electric Kettle,電燒水壺
+14,Home & Life,日用百貨,日用百貨,14.5,Appliances,电器,電器,62,Kitchen Appliance,廚用電器,10506212,Elec Water Dispenser,保溫熱水壺
+14,Home & Life,日用百貨,日用百貨,14.5,Appliances,电器,電器,62,Kitchen Appliance,廚用電器,10506213,Blender & Extractor,攪拌機/榨汁機
+14,Home & Life,日用百貨,日用百貨,14.5,Appliances,电器,電器,62,Kitchen Appliance,廚用電器,10506221,Battery,電池
+14,Home & Life,日用百貨,日用百貨,14.5,Appliances,电器,電器,62,Kitchen Appliance,廚用電器,10506231,Oth KitchenAppliance,其他廚用電器
+14,Home & Life,日用百貨,日用百貨,14.5,Appliances,电器,電器,63,Appliance,家用電器,10506301,Light Bulb,燈泡
+14,Home & Life,日用百貨,日用百貨,14.5,Appliances,电器,電器,63,Appliance,家用電器,10506302,Fan & AC,風扇/冷氣機
+14,Home & Life,日用百貨,日用百貨,14.5,Appliances,电器,電器,63,Appliance,家用電器,10506303,FitnessTool/Massager,健身工具/按摩器
+14,Home & Life,日用百貨,日用百貨,14.5,Appliances,电器,電器,63,Appliance,家用電器,10506311,Other Appliance,其他家用電器
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,45,Disposable Tableware,一次性餐具,10504501,Disposable Cup,一次性杯
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,45,Disposable Tableware,一次性餐具,10504502,Dispsbl Bowl & Plate,一次性碗碟
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,45,Disposable Tableware,一次性餐具,10504503,Disposable Cutlery,一次性刀叉
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,45,Disposable Tableware,一次性餐具,10504504,Disposable Chopstcks,一次性筷子
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,45,Disposable Tableware,一次性餐具,10504505,Toothpick,牙籤
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,45,Disposable Tableware,一次性餐具,10504506,Disposable Straw,吸管
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506401,China Bowl,瓷碗
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506402,China Noodle Bowl,瓷麵碗/大碗
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506403,China Soup Basin,瓷湯盆
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506404,China Plate,瓷盤
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506405,China Oval Plate,瓷魚盤
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506406,China Spoon,瓷勺
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506409,China Other,其他瓷器餐具
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506411,Japanese Porcelain,日本瓷器餐具
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506421,Melamine Bowl,美耐皿碗
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506422,Melamine Plate,美耐皿盤
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506423,Melamine Spoon,美耐皿勺
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506429,Melamine Other,其他美耐皿餐具
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506431,Stainless Steel Bowl,不鏽鋼碗
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506432,StnlssStl NoodleBowl,不鏽鋼麵碗/大碗
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506433,StnlssStl Soup Basin,不鏽鋼湯盆
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506434,Stainless Stl Plate,不鏽鋼餐盤
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506435,StnlssStl Oval Plate,不鏽鋼魚盤
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506441,StainlessSteel Spoon,不鏽鋼匙
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506442,Stainless Steel Fork,不鏽鋼叉
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506443,StnlssStl TableKnife,不鏽鋼餐刀
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506449,Stainless Steel Oth,其他不鏽鋼餐具
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506451,Chopsticks Bamboo,竹筷
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506452,Chopsticks Wood,木筷
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506453,Chopsticks Metal,金屬筷
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506459,Chopsticks Other,其他筷子
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,64,Dinnerware,餐具,10506461,Other Dinnerware,其他餐具
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,66,Drinkware,水杯水具,10506601,Cup China,水杯瓷器
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,66,Drinkware,水杯水具,10506602,Cup Glass,水杯玻璃
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,66,Drinkware,水杯水具,10506603,Cup Stainless Steel,水杯不鏽鋼
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,66,Drinkware,水杯水具,10506604,Cup Plastic,水杯塑膠
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,66,Drinkware,水杯水具,10506611,Thermo Water Bottle,保溫杯
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,66,Drinkware,水杯水具,10506621,Kids Water Bottle,兒童水壺
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,66,Drinkware,水杯水具,10506622,Sport Water Bottle,運動水壺
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,66,Drinkware,水杯水具,10506631,Tea Pot/Set,茶壺/套裝
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,66,Drinkware,水杯水具,10506632,Jug,水壺
+14,Home & Life,日用百貨,日用百貨,14.6,Tableware,餐具,餐具,66,Drinkware,水杯水具,10506641,Oth Cup Water Bottle,其他水杯水壺
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,31,Laundry Detergent,衣物洗滌,10503101,Laundry Liquid,洗衣液
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,31,Laundry Detergent,衣物洗滌,10503102,Laundry Pacs,洗衣凝珠
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,31,Laundry Detergent,衣物洗滌,10503103,Laundry Powder,洗衣粉
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,31,Laundry Detergent,衣物洗滌,10503104,Laundry Soap,洗衣皂
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,31,Laundry Detergent,衣物洗滌,10503105,Fabric Softner,衣物柔順劑
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,31,Laundry Detergent,衣物洗滌,10503107,Laundry Sanitizer,衣物除菌液
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,31,Laundry Detergent,衣物洗滌,10503111,Oth LaundryDetergent,其他衣物洗滌
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,31,Laundry Detergent,衣物洗滌,10503106,Dryer Sheets,烘衣紙
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,32,Kitchen Detergent,廚房清潔,10503201,Detergent Dish,洗潔精餐具
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,32,Kitchen Detergent,廚房清潔,10503202,Detergent Vege Fruit,洗潔精蔬果
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,32,Kitchen Detergent,廚房清潔,10503203,Detergent DishWasher,洗潔精洗碗機用
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,32,Kitchen Detergent,廚房清潔,10503204,Kitchen Cleaner,油污清潔劑
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,32,Kitchen Detergent,廚房清潔,10503211,Oth KitchenDetergent,其他廚房清潔
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,33,Home Cleaner,家居清潔,10503301,Cleaner Toilet,潔廁劑
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,33,Home Cleaner,家居清潔,10503302,Cleaner Bath,清潔劑浴室
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,33,Home Cleaner,家居清潔,10503303,Cleaner Glass,清潔劑玻璃
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,33,Home Cleaner,家居清潔,10503304,Cleaner All-purpose,多功能清潔劑
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,33,Home Cleaner,家居清潔,10503305,Bleach,漂白水
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,33,Home Cleaner,家居清潔,10503306,Disinfecting Wipe,消毒濕巾
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,33,Home Cleaner,家居清潔,10503311,Other Home Cleaner,其它家居清潔
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,33,Home Cleaner,家居清潔,10503321,Pesticide,殺蟲劑
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503501,Mop,拖把
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503502,Broom,掃把
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503503,Mop Bucket,拖把桶
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503504,Dustpan,簸箕
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503505,Dustbin,垃圾桶
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503506,Toilet Brush,馬桶刷
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503511,Rubber Gloves,塑膠手套
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503513,Cleaning Cloth,抹布
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503514,Kitchen Sponge,百潔布
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503515,Cup Brush,杯刷
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503516,Frying Pan Brush,鍋刷
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503517,Brush,刷子
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503518,Metal Scrubber,鋼絲球
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503521,Other Cleaning Tool,其他清潔用品
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,35,Cleaning Tool,清潔工具,10503512,Apron,圍裙
+14,Home & Life,日用百貨,日用百貨,14.7,Cleaning,清洁用品,清潔用品,45,Disposable Tableware,一次性餐具,10504507,Trash Bag,垃圾袋
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,51,Baby Formula & Food,嬰兒配方奶粉/食品,10505101,Formula 0-6m,0-6月階段
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,51,Baby Formula & Food,嬰兒配方奶粉/食品,10505102,Formula 6-12m,6-12月階段
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,51,Baby Formula & Food,嬰兒配方奶粉/食品,10505103,Formula 1-3y,1-3歲階段
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,51,Baby Formula & Food,嬰兒配方奶粉/食品,10505104,Formula Over 3y,>3歲階段
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,51,Baby Formula & Food,嬰兒配方奶粉/食品,10505105,Baby Food,嬰兒食品
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,52,Diaper & Wipe,嬰兒紙尿褲/濕巾,10505201,Size New Born,紙尿褲新生嬰兒
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,52,Diaper & Wipe,嬰兒紙尿褲/濕巾,10505202,Size S,紙尿褲小碼
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,52,Diaper & Wipe,嬰兒紙尿褲/濕巾,10505203,Size M,紙尿褲中碼
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,52,Diaper & Wipe,嬰兒紙尿褲/濕巾,10505204,Size L,紙尿褲大碼
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,52,Diaper & Wipe,嬰兒紙尿褲/濕巾,10505205,Size XL,紙尿褲加大碼
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,52,Diaper & Wipe,嬰兒紙尿褲/濕巾,10505206,Size XXL/More,紙尿褲加加大碼及以上
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,52,Diaper & Wipe,嬰兒紙尿褲/濕巾,10505211,Baby Wipe,嬰兒濕巾
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,53,Baby Care,嬰兒洗護,10505301,Baby Wash,嬰兒洗浴
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,53,Baby Care,嬰兒洗護,10505302,Baby Powder,嬰兒爽身粉
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,53,Baby Care,嬰兒洗護,10505303,Baby Lotion,嬰兒潤體乳
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,53,Baby Care,嬰兒洗護,10505304,Baby Laundry,嬰兒洗衣液
+14,Home & Life,日用百貨,日用百貨,14.8,Kids & Baby,母婴用品,母嬰用品,53,Baby Care,嬰兒洗護,10505311,Other Baby Care,其他嬰兒洗護
+14,Home & Life,日用百貨,日用百貨,14.9,Pet Supplies,宠物用品,寵物用品,54,Pet,寵物用品,10505401,Dog Food,狗糧
+14,Home & Life,日用百貨,日用百貨,14.9,Pet Supplies,宠物用品,寵物用品,54,Pet,寵物用品,10505402,Cat Food,貓糧
+14,Home & Life,日用百貨,日用百貨,14.9,Pet Supplies,宠物用品,寵物用品,54,Pet,寵物用品,10505411,Pet Toy & Other,寵物玩具/其他
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,34,Air Freshener,空氣清新劑,10503401,Air Freshener Spray,空氣清新劑噴罐
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,34,Air Freshener,空氣清新劑,10503402,Air Freshener Gel,空氣清新劑啫喱
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,34,Air Freshener,空氣清新劑,10503403,Air Freshener Liquid,空氣清新劑香液
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,34,Air Freshener,空氣清新劑,10503404,Air Freshener forCar,空氣清新劑車用
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,34,Air Freshener,空氣清新劑,10503411,Air Freshener Other,空氣清新劑其他
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,41,Bath Tissue,衛生紙,10504101,13 Rolls/More,13卷及以上
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,41,Bath Tissue,衛生紙,10504102,7-12 Rolls,7-12卷
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,41,Bath Tissue,衛生紙,10504103,6 Rolls/Less,6卷及以下
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,41,Bath Tissue,衛生紙,10504111,Flushable Wipe,濕廁紙
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,42,Paper Towel,廚房紙巾,10504201,Kitchen Towel,廚房紙巾
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,42,Paper Towel,廚房紙巾,10504202,Kitchen Wipe,廚房濕巾
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,43,Facial Tissue,面巾紙,10504301,Napkin,餐巾紙
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,43,Facial Tissue,面巾紙,10504302,Facial Tissue,面巾紙
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,43,Facial Tissue,面巾紙,10504311,Hand Wipe,手臉濕巾
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,43,Facial Tissue,面巾紙,10504312,Sanitizing Hand Wipe,消毒手臉濕巾
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,67,Food Storage,食品盒,10506701,Food Container Glass,食物盒玻璃
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,67,Food Storage,食品盒,10506702,Food Contn Plastic,食物盒塑膠
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,67,Food Storage,食品盒,10506703,Food Contn Thermo,食物盒保溫
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,67,Food Storage,食品盒,10506711,Other Food Container,其他食物盒
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,68,Plastic Houseware,塑膠用品,10506801,Basin,水盆
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,68,Plastic Houseware,塑膠用品,10506802,Sifter,篩子
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,68,Plastic Houseware,塑膠用品,10506803,Rice Container,米桶
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,68,Plastic Houseware,塑膠用品,10506804,Bucket,水桶
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,68,Plastic Houseware,塑膠用品,10506805,Tray,茶盤
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,68,Plastic Houseware,塑膠用品,10506813,Chopsticks Holder,筷籠
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,68,Plastic Houseware,塑膠用品,10506821,Soap Tray,皂盒
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,68,Plastic Houseware,塑膠用品,10506822,Water Ladel,水瓢
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,68,Plastic Houseware,塑膠用品,10506823,Laundry Bag,洗衣袋
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,68,Plastic Houseware,塑膠用品,10506831,Hanger,衣架
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,68,Plastic Houseware,塑膠用品,10506841,Stool,椅子
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,68,Plastic Houseware,塑膠用品,10506851,Oth PlasticHouseware,其它塑膠用品
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,72,Joss Material,祭祀用品,10507201,Paper Money,紙錢
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,72,Joss Material,祭祀用品,10507202,Incense,香
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,72,Joss Material,祭祀用品,10507203,Candle,蠟燭
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,73,Publication,報紙雜誌,10507301,Newspaper Chinese,報紙中文
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,73,Publication,報紙雜誌,10507302,Newspaper English,報紙英文
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,73,Publication,報紙雜誌,10507303,Magazine/Cook Book,雜誌/食譜
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,74,Card,卡片,10507401,Phone Card,電話卡
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,74,Card,卡片,10507402,Gift Card,禮品卡
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,75,Music Instrument,樂器,10507501,Music Instrument,樂器
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,81,Towel,毛巾,10508101,Face Towel,洗臉巾
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,81,Towel,毛巾,10508102,Bath Towel,浴巾
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,81,Towel,毛巾,10508103,Other Towel,其他毛巾
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,82,Clothing,服裝,10508201,Tank Men,男士背心
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,82,Clothing,服裝,10508202,Tank Women,女士背心
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,82,Clothing,服裝,10508211,Socks Men,男襪
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,82,Clothing,服裝,10508212,Socks Women,女襪
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,82,Clothing,服裝,10508221,Other Clothing,其他服裝
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,83,Slippers,拖鞋,10508301,Plastic Slippers Men,塑膠拖鞋男
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,83,Slippers,拖鞋,10508302,Plastic Slippers Wmn,塑膠拖鞋女
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,83,Slippers,拖鞋,10508303,Cotton Slippers Men,棉拖鞋男
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,83,Slippers,拖鞋,10508304,Cotton Slippers Wmn,棉拖鞋女
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,83,Slippers,拖鞋,10508311,Other Slipppers,其他拖鞋
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,95,Toy,玩具,10509501,Blind Box,盲盒
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,96,Battery,電池,10509601,AA Battery,五號電池
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,96,Battery,電池,10509602,AAA Battery,七號電池
+14,Home & Life,日用百貨,日用百貨,14.1,Other Household Items,其他家用,其他家用,45,Disposable Tableware,一次性餐具,10504511,Other Disposable,其他一次性用品
+14,Home & Life,日用百貨,日用百貨,14.11,XXXXX,预留位,預留位,,,,,,
+14,Home & Life,日用百貨,日用百貨,14.12,Decoration,家居装饰,家居裝飾,71,Decoration,家居裝飾,10507101,Deco Daily,裝飾日常
+14,Home & Life,日用百貨,日用百貨,14.12,Decoration,家居装饰,家居裝飾,71,Decoration,家居裝飾,10507102,Deco Lunar New Year,裝飾農曆春節
+14,Home & Life,日用百貨,日用百貨,14.12,Decoration,家居装饰,家居裝飾,71,Decoration,家居裝飾,10507103,Deco Christmas,裝飾聖誕
+14,Home & Life,日用百貨,日用百貨,14.12,Decoration,家居装饰,家居裝飾,71,Decoration,家居裝飾,10507104,Deco Easter,裝飾復活節
+14,Home & Life,日用百貨,日用百貨,14.12,Decoration,家居装饰,家居裝飾,71,Decoration,家居裝飾,10507105,Deco Halloween,裝飾萬聖節
+15,Beauty & Health,美妆保健,美妝保健,15.1,XXXXX,预留位,預留位,,,,,,
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,24,Face Care,面部護理,10502401,FacialCleanser KrBrd,洗面乳韓系
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,24,Face Care,面部護理,10502402,FacialCleanser JpBrd,洗面乳日系
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,24,Face Care,面部護理,10502409,FacialCleanser OthBr,洗面乳其他
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,24,Face Care,面部護理,10502411,Moisturizer Kr Brand,潤膚霜韓系
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,24,Face Care,面部護理,10502412,Moisturizer Jp Brand,潤膚霜日系
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,24,Face Care,面部護理,10502419,Moisturizer OtherBrd,潤膚霜其他
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,24,Face Care,面部護理,10502421,Mask Chinese Brand,面膜中系
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,24,Face Care,面部護理,10502422,Mask Korean Brand,面膜韓系
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,24,Face Care,面部護理,10502423,Mask Japanese Brand,面膜日系
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,24,Face Care,面部護理,10502429,Mask Other Brand,面膜其他
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,24,Face Care,面部護理,10502431,Sunblock,防曬霜
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,24,Face Care,面部護理,10502432,Lipbalm,潤唇膏
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,24,Face Care,面部護理,10502441,Other Face Care,其他護膚品
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,25,Makeup,彩妆,10502504,Makeup Remover,卸妝水
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,26,Beauty & Hair Acc,美妝美髮配件,10502602,Cosmetic Cotton,化妝棉
+15,Beauty & Health,美妆保健,美妝保健,15.2,Skincare,脸部保养,臉部保養,26,Beauty & Hair Acc,美妝美髮配件,10502603,Disposable FaceTowel,洗臉巾
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502101,Shampoo Mnstr Brand,洗髮水主流
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502102,Shampoo Ch Brand,洗髮水中系
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502103,Shampoo Kr Brand,洗髮水韓系
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502104,Shampoo Jp Brand,洗髮水日系
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502111,Shampoo Other Brand,洗髮水其他
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502121,Conditioner MnstrBrd,護髮素主流
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502122,Conditioner Ch Brand,護髮素中系
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502123,Conditioner Kr Brand,護髮素韓系
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502124,Conditioner Jp Brand,護髮素日系
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502131,Conditioner Oth Brd,護髮素其他
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502141,Hair Mask,發膜
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502151,Hair Color Kr Brand,染髮劑韓系
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502152,Hair Color Jp Brand,染髮劑日系
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502161,Hair Color Other Brd,染髮劑其他
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502171,Hair Styling Spray,定型噴霧
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502172,Hair Styling Gel,定型著哩
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502173,Hair Styling Wax,定型髮蠟
+15,Beauty & Health,美妆保健,美妝保健,15.3,Hair Care,洗护美发,洗護美髮,21,Hair Care,頭髮護理,10502181,Other Hair Care,其他頭髮護理
+15,Beauty & Health,美妆保健,美妝保健,15.4,Bath & Body,身体保养,身體保養,22,Bath & Body Care,沐浴/身體護理,10502201,Body Wash Mnstr Brd,沐浴露主流
+15,Beauty & Health,美妆保健,美妝保健,15.4,Bath & Body,身体保养,身體保養,22,Bath & Body Care,沐浴/身體護理,10502202,Body Wash Ch Brand,沐浴露中系
+15,Beauty & Health,美妆保健,美妝保健,15.4,Bath & Body,身体保养,身體保養,22,Bath & Body Care,沐浴/身體護理,10502203,Body Wash Kr Brand,沐浴露韓系
+15,Beauty & Health,美妆保健,美妝保健,15.4,Bath & Body,身体保养,身體保養,22,Bath & Body Care,沐浴/身體護理,10502204,Body Wash Jp Brand,沐浴露日系
+15,Beauty & Health,美妆保健,美妝保健,15.4,Bath & Body,身体保养,身體保養,22,Bath & Body Care,沐浴/身體護理,10502211,Body Wash Other Brd,沐浴露其他
+15,Beauty & Health,美妆保健,美妝保健,15.4,Bath & Body,身体保养,身體保養,22,Bath & Body Care,沐浴/身體護理,10502221,Body Wash Men,沐浴露男士
+15,Beauty & Health,美妆保健,美妝保健,15.4,Bath & Body,身体保养,身體保養,22,Bath & Body Care,沐浴/身體護理,10502241,Soap,香皂
+15,Beauty & Health,美妆保健,美妝保健,15.4,Bath & Body,身体保养,身體保養,22,Bath & Body Care,沐浴/身體護理,10502242,Hand Soap,洗手液
+15,Beauty & Health,美妆保健,美妝保健,15.4,Bath & Body,身体保养,身體保養,22,Bath & Body Care,沐浴/身體護理,10502243,Hand Sanitizer,免洗洗手液
+15,Beauty & Health,美妆保健,美妝保健,15.4,Bath & Body,身体保养,身體保養,22,Bath & Body Care,沐浴/身體護理,10502251,Body Lotion,潤體乳
+15,Beauty & Health,美妆保健,美妝保健,15.4,Bath & Body,身体保养,身體保養,22,Bath & Body Care,沐浴/身體護理,10502252,Hand Cream,手霜
+15,Beauty & Health,美妆保健,美妝保健,15.4,Bath & Body,身体保养,身體保養,22,Bath & Body Care,沐浴/身體護理,10502253,Deodorant,止汗劑
+15,Beauty & Health,美妆保健,美妝保健,15.4,Bath & Body,身体保养,身體保養,22,Bath & Body Care,沐浴/身體護理,10502261,Other Bath & Body,其他身體護理
+15,Beauty & Health,美妆保健,美妝保健,15.5,Oral Care,口腔护理,口腔護理,23,Oral Care,口腔護理,10502301,Toothpaste Mnstr Brd,牙膏主流
+15,Beauty & Health,美妆保健,美妝保健,15.5,Oral Care,口腔护理,口腔護理,23,Oral Care,口腔護理,10502302,Toothpaste Ch Brand,牙膏中系
+15,Beauty & Health,美妆保健,美妝保健,15.5,Oral Care,口腔护理,口腔護理,23,Oral Care,口腔護理,10502303,Toothpaste Kr Brand,牙膏韓系
+15,Beauty & Health,美妆保健,美妝保健,15.5,Oral Care,口腔护理,口腔護理,23,Oral Care,口腔護理,10502304,Toothpaste Jp Brand,牙膏日系
+15,Beauty & Health,美妆保健,美妝保健,15.5,Oral Care,口腔护理,口腔護理,23,Oral Care,口腔護理,10502311,Toothpaste Other Brd,牙膏其他
+15,Beauty & Health,美妆保健,美妝保健,15.5,Oral Care,口腔护理,口腔護理,23,Oral Care,口腔護理,10502321,Toothpaste Kids,牙膏兒童
+15,Beauty & Health,美妆保健,美妝保健,15.5,Oral Care,口腔护理,口腔護理,23,Oral Care,口腔護理,10502331,Toothbrush Multipack,牙刷多支裝
+15,Beauty & Health,美妆保健,美妝保健,15.5,Oral Care,口腔护理,口腔護理,23,Oral Care,口腔護理,10502332,Toothbrush Single,牙刷單支裝
+15,Beauty & Health,美妆保健,美妝保健,15.5,Oral Care,口腔护理,口腔護理,23,Oral Care,口腔護理,10502333,Toothbrush Kids,牙刷兒童
+15,Beauty & Health,美妆保健,美妝保健,15.5,Oral Care,口腔护理,口腔護理,23,Oral Care,口腔護理,10502334,Floss,牙綫
+15,Beauty & Health,美妆保健,美妝保健,15.5,Oral Care,口腔护理,口腔護理,23,Oral Care,口腔護理,10502341,Mousewash,漱口水
+15,Beauty & Health,美妆保健,美妝保健,15.5,Oral Care,口腔护理,口腔護理,23,Oral Care,口腔護理,10502351,Other Oral Care,其他口腔護理
+15,Beauty & Health,美妆保健,美妝保健,15.6,Personal Care,个人护理,個人護理,27,Feminine Care,女性衛生用品,10502701,Pad Mainstream Brand,衛生巾主流
+15,Beauty & Health,美妆保健,美妝保健,15.6,Personal Care,个人护理,個人護理,27,Feminine Care,女性衛生用品,10502702,Pad Korean Brand,衛生巾韓系
+15,Beauty & Health,美妆保健,美妝保健,15.6,Personal Care,个人护理,個人護理,27,Feminine Care,女性衛生用品,10502703,Pad Japanese Brand,衛生巾日系
+15,Beauty & Health,美妆保健,美妝保健,15.6,Personal Care,个人护理,個人護理,27,Feminine Care,女性衛生用品,10502711,Pad Other Brand,衛生巾其他
+15,Beauty & Health,美妆保健,美妝保健,15.6,Personal Care,个人护理,個人護理,27,Feminine Care,女性衛生用品,10502721,Tampon,棉條
+15,Beauty & Health,美妆保健,美妝保健,15.6,Personal Care,个人护理,個人護理,27,Feminine Care,女性衛生用品,10502731,Other Feminine Care,其他女性衛生用品
+15,Beauty & Health,美妆保健,美妝保健,15.6,Personal Care,个人护理,個人護理,28,Supplements,維他命/藥品,10502801,Vitamin,維他命
+15,Beauty & Health,美妆保健,美妝保健,15.6,Personal Care,个人护理,個人護理,28,Supplements,維他命/藥品,10502802,Oral Medicine,口服藥
+15,Beauty & Health,美妆保健,美妝保健,15.6,Personal Care,个人护理,個人護理,28,Supplements,維他命/藥品,10502803,ExternalUse Medicine,外用藥
+15,Beauty & Health,美妆保健,美妝保健,15.6,Personal Care,个人护理,個人護理,28,Supplements,維他命/藥品,10502804,First Aid,創可貼
+15,Beauty & Health,美妆保健,美妝保健,15.6,Personal Care,个人护理,個人護理,28,Supplements,維他命/藥品,10502805,Mask,口罩
+15,Beauty & Health,美妆保健,美妝保健,15.6,Personal Care,个人护理,個人護理,28,Supplements,維他命/藥品,10502811,Other Supplements,其他維他命/藥品
+15,Beauty & Health,美妆保健,美妝保健,15.7,Makeup,彩妆,彩妝,25,Makeup,彩妆,10502501,Lipstick,口紅
+15,Beauty & Health,美妆保健,美妝保健,15.7,Makeup,彩妆,彩妝,25,Makeup,彩妆,10502502,Mascara,睫毛膏
+15,Beauty & Health,美妆保健,美妝保健,15.7,Makeup,彩妆,彩妝,25,Makeup,彩妆,10502503,Liner,眼綫筆
+15,Beauty & Health,美妆保健,美妝保健,15.7,Makeup,彩妆,彩妝,25,Makeup,彩妆,10502504,Makeup Remover,卸妝水
+15,Beauty & Health,美妆保健,美妝保健,15.7,Makeup,彩妆,彩妝,25,Makeup,彩妆,10502511,Other Makeup,其他彩妆商品
+15,Beauty & Health,美妆保健,美妝保健,15.8,Others,其他,其他,22,Bath & Body Care,沐浴/身體護理,10502231,Bath Ball,沐浴球
+15,Beauty & Health,美妆保健,美妝保健,15.8,Others,其他,其他,26,Beauty & Hair Acc,美妝美髮配件,10502601,Makeup Brush,化妆刷
+15,Beauty & Health,美妆保健,美妝保健,15.8,Others,其他,其他,26,Beauty & Hair Acc,美妝美髮配件,10502604,Cotton Swab,棉棒
+15,Beauty & Health,美妆保健,美妝保健,15.8,Others,其他,其他,26,Beauty & Hair Acc,美妝美髮配件,10502611,Other Beauty Acc,其他美妝配件
+15,Beauty & Health,美妆保健,美妝保健,15.8,Others,其他,其他,26,Beauty & Hair Acc,美妝美髮配件,10502621,Hair Accessory,美髮配件
+16,Deli/Prepared Foods,熟食部,熟食部,16.1,XXXXX,预留位,預留位,,,,,,
+16,Deli/Prepared Foods,熟食部,熟食部,16.2,Chinese BBQ,明火烧腊,明火燒臘,21,BBQ ,燒臘類,60102101,BBQ BEEF,燒臘牛肉
+16,Deli/Prepared Foods,熟食部,熟食部,16.2,Chinese BBQ,明火烧腊,明火燒臘,21,BBQ ,燒臘類,60102102,BBQ Lamb,燒臘羊肉
+16,Deli/Prepared Foods,熟食部,熟食部,16.2,Chinese BBQ,明火烧腊,明火燒臘,21,BBQ ,燒臘類,60102103,BBQ PORK,燒臘豬肉
+16,Deli/Prepared Foods,熟食部,熟食部,16.2,Chinese BBQ,明火烧腊,明火燒臘,21,BBQ ,燒臘類,60102104,BBQ POULTRY,燒臘禽類
+16,Deli/Prepared Foods,熟食部,熟食部,16.2,Chinese BBQ,明火烧腊,明火燒臘,21,BBQ ,燒臘類,60102105,BBQ Other,其他燒臘产品
+16,Deli/Prepared Foods,熟食部,熟食部,16.2,Chinese BBQ,明火烧腊,明火燒臘,21,BBQ ,燒臘類,60102106,BBQ SAUCE/Marinate,燒臘卤水类
+16,Deli/Prepared Foods,熟食部,熟食部,16.2,Chinese BBQ,明火烧腊,明火燒臘,21,BBQ ,燒臘類,60102107,BBQ COMBO,燒臘飯
+16,Deli/Prepared Foods,熟食部,熟食部,16.2,Chinese BBQ,明火烧腊,明火燒臘,21,BBQ ,燒臘類,60102199,Hot Deli dept. key,0
+16,Deli/Prepared Foods,熟食部,熟食部,16.3,Dim Sum,饮茶点心,飲茶點心,22,Dim Sum,點心類,60102201,HK Dim Sum Steam,港粵蒸點
+16,Deli/Prepared Foods,熟食部,熟食部,16.3,Dim Sum,饮茶点心,飲茶點心,22,Dim Sum,點心類,60102202,HK Dim Sum Fry,港粵炸點
+16,Deli/Prepared Foods,熟食部,熟食部,16.3,Dim Sum,饮茶点心,飲茶點心,22,Dim Sum,點心類,60102203,HK Dim Sum Griddle,港粵煎點
+16,Deli/Prepared Foods,熟食部,熟食部,16.3,Dim Sum,饮茶点心,飲茶點心,22,Dim Sum,點心類,60102204,Other DIM SUM,其他點心
+16,Deli/Prepared Foods,熟食部,熟食部,16.3,Dim Sum,饮茶点心,飲茶點心,22,Dim Sum,點心類,60102205,Congee/Noodle/Soup,粥/麵/湯
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,23,Hot Meal ,熱餐食,60102301,ASIAN ENTREE,東南亞熟食
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,23,Hot Meal ,熱餐食,60102302,JP/KO ENTREE,日韩熟食
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,23,Hot Meal ,熱餐食,60102303,Combo Lunch,快餐
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,23,Hot Meal ,熱餐食,60102304,Fried Food,炸物类
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,23,Hot Meal ,熱餐食,60102305,Hot Entree,热菜类
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,23,Hot Meal ,熱餐食,60102306,Bento,便当
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,23,Hot Meal ,熱餐食,60102307,Breakfast,早餐
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,23,Hot Meal ,熱餐食,60102308,Snack,小吃
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,23,Hot Meal ,熱餐食,60102309,Other Hot Meal,其他热餐食
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,23,Hot Meal ,熱餐食,60102310,Service Charge,服務費
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,31,Sushi,壽司類,60103101,Sushi,壽司類
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,31,Sushi,壽司類,60103102,Sashimi,魚生類
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,31,Sushi,壽司類,60103103,Sushi Roll,壽司卷
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,31,Sushi,壽司類,60103104,Poke Bowl,鱼生饭
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,31,Sushi,壽司類,60103105,Combo Box,壽司拼盤
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,32,Sandwich & Wrap ,三明治/卷餅,60103201,Sandwich&Wrap Mnstrm,三明治/卷餅 主流
+16,Deli/Prepared Foods,熟食部,熟食部,16.4,Bento/Sushi/Wraps,便当/寿司/卷饼,便當/壽司/捲餅,32,Sandwich & Wrap ,三明治/卷餅,60103202,Sandwich&Wrap CH,卷餅 中式
+16,Deli/Prepared Foods,熟食部,熟食部,16.5,Cold Dishes,冷盘小食,冷盤小食,33,Cold Marinated Meat,冷滷葷菜,60103301,Cold Marinated Pork,冷鹵豬肉類
+16,Deli/Prepared Foods,熟食部,熟食部,16.5,Cold Dishes,冷盘小食,冷盤小食,33,Cold Marinated Meat,冷滷葷菜,60103302,Cold Marinated Beef,冷鹵牛肉類
+16,Deli/Prepared Foods,熟食部,熟食部,16.5,Cold Dishes,冷盘小食,冷盤小食,33,Cold Marinated Meat,冷滷葷菜,60103303,Cold Mrntd Chicken,冷鹵鷄肉類
+16,Deli/Prepared Foods,熟食部,熟食部,16.5,Cold Dishes,冷盘小食,冷盤小食,33,Cold Marinated Meat,冷滷葷菜,60103304,Cold Mrntd Seafood,冷鹵鱼类/海鲜
+16,Deli/Prepared Foods,熟食部,熟食部,16.5,Cold Dishes,冷盘小食,冷盤小食,33,Cold Marinated Meat,冷滷葷菜,60103305,Cold Marinated Combo,冷鹵拼盘
+16,Deli/Prepared Foods,熟食部,熟食部,16.5,Cold Dishes,冷盘小食,冷盤小食,33,Cold Marinated Meat,冷滷葷菜,60103306,Cold Marinated Other,其他冷鹵
+16,Deli/Prepared Foods,熟食部,熟食部,16.5,Cold Dishes,冷盘小食,冷盤小食,34,Cold Entrée,冷吃小菜,60103401,Cold Chinese Entrée,小菜中式
+16,Deli/Prepared Foods,熟食部,熟食部,16.5,Cold Dishes,冷盘小食,冷盤小食,34,Cold Entrée,冷吃小菜,60103402,Cold Se Entrée,小菜東南亞 
+16,Deli/Prepared Foods,熟食部,熟食部,16.5,Cold Dishes,冷盘小食,冷盤小食,34,Cold Entrée,冷吃小菜,60103403,Other Cold Entrée,其他小菜
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103901,Meat Buns,肉包
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103902,Vegetable Buns,素包
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103903,Sweet Buns,甜包
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103904,No Filling Buns,馒头类
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103905,Other Buns,其他面点
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,40,Cooler Rice Dumpling,冷藏粽子,60104001,Meat Rice Dumplings,肉粽
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,40,Cooler Rice Dumpling,冷藏粽子,60104002,Veg Rice Dumplings,素粽
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,40,Cooler Rice Dumpling,冷藏粽子,60104003,Sweet Rice Dumplings,甜粽
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104101,Cooler instant food ,冷藏即热食品
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104102,Cooler Bento,冷藏便当
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104103,Cooler Dimsum/Snack,冷藏点心/小吃
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104104,Cooler Materials,冷藏食材
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104105,Cooler Mealkit,冷藏配菜
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,51,Material,原材料,60105101,Import Frozen,進口冷凍
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,51,Material,原材料,60105102,Import Refrigeration,進口冷藏
+16,Deli/Prepared Foods,熟食部,熟食部,16.6,Others,其他,其他,51,Material,原材料,60105103,Import Room Temp,進口常溫
+17,Bakery,面包部,麵包部,17.1,XXXXX,预留位,預留位,,,,,,
+17,Bakery,面包部,麵包部,17.2,Cakes/Desserts,蛋糕/甜点,蛋糕/甜點,22,Fresh Cake,自製蛋糕類,50102201,Cream Cake,奶油蛋糕
+17,Bakery,面包部,麵包部,17.2,Cakes/Desserts,蛋糕/甜点,蛋糕/甜點,22,Fresh Cake,自製蛋糕類,50102202,Mousse Cake,慕斯蛋糕
+17,Bakery,面包部,麵包部,17.2,Cakes/Desserts,蛋糕/甜点,蛋糕/甜點,22,Fresh Cake,自製蛋糕類,50102203,Dessert/Pastries,甜品/糕點
+17,Bakery,面包部,麵包部,17.2,Cakes/Desserts,蛋糕/甜点,蛋糕/甜點,23,Fresh Cooler Cake,自製冷藏蛋糕,50102301,Cake Roll,蛋糕卷
+17,Bakery,面包部,麵包部,17.2,Cakes/Desserts,蛋糕/甜点,蛋糕/甜點,23,Fresh Cooler Cake,自製冷藏蛋糕,50102302,Cheesecakes,乳酪蛋糕
+17,Bakery,面包部,麵包部,17.2,Cakes/Desserts,蛋糕/甜点,蛋糕/甜點,24,Other Cooler Dessert,其他冷藏點心,50102401,Other Cooler dessert,其他冷藏點心
+17,Bakery,面包部,麵包部,17.2,Cakes/Desserts,蛋糕/甜点,蛋糕/甜點,25,Fr Rm Temp Dessert,自製常溫點心,50102501,Cup Cake,杯子蛋糕
+17,Bakery,面包部,麵包部,17.2,Cakes/Desserts,蛋糕/甜点,蛋糕/甜點,25,Fr Rm Temp Dessert,自製常溫點心,50102504,Rice Cake,年糕
+17,Bakery,面包部,麵包部,17.2,Cakes/Desserts,蛋糕/甜点,蛋糕/甜點,25,Fr Rm Temp Dessert,自製常溫點心,50102505,Oth Rm Temp Desserts,其他常溫點心
+17,Bakery,面包部,麵包部,17.3,Breads,面包,麵包,21,Fresh Bread,自製麵包類,50102101,Toast,吐司
+17,Bakery,面包部,麵包部,17.3,Breads,面包,麵包,21,Fresh Bread,自製麵包類,50102102,Roll,餐包
+17,Bakery,面包部,麵包部,17.3,Breads,面包,麵包,21,Fresh Bread,自製麵包類,50102103,Small Bread,小麵包
+17,Bakery,面包部,麵包部,17.3,Breads,面包,麵包,21,Fresh Bread,自製麵包類,50102104,Danish,丹麥麵包
+17,Bakery,面包部,麵包部,17.3,Breads,面包,麵包,21,Fresh Bread,自製麵包類,50102105,Corissant,可頌
+17,Bakery,面包部,麵包部,17.3,Breads,面包,麵包,21,Fresh Bread,自製麵包類,50102106,European Bread,歐包
+17,Bakery,面包部,麵包部,17.4,Cookies/Pastries,饼干/酥饼,餅乾/酥餅,25,Fr Rm Temp Dessert,自製常溫點心,50102502,Chinese Pastry,中式酥餅
+17,Bakery,面包部,麵包部,17.4,Cookies/Pastries,饼干/酥饼,餅乾/酥餅,25,Fr Rm Temp Dessert,自製常溫點心,50102503,Cookies,餅乾
+17,Bakery,面包部,麵包部,17.5,Sandwiches/Street Food,三明治/小吃,三明治/小吃,51,Fresh MTO,自製現做點心,50105105,Sandwich,三明治
+17,Bakery,面包部,麵包部,17.5,Sandwiches/Street Food,三明治/小吃,三明治/小吃,51,Fresh MTO,自製現做點心,50105106,Street Food,街頭小吃
+17,Bakery,面包部,麵包部,17.6,Beverages/Fruits,饮料/水果,飲料/水果,41,Fresh Drink,自製飲品,50104101,Fresh Coffee,自製咖啡
+17,Bakery,面包部,麵包部,17.6,Beverages/Fruits,饮料/水果,飲料/水果,41,Fresh Drink,自製飲品,50104102,Fresh Tea ,自製茶飲
+17,Bakery,面包部,麵包部,17.6,Beverages/Fruits,饮料/水果,飲料/水果,41,Fresh Drink,自製飲品,50104111,Coffee Bean,自製咖啡豆
+17,Bakery,面包部,麵包部,17.6,Beverages/Fruits,饮料/水果,飲料/水果,52,Fresh Fruit&Juice,自製水果及果汁,50105201,Fresh Cut Fruit,自製盒切水果
+17,Bakery,面包部,麵包部,17.6,Beverages/Fruits,饮料/水果,飲料/水果,52,Fresh Fruit&Juice,自製水果及果汁,50105202,Fresh Juice,自製新鮮果汁

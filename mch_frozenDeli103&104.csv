@@ -1,0 +1,170 @@
+﻿CURRENT 現有舊模板,,,CURRENT 現有舊模板,,,新 MCH,,,,,
+LV1 English,LV1 繁中,LV1 簡中,LV2 English,LV2 繁中,LV2 簡中,Class,Class English,Class 中文,MCH,MCH Name,MCH 中文
+Beverages,飲品,饮品,Coffee,咖啡,咖啡,27,Chilled Coffee,冷藏咖啡,10302701,Chill Coffee Mnstrm,冷藏咖啡 主流
+Beverages,飲品,饮品,Coffee,咖啡,咖啡,27,Chilled Coffee,冷藏咖啡,10302702,Chilled Coffee Other,冷藏咖啡 其他
+Beverages,飲品,饮品,Coffee,咖啡,咖啡,27,Chilled Coffee,冷藏咖啡,10302703,Chilled Coffee Mate,冷藏咖啡伴侶
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,26,Chilled Juice,冷藏果汁,10302601,Chill Orange JC>50%,冷藏橙汁 >50%
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,26,Chilled Juice,冷藏果汁,10302602,Chill Apple JC>50%,冷藏蘋果汁>50%
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,26,Chilled Juice,冷藏果汁,10302603,Chill Cranbry JC>50%,冷藏蔓越莓汁>50%
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,26,Chilled Juice,冷藏果汁,10302604,Chill Grapeft JC>50%,冷藏西柚汁>50%
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,26,Chilled Juice,冷藏果汁,10302605,Chill Grape JC>50%,冷藏葡萄汁>50%
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,26,Chilled Juice,冷藏果汁,10302606,Chill Pomgrnt JC>50%,冷藏石榴汁>50%
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,26,Chilled Juice,冷藏果汁,10302607,Chill Mixed JC>50%,冷藏混合果汁>50%
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,26,Chilled Juice,冷藏果汁,10302608,Chill Juice Bev<50%,冷藏果汁飲品<=50% 
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,26,Chilled Juice,冷藏果汁,10302609,Chilled Lemonade,冷藏檸檬水
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,26,Chilled Juice,冷藏果汁,10302610,Cold Pressed JC>50%,冷藏冷榨混合果汁 >50%
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,26,Chilled Juice,冷藏果汁,10302611,Probiotic/Kombch Bev,冷藏發酵益生菌/康普茶飲料
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,26,Chilled Juice,冷藏果汁,10302612,Other Chilled Bev,其他冷藏飲料
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,40,Chilled Sauce & Miso,冷藏醬料/味噌,10304003,Clr Shrmp/fish paste,冷藏蝦/鱼醬
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,40,Chilled Sauce & Miso,冷藏醬料/味噌,10304004,Other Cooler Sauce,其他酱料
+Condiments,調料,调料,Chili/ Bean Sauce,辣椒醬/豆瓣醬,辣椒酱/豆瓣酱,40,Chilled Sauce & Miso,冷藏醬料/味噌,10304001,Clr Bean/chili Paste,冷藏豆醬辣醬
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,21,Milk,牛奶,10302101,Milk Whole 3.5%,冷藏牛奶 全脂3.5%
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,21,Milk,牛奶,10302102,Milk Non-Fat <0.5%,冷藏牛奶 脫脂<0.5%
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,21,Milk,牛奶,10302103,Milk Low Fat 1%,冷藏牛奶 低脂 1%
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,21,Milk,牛奶,10302104,Milk 2%,冷藏牛奶 2%
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,21,Milk,牛奶,10302105,Half&Half,冷藏半奶半奶油
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,21,Milk,牛奶,10302106,Heavy Cream,冷藏鮮奶油
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,21,Milk,牛奶,10302107,Other Milk Products,其他冷藏動物奶
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,22,Cheese & Butter,起司/牛油,10302201,Cheese,起司
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,22,Cheese & Butter,起司/牛油,10302202,Butter,牛油/奶油
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,22,Cheese & Butter,起司/牛油,10302203,Margarine,植物奶油
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,22,Cheese & Butter,起司/牛油,10302204,Other fat/cheese,其他起司以及動物油
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,23,Yogurt,優酪乳,10302301,Yogurt Mainstrm reg,優酪乳 主流普通
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,23,Yogurt,優酪乳,10302302,Yogurt Mnstrm Greek,優酪乳 希臘式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,23,Yogurt,優酪乳,10302303,Yogurt Chinese Style,優酪乳 中式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,23,Yogurt,優酪乳,10302304,Yogurt Drink,冷藏養樂多
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,23,Yogurt,優酪乳,10302305,Other Yogurt/drink,其他冷藏乳酸飲料
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,24,Chilled Dairy Drink,冷藏乳制飲品,10302401,Dairy Drink Mainstrm,乳制飲品 主流
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,24,Chilled Dairy Drink,冷藏乳制飲品,10302402,Dairy Drink China,乳制飲品 中國
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,24,Chilled Dairy Drink,冷藏乳制飲品,10302403,Dairy Drink Taiwan,乳制飲品 台灣
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,24,Chilled Dairy Drink,冷藏乳制飲品,10302404,Dairy Drink Korea,乳制飲品 韓國
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,24,Chilled Dairy Drink,冷藏乳制飲品,10302405,Dairy Drink Japan,乳制飲品 日本
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,24,Chilled Dairy Drink,冷藏乳制飲品,10302406,Other Dairy Drink,其它乳制飲品
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,25,Chilled Plant Milk,冷藏植物奶,10302501,Chilled Soy Milk MS,冷藏豆漿豆奶 主流
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,25,Chilled Plant Milk,冷藏植物奶,10302502,Chilled Soy Milk OT,冷藏豆漿豆奶 其他
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,25,Chilled Plant Milk,冷藏植物奶,10302503,Chilled Almond Milk,冷藏杏仁奶
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,25,Chilled Plant Milk,冷藏植物奶,10302504,Chilled Oat Milk,冷藏燕麥奶
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,25,Chilled Plant Milk,冷藏植物奶,10302505,Other Chill plt milk,冷藏其他植物奶
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,51,Egg Regular,普通鷄蛋,10305101,Egg Regular,普通鷄蛋
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,52,Egg Ranch Free,走地鷄鷄蛋,10305201,Egg Ranch Free,走地鷄鷄蛋
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,53,Processed Egg,加工蛋類,10305301,Salted Egg,鹹鴨蛋
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,53,Processed Egg,加工蛋類,10305302,Preserved Egg,皮蛋
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,54,Organic Egg,有機蛋類,10305401,Organic Egg,有機蛋類
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,55,Other Egg,其他蛋類,10305501,Other Egg,其他蛋類
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Eggs/Milk,蛋/奶,蛋/奶,56,Cooked marinated Eeg,卤蛋类,10305601,Cooked marinated Eeg,卤蛋类
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Soybean/Tofu,豆製品,豆制品,33,Fresh & Dried Tofu,豆腐/豆干,10303301,Chilled Tofu,冷藏豆腐
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Soybean/Tofu,豆製品,豆制品,33,Fresh & Dried Tofu,豆腐/豆干,10303302,Chilled Dean Curd,冷藏豆乾
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Soybean/Tofu,豆製品,豆制品,26,Frozen Soy Product,冷凍豆製品,10402601,Frz Fried Soy Prod,冷凍油炸豆製品
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Soybean/Tofu,豆製品,豆制品,26,Frozen Soy Product,冷凍豆製品,10402602,Frz Non-Fried Soy Pd,冷凍非油炸豆製品
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Soybean/Tofu,豆製品,豆制品,26,Frozen Soy Product,冷凍豆製品,10402603,Frz Plant Based Meat,冷凍素肉
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Soybean/Tofu,豆製品,豆制品,26,Frozen Soy Product,冷凍豆製品,10402604,Oth Frz Soy Product,其他冷凍豆製品
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,21,Dumpling &Popsticker,水餃鍋貼,10402101,Frz Meat Dumpling CH,冷凍肉水餃 中式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,21,Dumpling &Popsticker,水餃鍋貼,10402102,Frz Meat Dumpling JP,冷凍肉水餃 日式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,21,Dumpling &Popsticker,水餃鍋貼,10402103,Frz Meat Dumpling KO,冷凍肉水餃 韓式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,21,Dumpling &Popsticker,水餃鍋貼,10402104,Frz Sfd Dumpling CH,冷凍海鮮餃 中式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,21,Dumpling &Popsticker,水餃鍋貼,10402105,Frz Sfd Dumpling JP,冷凍海鮮餃 日式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,21,Dumpling &Popsticker,水餃鍋貼,10402106,Frz Sfd Dumpling KO,冷凍海鮮餃 韓式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,21,Dumpling &Popsticker,水餃鍋貼,10402107,Frz Pot Sticker CH,冷凍鍋貼 中式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,21,Dumpling &Popsticker,水餃鍋貼,10402108,Frz Pot Sticker JP,冷凍鍋貼 日式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,21,Dumpling &Popsticker,水餃鍋貼,10402109,Frz Pot Sticker KO,冷凍鍋貼 韓式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,21,Dumpling &Popsticker,水餃鍋貼,10402110,Frozen Vege Dumpling,冷凍素水餃 韓式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,21,Dumpling &Popsticker,水餃鍋貼,10402111,Other Frz Dumplings,其他冷凍水餃鍋貼
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,23,Frozen Dim Sum,冷凍包點,10402304,Frz Meat Soup Dpl CH,冷凍含肉小籠包 中式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,23,Frozen Dim Sum,冷凍包點,10402305,Frz Meat Soup Dpl KO,冷凍含肉小籠包 韓式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dumpling/Wonton,水餃/雲吞,水饺/云吞,23,Frozen Dim Sum,冷凍包點,10402306,Frz Veg Soup Dpl CH,冷凍素小籠包
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Noodles/Wrappers,新鮮麵/年糕/麵皮,新鲜面/年糕/面皮,31,Chilled Noodle&Bun,冷藏麵點,10303101,Chill Rice Noodle,冷藏米粉粿條河粉 無料包
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Noodles/Wrappers,新鮮麵/年糕/麵皮,新鲜面/年糕/面皮,31,Chilled Noodle&Bun,冷藏麵點,10303102,Chill Rice Ndl W/SN,冷藏米粉粿條河粉 含料包
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Noodles/Wrappers,新鮮麵/年糕/麵皮,新鲜面/年糕/面皮,31,Chilled Noodle&Bun,冷藏麵點,10303103,Chill Wheat Noodle,冷藏麵條烏冬 無料包
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Noodles/Wrappers,新鮮麵/年糕/麵皮,新鲜面/年糕/面皮,31,Chilled Noodle&Bun,冷藏麵點,10303104,Chill Wheat NDL W/SN,冷藏麵條烏冬 含料包
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Noodles/Wrappers,新鮮麵/年糕/麵皮,新鲜面/年糕/面皮,31,Chilled Noodle&Bun,冷藏麵點,10303105,Chilled Rice Cake,冷藏年糕
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Noodles/Wrappers,新鮮麵/年糕/麵皮,新鲜面/年糕/面皮,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303201,Chill Dumpling Wrppr,冷藏餃子皮
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Noodles/Wrappers,新鮮麵/年糕/麵皮,新鲜面/年糕/面皮,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303202,Chill Wonton Wrapper,冷藏雲吞皮
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Noodles/Wrappers,新鮮麵/年糕/麵皮,新鲜面/年糕/面皮,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303203,Chill Spg Roll Wrppr,冷藏春捲皮
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Noodles/Wrappers,新鮮麵/年糕/麵皮,新鲜面/年糕/面皮,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303204,Chilled Konjac,冷藏魔芋
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Noodles/Wrappers,新鮮麵/年糕/麵皮,新鲜面/年糕/面皮,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303205,Chilled Fillings,冷藏餡料
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Noodles/Wrappers,新鮮麵/年糕/麵皮,新鲜面/年糕/面皮,24,Frozen Meal,冷凍餐食,10402411,Frz Rice Cake Plain,冷凍年糕
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,31,Chilled Noodle&Bun,冷藏麵點,10303107,Chill Rdsh/Taro Cake,冷藏蘿蔔糕芋頭糕
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,41,Chilled Meal,冷藏餐食,10304101,Chilled Cooked Soup,冷藏湯類
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,41,Chilled Meal,冷藏餐食,10304102,Chilled Cooked Congee,冷藏粥類
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,41,Chilled Meal,冷藏餐食,10304103,Chilled Rice Meal,冷藏飯食
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,23,Frozen Dim Sum,冷凍包點,10402309,Frozen Shumai,冷凍燒賣
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,23,Frozen Dim Sum,冷凍包點,10402310,Frozen Spring Roll,冷凍春捲
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,23,Frozen Dim Sum,冷凍包點,10402312,Frz DimSum Shrmp Dpg,冷凍蝦餃
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,23,Frozen Dim Sum,冷凍包點,10402313,Frz Rice Ball/Roll,冷凍飯糰
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,23,Frozen Dim Sum,冷凍包點,10402314,Frz Rice Dplg Savory,冷凍粽子 咸
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,23,Frozen Dim Sum,冷凍包點,10402315,Frz Rice Dplg Sweet,冷凍粽子 甜
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,23,Frozen Dim Sum,冷凍包點,10402316,Frozen Fried Dough,冷凍油條
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,23,Frozen Dim Sum,冷凍包點,10402317,Frz Radish/Taro Cake,冷凍蘿蔔芋頭地瓜糕
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,24,Frozen Meal,冷凍餐食,10402401,Frozen Rice Meal,冷凍飯食
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,24,Frozen Meal,冷凍餐食,10402402,Frozen Noodle Meal,冷凍麵食
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,24,Frozen Meal,冷凍餐食,10402403,Frozen Cooked Congee,冷凍粥 熟
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,24,Frozen Meal,冷凍餐食,10402404,Frozen Cooked Dish,冷凍熟菜
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,24,Frozen Meal,冷凍餐食,10402405,Frozen Cooked Soup,冷凍湯
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,24,Frozen Meal,冷凍餐食,10402406,Frz Udon Noodle pln,冷凍烏冬麵 無料包
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,24,Frozen Meal,冷凍餐食,10402407,Frz Noodle Plain,冷凍麵條 無料包
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Instant Meal,點心/飯/麵/湯,点心/饭/面/汤,24,Frozen Meal,冷凍餐食,10402412,Frz Meal Mainstream,冷凍西式餐食
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Fish Ball,肉丸/鱼丸,肉丸/鱼丸,36,Chil Hot Pot Ball,冷藏火鍋丸子,10303601,Chil Hotpot meatball,冷藏火鍋肉丸類
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Fish Ball,肉丸/鱼丸,肉丸/鱼丸,36,Chil Hot Pot Ball,冷藏火鍋丸子,10303602,Chil Hotpot Sfd ball,冷藏火鍋魚丸類
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Fish Ball,肉丸/鱼丸,肉丸/鱼丸,27,Frz Hot Pot Ball,冷凍丸子,10402701,Frz Hotpot meat ball,冷凍火鍋肉丸類
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Fish Ball,肉丸/鱼丸,肉丸/鱼丸,27,Frz Hot Pot Ball,冷凍丸子,10402702,Frz Hotpot Sfd ball,冷凍火鍋魚丸類
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Bun/Pancake,包子/大餅,包子/大饼,31,Chilled Noodle&Bun,冷藏麵點,10303106,Chilled Bun,冷藏饅頭包點
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Bun/Pancake,包子/大餅,包子/大饼,31,Chilled Noodle&Bun,冷藏麵點,10303111,Chilled Pancake,冷藏燒餅捲餅
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Bun/Pancake,包子/大餅,包子/大饼,23,Frozen Dim Sum,冷凍包點,10402301,Frozen Meat Bun,冷凍肉包
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Bun/Pancake,包子/大餅,包子/大饼,23,Frozen Dim Sum,冷凍包點,10402302,Frozen Vege Bun,冷凍素包
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Bun/Pancake,包子/大餅,包子/大饼,23,Frozen Dim Sum,冷凍包點,10402303,Frozen Dessert Bun,冷凍甜包
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Bun/Pancake,包子/大餅,包子/大饼,23,Frozen Dim Sum,冷凍包點,10402307,Frz Plain Bun Taiwan,冷凍饅頭 台灣
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Bun/Pancake,包子/大餅,包子/大饼,23,Frozen Dim Sum,冷凍包點,10402308,Frz Plain Bun CH,冷凍饅頭 中國
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Bun/Pancake,包子/大餅,包子/大饼,23,Frozen Dim Sum,冷凍包點,10402311,Other Frz Dim Sum ,其他冷凍包點
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Bun/Pancake,包子/大餅,包子/大饼,24,Frozen Meal,冷凍餐食,10402408,Frozen Pancake,冷凍手抓餅
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Bun/Pancake,包子/大餅,包子/大饼,24,Frozen Meal,冷凍餐食,10402409,Frz Pancake Savory,冷凍餡餅 鹹
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Bun/Pancake,包子/大餅,包子/大饼,24,Frozen Meal,冷凍餐食,10402410,Frz Pancake Sweet,冷凍餡餅 甜
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,31,Chilled Noodle&Bun,冷藏麵點,10303121,Chilled Dessert/Cake,冷藏甜點/蛋糕
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303206,Chilled Jello/Jelly,冷藏果凍愛玉
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303207,Fermanted Rice Bev,冷藏酒釀
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,32,Wrapper&Chill Ingred,餃子皮/冷藏食材,10303208,Chilled Tofu Pudding,冷藏豆花
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,22,Rice Ball,湯圓,10402201,Frz Rice Ball Sesame,冷凍湯圓 芝麻
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,22,Rice Ball,湯圓,10402202,Frz Rice Ball Peanut,冷凍湯圓 花生
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,22,Rice Ball,湯圓,10402203,Frz Rice Ball RedBn,冷凍湯圓 紅豆
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,22,Rice Ball,湯圓,10402204,Frz Rice Ball Mixed,冷凍湯圓 混合
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,22,Rice Ball,湯圓,10402205,Frz Rice Ball Other,冷凍湯圓 其他
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,32,Frozen Dessert,冷凍冰品,10403201,Frz Boba/Topioca,冷凍珍珠粉圓
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,32,Frozen Dessert,冷凍冰品,10403202,Frz Swt Rice cake,冷凍八寶飯發糕
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,32,Frozen Dessert,冷凍冰品,10403203,Frozen Dessert Soup,冷凍甜湯
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,32,Frozen Dessert,冷凍冰品,10403204,Frz Pastry Mainstrm,冷凍糕點西餅
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,32,Frozen Dessert,冷凍冰品,10403205,Frozen Yogurt Drink,冷凍養樂多
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Dessert,甜品/湯圓/酒釀,甜品/汤圆/酒酿,32,Frozen Dessert,冷凍冰品,10403206,Other Frozen Dessert,其他冷凍冰品飲品
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Ice Cream,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403101,Ice Cream Tub Mnstrm,冰淇淋 主流桶裝
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Ice Cream,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403102,Ice Cream Bar Mnstrm,冰棒 主流
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Ice Cream,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403103,Gelato,冰淇淋 主流意式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Ice Cream,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403104,Frozen Yogurt,酸奶冰淇淋
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Ice Cream,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403105,Ice Cream China,冰淇淋 中國
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Ice Cream,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403106,Ice Cream Taiwan,冰淇淋 台灣
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Ice Cream,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403107,Ice Cream Japan,冰淇淋 日本
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Ice Cream,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403108,Ice Cream Korea,冰淇淋 韓國
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Ice Cream,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403109,Ice Cream Se Asia,冰淇淋 東南亞
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Ice Cream,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403110,Other Ice Cream,其他冰淇淋
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Ice Cream,冰淇淋/冰棒,冰淇淋/冰棒,31,Ice Cream,冰淇淋,10403111,Package Ice,包裝冰塊
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Veggies/Fruits,冷凍蔬菜/水果,冷冻蔬菜/水果,25,Frozen Vege & Fruit,冷凍蔬果,10402501,Frozen Corn,冷凍玉米
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Veggies/Fruits,冷凍蔬菜/水果,冷冻蔬菜/水果,25,Frozen Vege & Fruit,冷凍蔬果,10402502,Frz Edamame Peeled,冷凍毛豆仁
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Veggies/Fruits,冷凍蔬菜/水果,冷冻蔬菜/水果,25,Frozen Vege & Fruit,冷凍蔬果,10402503,Frozen Edamame W/Pod,冷凍毛豆夾
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Veggies/Fruits,冷凍蔬菜/水果,冷冻蔬菜/水果,25,Frozen Vege & Fruit,冷凍蔬果,10402504,Frozen Bamboo,冷凍筍
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Veggies/Fruits,冷凍蔬菜/水果,冷冻蔬菜/水果,25,Frozen Vege & Fruit,冷凍蔬果,10402505,Frozen Chestnut,冷凍板栗
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Veggies/Fruits,冷凍蔬菜/水果,冷冻蔬菜/水果,25,Frozen Vege & Fruit,冷凍蔬果,10402506,Frozen Cassava,冷凍木薯
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Veggies/Fruits,冷凍蔬菜/水果,冷冻蔬菜/水果,25,Frozen Vege & Fruit,冷凍蔬果,10402507,Frozen Nato,冷凍納豆
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Veggies/Fruits,冷凍蔬菜/水果,冷冻蔬菜/水果,25,Frozen Vege & Fruit,冷凍蔬果,10402508,Other Frz Vegetables,其他冷凍蔬菜
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Veggies/Fruits,冷凍蔬菜/水果,冷冻蔬菜/水果,25,Frozen Vege & Fruit,冷凍蔬果,10402509,Frozen Durian,冷凍榴蓮
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Veggies/Fruits,冷凍蔬菜/水果,冷冻蔬菜/水果,25,Frozen Vege & Fruit,冷凍蔬果,10402510,Other Frz Fruit,其他冷凍水果 除榴蓮
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Miso/Pickled Veg,味噌/醃製蔬菜,味噌/腌制蔬菜,39,Chilld Pickle&Kimchi,冷藏酱菜/泡菜,10303901,Cooler Kimchi,冷藏泡菜韓式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Miso/Pickled Veg,味噌/醃製蔬菜,味噌/腌制蔬菜,39,Chilld Pickle&Kimchi,冷藏酱菜/泡菜,10303902,Cooler Pickle Ch,冷藏泡菜中式
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Miso/Pickled Veg,味噌/醃製蔬菜,味噌/腌制蔬菜,39,Chilld Pickle&Kimchi,冷藏酱菜/泡菜,10303903,Pickled mustard/Oth,冷藏榨菜/醃菜
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Miso/Pickled Veg,味噌/醃製蔬菜,味噌/腌制蔬菜,40,Chilled Sauce & Miso,冷藏醬料/味噌,10304002,Cooler Miso JP style,冷藏味增
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Seafood,肉類/海鮮類,肉类/海鲜类,34,Clr Sausages Cooked ,冷藏即食香腸,10303401,Clr Fish ssg Cooked,冷藏即食魚肉腸
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Seafood,肉類/海鮮類,肉类/海鲜类,34,Clr Sausages Cooked,冷藏即食香腸,10303402,Clr Meat ssg Cooked,冷藏即食腸火腿腸
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Seafood,肉類/海鮮類,肉类/海鲜类,35,"Sausage,Bacon&Ham",香腸/培根/火腿,10303501,Sausage,香腸
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Seafood,肉類/海鮮類,肉类/海鲜类,35,"Sausage,Bacon&Ham",香腸/培根/火腿,10303502,Bacon,培根
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Seafood,肉類/海鮮類,肉类/海鲜类,35,"Sausage,Bacon&Ham",香腸/培根/火腿,10303503,Ham,火腿
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Seafood,肉類/海鮮類,肉类/海鲜类,37,Salted Meat,臘肉,10303701,Dry preserved meat,中式臘肉/臘鴨
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Seafood,肉類/海鮮類,肉类/海鲜类,37,Salted Meat,臘肉,10303702,Dry Chinese sausage,中式臘腸
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Seafood,肉類/海鮮類,肉类/海鲜类,28,Frz SausageBacon&Ham,冷凍香腸/培根/火腿,10402801,Frz Sausage,冷凍香腸
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Seafood,肉類/海鮮類,肉类/海鲜类,28,Frz SausageBacon&Ham,冷凍香腸/培根/火腿,10402802,Frz Bacon,冷凍培根
+Frozen/Deli/Dairy,冷凍/冷藏/蛋奶,冷冻/冷藏/蛋奶,Meat/Seafood,肉類/海鮮類,肉类/海鲜类,28,Frz SausageBacon&Ham,冷凍香腸/培根/火腿,10402803,Frz Ham,冷凍火腿

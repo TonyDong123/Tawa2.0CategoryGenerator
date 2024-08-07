@@ -1,0 +1,212 @@
+﻿CURRENT 現有舊模板,,,CURRENT 現有舊模板,,,新 MCH,,,,,
+LV1 English,LV1 繁中,LV1 簡中,LV2 English,LV2 繁中,LV2 簡中,Class,Class English,Class 中文,MCH,MCH Name,MCH 中文
+Beverages,飲品,饮品,Dietary Supplement,保健飲品,保健饮品,61 ,Health Food,保健食品,10606101,Swallow Nest,燕窩
+Beverages,飲品,饮品,Dietary Supplement,保健飲品,保健饮品,61,Health Food,保健食品,10606102,Swallow Nest Drink,燕窩飲品
+Beverages,飲品,饮品,Dietary Supplement,保健飲品,保健饮品,61,Health Food,保健食品,10606111,Ginseng,人參
+Beverages,飲品,饮品,Dietary Supplement,保健飲品,保健饮品,61,Health Food,保健食品,10606112,Ginseng Drink,人參飲品
+Beverages,飲品,饮品,Dietary Supplement,保健飲品,保健饮品,61,Health Food,保健食品,10606121,Chicken Essence,雞精
+Beverages,飲品,饮品,Dietary Supplement,保健飲品,保健饮品,61,Health Food,保健食品,10606122,Cordyceps,蟲草
+Beverages,飲品,饮品,Dietary Supplement,保健飲品,保健饮品,61,Health Food,保健食品,10606131,Other Health Food,其他保健食品
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604101,Inst Noodl Bag ChBrd,速食麵袋裝中系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604102,Inst Vmcll Bag ChBrd,速食粉袋裝中系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604111,Inst Noodl Bag KrBrd,速食粉麵袋裝韓系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604112,Inst Noodl Bag JpBrd,速食粉麵袋裝日系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604113,Inst Noodl Bag ThBrd,速食粉麵裝泰系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604114,Inst Noodl Bag FlBrd,速食粉麵裝菲律賓系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604115,Inst Noodl Bag VnBrd,速食粉麵裝越南系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604121,Inst Noodle Bag Oth,速食粉麵袋裝其他
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604131,InstNoodl Bowl ChBrd,速食麵碗裝中系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604132,InstVmcll Bowl ChBrd,速食粉碗裝中系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604141,InstNoodl Bowl KrBrd,速食粉麵碗裝韓系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604142,InstNoodl Bowl JpBrd,速食粉麵碗裝日系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604143,InstNoodl Bowl ThBrd,速食粉麵碗裝泰系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604144,InstNoodl Bowl FlBrd,速食粉麵碗裝菲律賓系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604145,InstNoodl Bowl VnBrd,速食粉麵碗裝越南系
+Instant,速食,速食,Noodles,速食麵,速食面,41 ,Instant Noodle,泡麵,10604151,Inst Noodle Bowl Oth,速食粉麵碗裝其他
+Instant,速食,速食,Meal/Soup,速食餐／速食湯,速食餐／速食汤,42 ,Instant Meal,即食餐點,10604201,Instant Rice,自熱米飯
+Instant,速食,速食,Meal/Soup,速食餐／速食湯,速食餐／速食汤,42 ,Instant Meal,即食餐點,10604202,Instant Hot Pot,自熱火鍋
+Instant,速食,速食,Meal/Soup,速食餐／速食湯,速食餐／速食汤,42 ,Instant Meal,即食餐點,10604203,Instant Congee/Soup,即食粥/湯
+Instant,速食,速食,Meal/Soup,速食餐／速食湯,速食餐／速食汤,42 ,Instant Meal,即食餐點,10604211,Other Instant Meal,其他速食餐點
+Instant,速食,速食,Rice/Dessert,米飯/粥/甜品,米饭/粥/甜品,55 ,Canned Dessert,甜品罐頭,10605501,Canned Congee,罐頭粥
+Instant,速食,速食,Rice/Dessert,米飯/粥/甜品,米饭/粥/甜品,55 ,Canned Dessert,甜品罐頭,10605502,Canned Dessert Soup,罐頭甜湯
+Instant,速食,速食,Rice/Dessert,米飯/粥/甜品,米饭/粥/甜品,55 ,Canned Dessert,甜品罐頭,10605503,Herbal Jelly,龜苓膏/仙草
+Instant,速食,速食,Rice/Dessert,米飯/粥/甜品,米饭/粥/甜品,55 ,Canned Dessert,甜品罐頭,10605504,Cannned Fl Dessert,罐頭菲律賓甜品
+Instant,速食,速食,Rice/Dessert,米飯/粥/甜品,米饭/粥/甜品,55 ,Canned Dessert,甜品罐頭,10605511,Other Canned Dessert,其他甜品罐頭
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Seafood/ Meat,魚類/肉類,鱼类/肉类,52 ,Canned Meat,肉類罐頭,10605201,Canned Luncheon Meat,午餐肉罐頭
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Seafood/ Meat,魚類/肉類,鱼类/肉类,52 ,Canned Meat,肉類罐頭,10605202,Canned Beef,牛肉罐頭
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Seafood/ Meat,魚類/肉類,鱼类/肉类,52 ,Canned Meat,肉類罐頭,10605203,Seasoned Meat Floss,肉鬆
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Seafood/ Meat,魚類/肉類,鱼类/肉类,52 ,Canned Meat,肉類罐頭,10605211,Canned Fish,魚罐頭
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Seafood/ Meat,魚類/肉類,鱼类/肉类,52 ,Canned Meat,肉類罐頭,10605212,Seasoned Fish Floss,魚肉鬆
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Seafood/ Meat,魚類/肉類,鱼类/肉类,52 ,Canned Meat,肉類罐頭,10605221,Canned Quail Egg,鵪鶉蛋罐頭
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Seafood/ Meat,魚類/肉類,鱼类/肉类,52 ,Canned Meat,肉類罐頭,10605231,Other Canned Meat,其他肉罐頭
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Vegetarian,蔬菜類/齋,蔬菜类/斋,53 ,Canned Vegetable,蔬菜罐頭,10605301,Canned Corn,罐頭玉米
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Vegetarian,蔬菜類/齋,蔬菜类/斋,53 ,Canned Vegetable,蔬菜罐頭,10605302,Canned Bean,罐頭豆類
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Vegetarian,蔬菜類/齋,蔬菜类/斋,53 ,Canned Vegetable,蔬菜罐頭,10605303,Canned Bamboo Shoot,罐頭筍
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Vegetarian,蔬菜類/齋,蔬菜类/斋,53 ,Canned Vegetable,蔬菜罐頭,10605311,Other Canned Vege,其他蔬菜罐頭
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Coconut Milk/Fruit,椰奶/水果,椰奶/水果,54 ,Canned Fruit,水果罐頭,10605401,Canned Pineapple,罐頭鳳梨
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Coconut Milk/Fruit,椰奶/水果,椰奶/水果,54 ,Canned Fruit,水果罐頭,10605402,Canned Coconut,罐頭椰子
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Coconut Milk/Fruit,椰奶/水果,椰奶/水果,54 ,Canned Fruit,水果罐頭,10605403,Canned Lychee,罐頭荔枝
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Coconut Milk/Fruit,椰奶/水果,椰奶/水果,54 ,Canned Fruit,水果罐頭,10605404,Canned Orange,罐頭橘子
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Coconut Milk/Fruit,椰奶/水果,椰奶/水果,54 ,Canned Fruit,水果罐頭,10605411,Other Canned Fruit,其他水果罐頭
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Preserved & Fermented,醬菜/腐乳,酱菜/腐乳,32 ,Sauce,調味醬料,10603216,Fermented Bean Curd,豆腐乳
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Preserved & Fermented,醬菜/腐乳,酱菜/腐乳,51 ,Pickled Vegetable,醬菜,10605101,Pickle Mustard Tuber,榨菜
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Preserved & Fermented,醬菜/腐乳,酱菜/腐乳,51 ,Pickled Vegetable,醬菜,10605102,Pickled Radish,蘿蔔丁
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Preserved & Fermented,醬菜/腐乳,酱菜/腐乳,51 ,Pickled Vegetable,醬菜,10605103,Pickled Cucumber,醃黃瓜
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Preserved & Fermented,醬菜/腐乳,酱菜/腐乳,51 ,Pickled Vegetable,醬菜,10605104,Canned Gluten,罐頭麵筋
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Preserved & Fermented,醬菜/腐乳,酱菜/腐乳,51 ,Pickled Vegetable,醬菜,10605111,Oth Asia PickledVege,其他亞洲醃漬蔬菜
+Canned/Preserved,罐頭/醃製品,罐头/腌制品,Preserved & Fermented,醬菜/腐乳,酱菜/腐乳,51 ,Pickled Vegetable,醬菜,10605121,Western Pickled Vege,西式醃漬蔬菜
+Condiments,調料,调料,Soy Sauce,醬油,酱油,31 ,Liquid Sauce,液體調味料,10603101,Soy/Ssn Sauce Ch Brd,醬油/調味汁中系
+Condiments,調料,调料,Soy Sauce,醬油,酱油,31 ,Liquid Sauce,液體調味料,10603102,Soy/Ssn Sauce Tw Brd,醬油/調味汁台系
+Condiments,調料,调料,Soy Sauce,醬油,酱油,31 ,Liquid Sauce,液體調味料,10603103,Soy/Ssn Sauce Jp Brd,醬油/調味汁日系
+Condiments,調料,调料,Soy Sauce,醬油,酱油,31 ,Liquid Sauce,液體調味料,10603111,Other Soy Sauce,其他醬油
+Condiments,調料,调料,Vinegar/Cooking Wine,醋/料酒,醋/料酒,31 ,Liquid Sauce,液體調味料,10603121,Vinegar,醋
+Condiments,調料,调料,Vinegar/Cooking Wine,醋/料酒,醋/料酒,31 ,Liquid Sauce,液體調味料,10603131,Cooking Wine,料酒
+Condiments,調料,调料,Cooking Oil,烹飪用油/麻油,烹饪用油/麻油,24 ,Cooking Oil,食用油,10602401,Bean Oil,大豆油
+Condiments,調料,调料,Cooking Oil,烹飪用油/麻油,烹饪用油/麻油,24 ,Cooking Oil,食用油,10602402,Peanut Oil,花生油
+Condiments,調料,调料,Cooking Oil,烹飪用油/麻油,烹饪用油/麻油,24 ,Cooking Oil,食用油,10602403,Corn Oil,玉米油
+Condiments,調料,调料,Cooking Oil,烹飪用油/麻油,烹饪用油/麻油,24 ,Cooking Oil,食用油,10602404,Canola Oil,菜籽油
+Condiments,調料,调料,Cooking Oil,烹飪用油/麻油,烹饪用油/麻油,24 ,Cooking Oil,食用油,10602405,Tea Oil,茶油
+Condiments,調料,调料,Cooking Oil,烹飪用油/麻油,烹饪用油/麻油,24 ,Cooking Oil,食用油,10602406,Sunfiower Oil,葵花籽油
+Condiments,調料,调料,Cooking Oil,烹飪用油/麻油,烹饪用油/麻油,24 ,Cooking Oil,食用油,10602407,Oliver Oil,橄欖油
+Condiments,調料,调料,Cooking Oil,烹飪用油/麻油,烹饪用油/麻油,24 ,Cooking Oil,食用油,10602411,Mixed Oil,混合油
+Condiments,調料,调料,Cooking Oil,烹飪用油/麻油,烹饪用油/麻油,24 ,Cooking Oil,食用油,10602421,Other Oil,其它油
+Condiments,調料,调料,Cooking Oil,烹飪用油/麻油,烹饪用油/麻油,31 ,Liquid Sauce,液體調味料,10603141,Sesame Oil,芝麻油
+Condiments,調料,调料,Cooking Oil,烹飪用油/麻油,烹饪用油/麻油,31 ,Liquid Sauce,液體調味料,10603151,Other Sauce Oil,其它調味油
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,32 ,Sauce,調味醬料,10603201,Oyster/Hoisin Sauce,蠔油/海鮮醬
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,32 ,Sauce,調味醬料,10603212,Garlic Paste,蒜蓉醬
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,32 ,Sauce,調味醬料,10603217,Mixed Sauce Paste,混合調味醬
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,32 ,Sauce,調味醬料,10603221,Sesame Paste,芝麻醬
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,32 ,Sauce,調味醬料,10603222,Peanut Paste,花生醬
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,32 ,Sauce,調味醬料,10603223,Sasha Jam,沙茶醬
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,32 ,Sauce,調味醬料,10603231,BBQ Paste Kr Brand,燒烤醬韓系
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,32 ,Sauce,調味醬料,10603232,BBQ Paste Jp Brand,燒烤醬日系
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,32 ,Sauce,調味醬料,10603239,BBQ Paste Other,燒烤醬其他
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,32 ,Sauce,調味醬料,10603271,Other Sauce,其他調味醬料
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,33 ,Southeast Asia Sauce,東南亞調味料,10603301,Liquid Sauce Vn Brd,液體調味料越系
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,33 ,Southeast Asia Sauce,東南亞調味料,10603302,Sauce Vietnam Brand,調味醬料越系
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,33 ,Southeast Asia Sauce,東南亞調味料,10603311,Liquid Sauce Fl Brd,液體調味料菲系
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,33 ,Southeast Asia Sauce,東南亞調味料,10603312,Sauce Filipino Brand,調味醬料菲系
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,33 ,Southeast Asia Sauce,東南亞調味料,10603321,Liquid Sauce Th Brd,液體調味料泰系
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,33 ,Southeast Asia Sauce,東南亞調味料,10603322,Sauce Thailand Brand,調味醬料泰系
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,33 ,Southeast Asia Sauce,東南亞調味料,10603331,Other SE Asian Sauce,其他東南亞調味料
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,34 ,Western Style Sauce,西式醬料,10603421,Pasta Sauce,義大利面醬
+Condiments,調料,调料,Seasoning/Oyster Sauces,調味醬/蠔油,调味酱/蚝油,34 ,Western Style Sauce,西式醬料,10603431,Oth Wst Style Sauce,其他西式醬料
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,32 ,Sauce,調味醬料,10603251,Coconut Milk/Powder,椰奶/椰粉
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,35 ,"Salt, Sugar & MSG",鹽/糖/味精,10603531,Chicken Powder,鷄精
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,35 ,"Salt, Sugar & MSG",鹽/糖/味精,10603532,MSG,味精
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,35 ,"Salt, Sugar & MSG",鹽/糖/味精,10603541,Other Seasong Powder,其他調味粉
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,36 ,Spice,香辛料,10603601,Dry Chili,辣椒粉/乾辣椒
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,36 ,Spice,香辛料,10603602,Chinese Prickly Ash,花椒
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,36 ,Spice,香辛料,10603603,Black Pepper,黑胡椒
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,36 ,Spice,香辛料,10603604,White Pepper,白胡椒
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,36 ,Spice,香辛料,10603605,Cumin,孜然
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,36 ,Spice,香辛料,10603606,Fennel,茴香
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,36 ,Spice,香辛料,10603611,Rice Seasoning,香鬆
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,36 ,Spice,香辛料,10603612,Mixed Spices,調味混合佐料 (粉狀)
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,36 ,Spice,香辛料,10603621,Tampico,Tampico品牌香辛料
+Condiments,調料,调料,Powder/Spices,調料粉/香料,调料粉/香料,36 ,Spice,香辛料,10603631,Other Spice,其他香料
+Condiments,調料,调料,Soup/Hotpot,湯/火鍋底料,汤/火锅底料,32 ,Sauce,調味醬料,10603261,Hot Pot Condiment Ch,火鍋底料中式
+Condiments,調料,调料,Soup/Hotpot,湯/火鍋底料,汤/火锅底料,32 ,Sauce,調味醬料,10603262,Hot Pot Condiment Jp,火鍋底料日式
+Condiments,調料,调料,Soup/Hotpot,湯/火鍋底料,汤/火锅底料,32 ,Sauce,調味醬料,10603269,Hot Pot Condi Other,火鍋底料其他
+Condiments,調料,调料,Soup/Hotpot,湯/火鍋底料,汤/火锅底料,56 ,Soup,湯底,10605601,Chicken Broth Box,清雞湯盒裝
+Condiments,調料,调料,Soup/Hotpot,湯/火鍋底料,汤/火锅底料,56 ,Soup,湯底,10605602,Chicken Broth Can,清雞湯罐裝
+Condiments,調料,调料,Soup/Hotpot,湯/火鍋底料,汤/火锅底料,56 ,Soup,湯底,10605603,Beef Broth/Stock Box,清牛湯盒裝
+Condiments,調料,调料,Soup/Hotpot,湯/火鍋底料,汤/火锅底料,56 ,Soup,湯底,10605604,Beef Broth/Stock Can,清牛湯罐裝
+Condiments,調料,调料,Soup/Hotpot,湯/火鍋底料,汤/火锅底料,56 ,Soup,湯底,10605611,Vegetable Broth,蔬菜清湯
+Condiments,調料,调料,Soup/Hotpot,湯/火鍋底料,汤/火锅底料,56 ,Soup,湯底,10605621,Bouillon/Soup Mix,濃縮湯底料
+Condiments,調料,调料,Soup/Hotpot,湯/火鍋底料,汤/火锅底料,56 ,Soup,湯底,10605631,Other Canned Soup,其他湯底罐頭
+Condiments,調料,调料,Curry,咖喱,咖喱,32 ,Sauce,調味醬料,10603241,Curry Japanese Brand,咖喱日系
+Condiments,調料,调料,Curry,咖喱,咖喱,32 ,Sauce,調味醬料,10603242,Curry SE Asian Brand,咖喱東南亞系
+Condiments,調料,调料,Curry,咖喱,咖喱,32 ,Sauce,調味醬料,10603243,Curry Indian Brand,咖喱印系
+Condiments,調料,调料,Curry,咖喱,咖喱,32 ,Sauce,調味醬料,10603249,Curry Other,其他咖喱
+Condiments,調料,调料,Chili/ Bean Sauce,辣椒醬/豆瓣醬,辣椒酱/豆瓣酱,31 ,Liquid Sauce,液體調味料,10603142,Chili Oil,辣椒油
+Condiments,調料,调料,Chili/ Bean Sauce,辣椒醬/豆瓣醬,辣椒酱/豆瓣酱,31 ,Liquid Sauce,液體調味料,10603143,Prickly Ash Oil,花椒油
+Condiments,調料,调料,Chili/ Bean Sauce,辣椒醬/豆瓣醬,辣椒酱/豆瓣酱,32 ,Sauce,調味醬料,10603211,Chili Paste,辣椒醬
+Condiments,調料,调料,Chili/ Bean Sauce,辣椒醬/豆瓣醬,辣椒酱/豆瓣酱,32 ,Sauce,調味醬料,10603213,Soybean Paste,黃豆醬
+Condiments,調料,调料,Chili/ Bean Sauce,辣椒醬/豆瓣醬,辣椒酱/豆瓣酱,32 ,Sauce,調味醬料,10603214,Bean Paste,豆瓣醬
+Condiments,調料,调料,Chili/ Bean Sauce,辣椒醬/豆瓣醬,辣椒酱/豆瓣酱,32 ,Sauce,調味醬料,10603215,Fermented Soybean,豆豉
+Condiments,調料,调料,Salad Dressing/Dipping,沙律醬/沾醬,沙律酱/沾酱,32 ,Sauce,調味醬料,10603224,Wasabi/Mustard,芥茉
+Condiments,調料,调料,Salad Dressing/Dipping,沙律醬/沾醬,沙律酱/沾酱,34 ,Western Style Sauce,西式醬料,10603404,Ketchup,番茄醬
+Condiments,調料,调料,Salad Dressing/Dipping,沙律醬/沾醬,沙律酱/沾酱,34 ,Western Style Sauce,西式醬料,10603411,Salad Drss Mnstr Brd,沙拉醬主流
+Condiments,調料,调料,Salad Dressing/Dipping,沙律醬/沾醬,沙律酱/沾酱,34 ,Western Style Sauce,西式醬料,10603412,Salad Drss Jp Brd,沙拉醬日系
+Condiments,調料,调料,Salad Dressing/Dipping,沙律醬/沾醬,沙律酱/沾酱,34 ,Western Style Sauce,西式醬料,10603413,Mayonnaise Mnstr Brd,美乃滋主流
+Condiments,調料,调料,Salad Dressing/Dipping,沙律醬/沾醬,沙律酱/沾酱,34 ,Western Style Sauce,西式醬料,10603414,Mayonnaise Jp Brand,美乃滋日系
+Condiments,調料,调料,Sugar/Salt,糖/鹽,糖/盐,35 ,"Salt, Sugar & MSG",鹽/糖/味精,10603501,Salt,食鹽
+Condiments,調料,调料,Sugar/Salt,糖/鹽,糖/盐,35 ,"Salt, Sugar & MSG",鹽/糖/味精,10603502,Sea Salt,海鹽
+Condiments,調料,调料,Sugar/Salt,糖/鹽,糖/盐,35 ,"Salt, Sugar & MSG",鹽/糖/味精,10603503,Mixed Salt,混合鹽
+Condiments,調料,调料,Sugar/Salt,糖/鹽,糖/盐,35 ,"Salt, Sugar & MSG",鹽/糖/味精,10603511,Sugar,白砂糖
+Condiments,調料,调料,Sugar/Salt,糖/鹽,糖/盐,35 ,"Salt, Sugar & MSG",鹽/糖/味精,10603512,Rock Sugar White,白冰糖
+Condiments,調料,调料,Sugar/Salt,糖/鹽,糖/盐,35 ,"Salt, Sugar & MSG",鹽/糖/味精,10603513,Rock Sugar Yellow,黃冰糖
+Condiments,調料,调料,Sugar/Salt,糖/鹽,糖/盐,35 ,"Salt, Sugar & MSG",鹽/糖/味精,10603514,Black/Red/Yellow Sug,黑糖/紅糖/黃糖
+Condiments,調料,调料,Sugar/Salt,糖/鹽,糖/盐,35 ,"Salt, Sugar & MSG",鹽/糖/味精,10603521,Other Sugar,其他糖
+Groceries,乾貨米麵,干货米面,Rice,大米/ 糯米 /糙米,大米/ 糯米 /糙米,21 ,Rice,米,10602101,Long Grain 50lb,長穀米50磅
+Groceries,乾貨米麵,干货米面,Rice,大米/ 糯米 /糙米,大米/ 糯米 /糙米,21 ,Rice,米,10602102,Long Grain 25lb,長穀米25磅
+Groceries,乾貨米麵,干货米面,Rice,大米/ 糯米 /糙米,大米/ 糯米 /糙米,21 ,Rice,米,10602103,Long Grain 10lb/Less,長穀米10磅及以下
+Groceries,乾貨米麵,干货米面,Rice,大米/ 糯米 /糙米,大米/ 糯米 /糙米,21 ,Rice,米,10602111,Short Grain 50lb,短穀米50磅
+Groceries,乾貨米麵,干货米面,Rice,大米/ 糯米 /糙米,大米/ 糯米 /糙米,21 ,Rice,米,10602112,Short Grain 25lb,短榖米25磅
+Groceries,乾貨米麵,干货米面,Rice,大米/ 糯米 /糙米,大米/ 糯米 /糙米,21 ,Rice,米,10602113,ShortGrain 10lb/Less,短穀米10磅及以下
+Groceries,乾貨米麵,干货米面,Rice,大米/ 糯米 /糙米,大米/ 糯米 /糙米,21 ,Rice,米,10602121,Brown Rice,糙米
+Groceries,乾貨米麵,干货米面,Rice,大米/ 糯米 /糙米,大米/ 糯米 /糙米,21 ,Rice,米,10602122,Sweet Rice Round,圓糯米
+Groceries,乾貨米麵,干货米面,Rice,大米/ 糯米 /糙米,大米/ 糯米 /糙米,21 ,Rice,米,10602123,Sweet Rice Long,長糯米
+Groceries,乾貨米麵,干货米面,Rice,大米/ 糯米 /糙米,大米/ 糯米 /糙米,21 ,Rice,米,10602131,Other Rice,其他米
+Groceries,乾貨米麵,干货米面,Rice,大米/ 糯米 /糙米,大米/ 糯米 /糙米,21 ,Rice,米,10602132,Bulk Rice,稱重米
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602501,Black Sesame,黑芝麻
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602502,White Sesame,白芝麻
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602511,Millet,小米
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602512,Red Rice,紅米
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602513,Black Rice,黑米
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602514,Sorghum,高粱
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602515,Corn Grit,玉米糝
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602516,Oats,燕麥片
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602517,Chinese Pearl Barley,薏仁
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602521,Mixed Grains,混合雜糧/雜糧粥料
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602531,Other Grain,其他雜糧
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602541,Green Bean,綠豆
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602542,Red Bean,紅豆/大紅豆
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602543,Black Bean,黑豆
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602544,Yellow Bean,黃豆
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602545,Dry Beancurd Skin,乾腐竹
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602546,Peanut,花生
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602551,Other Bean,其他豆類
+Groceries,乾貨米麵,干货米面,Grains,五穀雜糧,五谷杂粮,25 ,Dry Grain & Bean,雜糧/豆類,10602552,Bulk Grain & Bean,稱重雜糧豆類
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602601,Dry Mushroom,乾香菇
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602602,Dry AgrocybeAegerita,乾茶樹菇
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602603,Dry Black Fungus,乾黑木耳
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602604,Dry White Fungus,乾銀耳
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602611,Other Dry Mushroom,其他乾菇
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602621,Dry Seaweed,紫菜
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602622,Dry Kelp,乾海帶
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602631,Dry Date,紅棗
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602632,Dry Longan,桂圓乾
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602633,Dry Lotus Seed,蓮子
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602634,Dry Matrimony Vine,枸杞
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602635,Dry Grape,葡萄乾
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602636,Dry Lily Root,百合乾
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602641,Dry Herb,乾貨草藥
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602651,Dry Vegetable,菜乾
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602661,Other Dry Vege/Goods,其他南北乾貨
+Groceries,乾貨米麵,干货米面,Dry Goods,乾貨,干货,26 ,Dry Vege & Goods,南北乾貨,10602662,Bulk Dry Vege &Goods,稱重南北乾貨
+Groceries,乾貨米麵,干货米面,Flour & Starch,麵粉/預拌粉,面粉/预拌粉,22 ,Flour,麵粉,10602201,Wheat Flour,小麥麵粉
+Groceries,乾貨米麵,干货米面,Flour & Starch,麵粉/預拌粉,面粉/预拌粉,22 ,Flour,麵粉,10602202,Rice Flour,稻米粉
+Groceries,乾貨米麵,干货米面,Flour & Starch,麵粉/預拌粉,面粉/预拌粉,22 ,Flour,麵粉,10602203,Corn Flour,玉米麵粉
+Groceries,乾貨米麵,干货米面,Flour & Starch,麵粉/預拌粉,面粉/预拌粉,22 ,Flour,麵粉,10602211,Starch,澱粉類
+Groceries,乾貨米麵,干货米面,Flour & Starch,麵粉/預拌粉,面粉/预拌粉,22 ,Flour,麵粉,10602212,Batter Mix,油炸粉
+Groceries,乾貨米麵,干货米面,Flour & Starch,麵粉/預拌粉,面粉/预拌粉,22 ,Flour,麵粉,10602213,Panko,麵包粉
+Groceries,乾貨米麵,干货米面,Flour & Starch,麵粉/預拌粉,面粉/预拌粉,22 ,Flour,麵粉,10602221,Gelatin/Agar Mix,果凍粉/洋菜
+Groceries,乾貨米麵,干货米面,Flour & Starch,麵粉/預拌粉,面粉/预拌粉,22 ,Flour,麵粉,10602231,Baking Powder/Yeast,蘇打粉/酵母
+Groceries,乾貨米麵,干货米面,Flour & Starch,麵粉/預拌粉,面粉/预拌粉,22 ,Flour,麵粉,10602241,Other Flour,其他麵粉
+Groceries,乾貨米麵,干货米面,Flour & Starch,麵粉/預拌粉,面粉/预拌粉,22 ,Flour,麵粉,10602242,Bulk Flour,稱重麵粉
+Groceries,乾貨米麵,干货米面,Noodles,麵條/粉絲,面条/粉丝,23 ,Noodle & Vermicelli,麵條/粉絲,10602301,Wheat Noodle,麵條
+Groceries,乾貨米麵,干货米面,Noodles,麵條/粉絲,面条/粉丝,23 ,Noodle & Vermicelli,麵條/粉絲,10602304,Bean Thread,冬粉/粉絲
+Groceries,乾貨米麵,干货米面,Noodles,麵條/粉絲,面条/粉丝,23 ,Noodle & Vermicelli,麵條/粉絲,10602305,Potato Noodle,粉皮
+Groceries,乾貨米麵,干货米面,Noodles,麵條/粉絲,面条/粉丝,23 ,Noodle & Vermicelli,麵條/粉絲,10602306,Sweat Potato Noodle,紅薯粉/苕粉
+Groceries,乾貨米麵,干货米面,Noodles,麵條/粉絲,面条/粉丝,23 ,Noodle & Vermicelli,麵條/粉絲,10602307,Pasta,義大利麵
+Groceries,乾貨米麵,干货米面,Noodles,麵條/粉絲,面条/粉丝,23 ,Noodle & Vermicelli,麵條/粉絲,10602311,Other Noodle,其他麵條米綫
+Groceries,乾貨米麵,干货米面,Rice Noodles/Paper,粿條/米紙/米粉,粿条/米纸/米粉,23 ,Noodle & Vermicelli,麵條/粉絲,10602302,Rice Noodle/Stick,米粉/粿條
+Groceries,乾貨米麵,干货米面,Rice Noodles/Paper,粿條/米紙/米粉,粿条/米纸/米粉,23 ,Noodle & Vermicelli,麵條/粉絲,10602303,Rice Paper,米紙
+Groceries,乾貨米麵,干货米面,Tapioca,珍珠粉圓,珍珠粉圆,22 ,Flour,麵粉,10602222,Tapioca Pearl / Boba,西谷米
+Bakery,烘焙,烘焙,Syrup,果醬,果酱,34 ,Western Style Sauce,西式醬料,10603401,Peanut Butter,花生醬
+Bakery,烘焙,烘焙,Syrup,果醬,果酱,34 ,Western Style Sauce,西式醬料,10603402,Chocolate Dressing,巧克力醬
+Bakery,烘焙,烘焙,Syrup,果醬,果酱,34 ,Western Style Sauce,西式醬料,10603403,Honey,蜂蜜
+Bakery,烘焙,烘焙,Syrup,果醬,果酱,34 ,Western Style Sauce,西式醬料,10603405,Jam,果醬
+Bakery,烘焙,烘焙,Syrup,果醬,果酱,34 ,Western Style Sauce,西式醬料,10603406,Condensed Milk,煉乳

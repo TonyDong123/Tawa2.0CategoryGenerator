@@ -1,0 +1,74 @@
+﻿CURRENT 現有舊模板,,,CURRENT 現有舊模板,,,新 MCH,,,,,
+LV1 English,LV1 繁中,LV1 簡中,LV2 English,LV2 繁中,LV2 簡中,Class,Class English,Class 中文,MCH,MCH Name,MCH 中文
+Bakery,烘焙,烘焙,Bread/Toast,麵包/吐司,面包/吐司,21,Fresh Bread,自製麵包類,50102101,Toast,吐司
+Bakery,烘焙,烘焙,Bread/Toast,麵包/吐司,面包/吐司,21,Fresh Bread,自製麵包類,50102102,Roll,餐包
+Bakery,烘焙,烘焙,Bread/Toast,麵包/吐司,面包/吐司,21,Fresh Bread,自製麵包類,50102103,Small Bread,小麵包
+Bakery,烘焙,烘焙,Bread/Toast,麵包/吐司,面包/吐司,21,Fresh Bread,自製麵包類,50102104,Danish,丹麥麵包
+Bakery,烘焙,烘焙,Bread/Toast,麵包/吐司,面包/吐司,21,Fresh Bread,自製麵包類,50102105,Corissant,可頌
+Bakery,烘焙,烘焙,Bread/Toast,麵包/吐司,面包/吐司,21,Fresh Bread,自製麵包類,50102106,European Bread,歐包
+Bakery,烘焙,烘焙,Cake,蛋糕,蛋糕,22,Fresh Cake,自製蛋糕類,50102201,Cream Cake,奶油蛋糕
+Bakery,烘焙,烘焙,Cake,蛋糕,蛋糕,22,Fresh Cake,自製蛋糕類,50102202,Mousse Cake,慕斯蛋糕
+Bakery,烘焙,烘焙,Cake,蛋糕,蛋糕,22,Fresh Cake,自製蛋糕類,50102203,Dessert/Pastries,甜品/糕點
+Bakery,烘焙,烘焙,Cake,蛋糕,蛋糕,23,Fresh Cooler Cake,自製冷藏蛋糕,50102301,Cake Roll,蛋糕卷
+Bakery,烘焙,烘焙,Cake,蛋糕,蛋糕,23,Fresh Cooler Cake,自製冷藏蛋糕,50102302,Cheesecakes,乳酪蛋糕
+Bakery,烘焙,烘焙,Cake,蛋糕,蛋糕,24,Other Cooler Dessert,其他冷藏點心,50102401,Other Cooler dessert,其他冷藏點心
+Bakery,烘焙,烘焙,Cake,蛋糕,蛋糕,25,Fr Rm Temp Dessert,自製常溫點心,50102501,Cup Cake,杯子蛋糕
+Bakery,烘焙,烘焙,Cake,蛋糕,蛋糕,25,Fr Rm Temp Dessert,自製常溫點心,50102502,Chinese Pastry,中式酥餅
+Bakery,烘焙,烘焙,Cake,蛋糕,蛋糕,25,Fr Rm Temp Dessert,自製常溫點心,50102503,Cookies,餅乾
+Bakery,烘焙,烘焙,Cake,蛋糕,蛋糕,25,Fr Rm Temp Dessert,自製常溫點心,50102504,Rice Cake,年糕
+Bakery,烘焙,烘焙,Cake,蛋糕,蛋糕,25,Fr Rm Temp Dessert,自製常溫點心,50102505,Oth Rm Temp Desserts,其他常溫點心
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102101,BBQ BEEF,燒臘牛肉
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102102,BBQ Lamb,燒臘羊肉
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102103,BBQ PORK,燒臘豬肉
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102104,BBQ POULTRY,燒臘禽類
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102105,BBQ Other,其他燒臘产品
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102106,BBQ SAUCE/Marinate,燒臘卤水类
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102107,BBQ COMBO,燒臘飯
+Hot Deli,熟食,熟食,Chinese BBQ,明火燒臘,明火烧腊,21,BBQ ,燒臘類,60102199,Hot Deli dept. key,0
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102301,ASIAN ENTREE,東南亞熟食
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102302,JP/KO ENTREE,日韩熟食
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102303,Combo Lunch,快餐
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102304,Fried Food,炸物类
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102305,Hot Entree,热菜类
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102306,Bento,便当
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102307,Breakfast,早餐
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102308,Snack,小吃
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102309,Other Hot Meal,其他热餐食
+Hot Deli,熟食,熟食,Bento,便當,便当,23,Hot Meal ,熱餐食,60102310,Service Charge,服務費
+Hot Deli,熟食,熟食,Bento,便當,便当,31,Sushi,壽司類,60103101,Sushi,壽司類
+Hot Deli,熟食,熟食,Bento,便當,便当,31,Sushi,壽司類,60103102,Sashimi,魚生類
+Hot Deli,熟食,熟食,Bento,便當,便当,31,Sushi,壽司類,60103103,Sushi Roll,壽司卷
+Hot Deli,熟食,熟食,Bento,便當,便当,31,Sushi,壽司類,60103104,Poke Bowl,鱼生饭
+Hot Deli,熟食,熟食,Bento,便當,便当,31,Sushi,壽司類,60103105,Combo Box,壽司拼盤
+Hot Deli,熟食,熟食,Bento,便當,便当,32,Sandwich & Wrap ,三明治/卷餅,60103201,Sandwich&Wrap Mnstrm,三明治/卷餅 主流
+Hot Deli,熟食,熟食,Bento,便當,便当,32,Sandwich & Wrap ,三明治/卷餅,60103202,Sandwich&Wrap CH,卷餅 中式
+Hot Deli,熟食,熟食,Dim Sum,點心,点心,22,Dim Sum,點心類,60102201,HK Dim Sum Steam,港粵蒸點
+Hot Deli,熟食,熟食,Dim Sum,點心,点心,22,Dim Sum,點心類,60102202,HK Dim Sum Fry,港粵炸點
+Hot Deli,熟食,熟食,Dim Sum,點心,点心,22,Dim Sum,點心類,60102203,HK Dim Sum Griddle,港粵煎點
+Hot Deli,熟食,熟食,Dim Sum,點心,点心,22,Dim Sum,點心類,60102204,Other DIM SUM,其他點心
+Hot Deli,熟食,熟食,Dim Sum,點心,点心,22,Dim Sum,點心類,60102205,Congee/Noodle/Soup,粥/麵/湯
+Hot Deli,熟食,熟食,Others,其他,其他,33,Cold Marinated Meat,冷滷葷菜,60103301,Cold Marinated Pork,冷鹵豬肉類
+Hot Deli,熟食,熟食,Others,其他,其他,33,Cold Marinated Meat,冷滷葷菜,60103302,Cold Marinated Beef,冷鹵牛肉類
+Hot Deli,熟食,熟食,Others,其他,其他,33,Cold Marinated Meat,冷滷葷菜,60103303,Cold Mrntd Chicken,冷鹵鷄肉類
+Hot Deli,熟食,熟食,Others,其他,其他,33,Cold Marinated Meat,冷滷葷菜,60103304,Cold Mrntd Seafood,冷鹵鱼类/海鲜
+Hot Deli,熟食,熟食,Others,其他,其他,33,Cold Marinated Meat,冷滷葷菜,60103305,Cold Marinated Combo,冷鹵拼盘
+Hot Deli,熟食,熟食,Others,其他,其他,33,Cold Marinated Meat,冷滷葷菜,60103306,Cold Marinated Other,其他冷鹵
+Hot Deli,熟食,熟食,Others,其他,其他,34,Cold Entrée,冷吃小菜,60103401,Cold Chinese Entrée,小菜中式
+Hot Deli,熟食,熟食,Others,其他,其他,34,Cold Entrée,冷吃小菜,60103402,Cold Se Entrée,小菜東南亞 
+Hot Deli,熟食,熟食,Others,其他,其他,34,Cold Entrée,冷吃小菜,60103403,Other Cold Entrée,其他小菜
+Hot Deli,熟食,熟食,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103901,Meat Buns,肉包
+Hot Deli,熟食,熟食,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103902,Vegetable Buns,素包
+Hot Deli,熟食,熟食,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103903,Sweet Buns,甜包
+Hot Deli,熟食,熟食,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103904,No Filling Buns,馒头类
+Hot Deli,熟食,熟食,Others,其他,其他,39,Cooler Steam Buns,冷藏面点类,60103905,Other Buns,其他面点
+Hot Deli,熟食,熟食,Others,其他,其他,40,Cooler Rice Dumpling,冷藏粽子,60104001,Meat Rice Dumplings,肉粽
+Hot Deli,熟食,熟食,Others,其他,其他,40,Cooler Rice Dumpling,冷藏粽子,60104002,Veg Rice Dumplings,素粽
+Hot Deli,熟食,熟食,Others,其他,其他,40,Cooler Rice Dumpling,冷藏粽子,60104003,Sweet Rice Dumplings,甜粽
+Hot Deli,熟食,熟食,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104101,Cooler instant food ,冷藏即热食品
+Hot Deli,熟食,熟食,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104102,Cooler Bento,冷藏便当
+Hot Deli,熟食,熟食,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104103,Cooler Dimsum/Snack,冷藏点心/小吃
+Hot Deli,熟食,熟食,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104104,Cooler Materials,冷藏食材
+Hot Deli,熟食,熟食,Others,其他,其他,41,Cooler Instant Food,冷藏即食/即热調味產品,60104105,Cooler Mealkit,冷藏配菜
+Hot Deli,熟食,熟食,Others,其他,其他,51,Material,原材料,60105101,Import Frozen,進口冷凍
+Hot Deli,熟食,熟食,Others,其他,其他,51,Material,原材料,60105102,Import Refrigeration,進口冷藏
+Hot Deli,熟食,熟食,Others,其他,其他,51,Material,原材料,60105103,Import Room Temp,進口常溫

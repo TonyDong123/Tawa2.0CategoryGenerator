@@ -1,0 +1,229 @@
+﻿CURRENT 現有舊模板,,,CURRENT 現有舊模板,,,新 MCH,,,,,
+LV1 English,LV1 繁中,LV1 簡中,LV2 English,LV2 繁中,LV2 簡中,Class,Class English,Class 中文,MCH,MCH Name,MCH 中文
+Seasonal,季節限定,季节限定,Mooncake,中秋月餅,中秋月饼,41,Mooncake,月餅,10104101,Moonck Domes Canto,常溫月餅美國本土廣式
+Seasonal,季節限定,季节限定,Mooncake,中秋月餅,中秋月饼,41,Mooncake,月餅,10104102,Moonck Domes VnStyle,常溫月餅美國本土越式
+Seasonal,季節限定,季节限定,Mooncake,中秋月餅,中秋月饼,41,Mooncake,月餅,10104111,Moonck ChImpt Suzhou,常溫月餅中國進口蘇式
+Seasonal,季節限定,季节限定,Mooncake,中秋月餅,中秋月饼,41,Mooncake,月餅,10104112,Moonck ChImpt Canto,常溫月餅中國進口廣式
+Seasonal,季節限定,季节限定,Mooncake,中秋月餅,中秋月饼,41,Mooncake,月餅,10104113,Moonck ChImpt Bj Sty,常溫月餅中國進口京式
+Seasonal,季節限定,季节限定,Mooncake,中秋月餅,中秋月饼,41,Mooncake,月餅,10104121,Mooncake Vn Import,常溫月餅越南進口
+Seasonal,季節限定,季节限定,Mooncake,中秋月餅,中秋月饼,41,Mooncake,月餅,10104122,Mooncake Tw Import,常溫月餅台灣進口
+Seasonal,季節限定,季节限定,Mooncake,中秋月餅,中秋月饼,41,Mooncake,月餅,10104131,Frz Mooncake Durian,冷凍月餅榴蓮
+Seasonal,季節限定,季节限定,Mooncake,中秋月餅,中秋月饼,41,Mooncake,月餅,10104132,Frz Mooncake Other,冷凍月餅冰皮
+Seasonal,季節限定,季节限定,Mooncake,中秋月餅,中秋月饼,41,Mooncake,月餅,10104141,Other Mooncake,其他月餅
+Beverages,飲品,饮品,Coffee,咖啡,咖啡,33,Drink Powder,沖泡飲料,10103331,InstCoff wosugarmilk,即溶咖啡無糖奶
+Beverages,飲品,饮品,Coffee,咖啡,咖啡,33,Drink Powder,沖泡飲料,10103332,InstCoffee sugarmilk,即溶咖啡含糖奶
+Beverages,飲品,饮品,Coffee,咖啡,咖啡,33,Drink Powder,沖泡飲料,10103333,Coffee Bean/Powder,咖啡豆/咖啡粉
+Beverages,飲品,饮品,Coffee,咖啡,咖啡,57,Coffee&Energy Drink,咖啡/能量飲料,10105701,Coffee Drink Mnstr,咖啡飲品主流
+Beverages,飲品,饮品,Coffee,咖啡,咖啡,57,Coffee&Energy Drink,咖啡/能量飲料,10105711,Coffee Drink Other,咖啡飲品其他
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103401,TeaBag Mnstr BlGrOol,茶包主流紅綠烏
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103402,TeaBag Mnstr FrtHbl,茶包主流水果花草
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103403,TeaBag Asian BlGrOol,茶包亞洲紅綠烏
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103404,TeaBag Asian FrtHbl,茶包亞洲水果花草
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103411,Tea Bag Other,茶包其他
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103421,Tea Leaf Black Tea,茶葉紅茶
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103422,Tea Leaf Green Tea,茶葉綠茶
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103423,Tea Leaf Oolong Tea,茶葉烏龍茶
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103424,Tea Leaf Floral Tea,茶葉花茶
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103425,Tea Leaf Fruits,茶葉水果
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103431,Tea Leaf Other,茶葉其他
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103441,Milk Tea Powder,奶茶粉
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103442,Matcha Powder,抹茶粉
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103443,Ginger Tea,薑茶
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103444,Fruit Honey Tea,水果蜜茶
+Beverages,飲品,饮品,Tea,茶,茶,34,Tea Leaf & Bag,茶葉/茶包,10103451,Other Tea Leaf & Bag,其他茶葉茶包
+Beverages,飲品,饮品,Tea,茶,茶,53,Tea,茶飲料,10105301,Tea Drink Mnstr,茶飲料主流
+Beverages,飲品,饮品,Tea,茶,茶,53,Tea,茶飲料,10105302,Tea Drink Ch Brand,茶飲料中系
+Beverages,飲品,饮品,Tea,茶,茶,53,Tea,茶飲料,10105303,Tea Drink Tw Brand,茶飲料台系
+Beverages,飲品,饮品,Tea,茶,茶,53,Tea,茶飲料,10105304,Tea Drink Kr Brand,茶飲料韓系
+Beverages,飲品,饮品,Tea,茶,茶,53,Tea,茶飲料,10105305,Tea Drink Jp Brand,茶飲料日系
+Beverages,飲品,饮品,Tea,茶,茶,53,Tea,茶飲料,10105311,Tea Drink Other Brd,茶飲料其他
+Beverages,飲品,饮品,Tea,茶,茶,53,Tea,茶飲料,10105321,Milk Tea Drink,奶茶
+Beverages,飲品,饮品,Tea,茶,茶,53,Tea,茶飲料,10105331,Aloe Drink,蘆薈飲料
+Beverages,飲品,饮品,Tea,茶,茶,53,Tea,茶飲料,10105332,Herbal Tea,涼茶
+Beverages,飲品,饮品,Tea,茶,茶,53,Tea,茶飲料,10105341,Other Plant Drink,其他草本飲料
+Beverages,飲品,饮品,Tea,茶,茶,53,Tea,茶飲料,10105351,Other Tea Drink,其他茶飲料
+Beverages,飲品,饮品,Soda ,汽水,汽水,51,Soda,汽水,10105101,CSD Mnstr MPk Ea<2L,碳酸飲料主流多瓶裝(單瓶<2L)
+Beverages,飲品,饮品,Soda ,汽水,汽水,51,Soda,汽水,10105102,CSD Mnstr SPk <2L,碳酸飲料主流單瓶裝<2L
+Beverages,飲品,饮品,Soda ,汽水,汽水,51,Soda,汽水,10105103,CSD Mnstr Each>=2L,碳酸飲料主流單瓶裝>=2L
+Beverages,飲品,饮品,Soda ,汽水,汽水,51,Soda,汽水,10105111,CSD Asian Brand,碳酸飲料亞系
+Beverages,飲品,饮品,Soda ,汽水,汽水,51,Soda,汽水,10105121,Sparkling Water,氣泡水
+Beverages,飲品,饮品,Soda ,汽水,汽水,51,Soda,汽水,10105122,Ramune Soda,彈珠汽水
+Beverages,飲品,饮品,Soda ,汽水,汽水,51,Soda,汽水,10105123,SodaWater TonicWater,蘇打水/通寧水
+Beverages,飲品,饮品,Soda ,汽水,汽水,51,Soda,汽水,10105131,Oth Carbonated Drink,其他碳酸飲料
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,52,Water,飲用水,10105201,Spring Wt MPk Ea<2L,泉水多瓶裝(單瓶<2L)
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,52,Water,飲用水,10105202,Spring Wt SPk <2L,泉水單瓶裝<2L
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,52,Water,飲用水,10105203,Spring Wt Each>=2L,泉水單瓶裝>=2L
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,52,Water,飲用水,10105211,MineralWt MPk Ea<2L,礦泉水多瓶裝(單瓶<2L)
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,52,Water,飲用水,10105212,MineralWt SPk <2L,礦泉水單瓶裝<2L
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,52,Water,飲用水,10105213,MineralWt Each>=2L,礦泉水單瓶裝>=2L
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,52,Water,飲用水,10105221,Purifd Wt MPk Ea<2L,純淨水多瓶裝(單瓶<2L)
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,52,Water,飲用水,10105222,Purifd Wt SPk <2L,純淨水單瓶裝<2L
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,52,Water,飲用水,10105223,Purifd Wt Each>=2L,純淨水單瓶裝>=2L
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,52,Water,飲用水,10105231,Alkaline Water,鹼性水
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,52,Water,飲用水,10105232,Natrl SpklWt/Seltzer,天然氣泡水
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,52,Water,飲用水,10105241,Other Bottled Water,其他水
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,54,Juice,果汁,10105401,Condensed Juice,濃縮果汁
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,54,Juice,果汁,10105411,Juice >50% Mnstr Brd,果汁含量>50%主流
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,54,Juice,果汁,10105412,Juice >50% Other Brd,果汁含量>50%其他
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,54,Juice,果汁,10105421,Juice <=50% MnstrBrd,果汁含量<=50%主流
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,54,Juice,果汁,10105422,Juice <=50% OtherBrd,果汁含量<=50%其他
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,54,Juice,果汁,10105431,Coconut Water,椰子水
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,54,Juice,果汁,10105432,Fruit Vinegar,果醋
+Beverages,飲品,饮品,Juice/Water,果汁/礦泉水,果汁/矿泉水,54,Juice,果汁,10105441,Other Juice,其他果汁
+Beverages,飲品,饮品,Soy Milk/Yogurt,豆乳/乳酸飲料,豆乳/乳酸饮料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105501,Soy Milk,豆奶
+Beverages,飲品,饮品,Soy Milk/Yogurt,豆乳/乳酸飲料,豆乳/乳酸饮料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105502,Almond Milk,杏仁奶
+Beverages,飲品,饮品,Soy Milk/Yogurt,豆乳/乳酸飲料,豆乳/乳酸饮料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105503,Oat Milk,燕麥奶
+Beverages,飲品,饮品,Soy Milk/Yogurt,豆乳/乳酸飲料,豆乳/乳酸饮料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105504,Rice Milk,米漿飲品
+Beverages,飲品,饮品,Soy Milk/Yogurt,豆乳/乳酸飲料,豆乳/乳酸饮料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105505,Coconut Milk,椰子奶
+Beverages,飲品,饮品,Soy Milk/Yogurt,豆乳/乳酸飲料,豆乳/乳酸饮料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105511,Yogurt Drink,常溫乳酸飲料
+Beverages,飲品,饮品,Soy Milk/Yogurt,豆乳/乳酸飲料,豆乳/乳酸饮料,55,PlantMilk&YogurtDrk,植物奶/乳酸飲,10105521,Oth PltMilkYogurtDrk,其他植物蛋白/乳酸飲料
+Beverages,飲品,饮品,Dietary Supplement,保健飲品,保健饮品,56,Sports Drink,運動飲料,10105601,Sports Drink Mnstr,運動飲料主流
+Beverages,飲品,饮品,Dietary Supplement,保健飲品,保健饮品,56,Sports Drink,運動飲料,10105602,Sports Drink Other,運動飲料其他
+Beverages,飲品,饮品,Dietary Supplement,保健飲品,保健饮品,57,Coffee&Energy Drink,咖啡/能量飲料,10105721,Energy Drink,能量飲品
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102601,Gummy Mnstr Brand,軟糖主流
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102609,Gummy Other Brand,軟糖其他
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102611,Hard Candy Mnstr Brd,硬糖主流
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102619,Hard Candy Other Brd,硬糖其他
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,26,Candy,糖果,10102621,Gum Mainstream Brand,口香糖主流
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,26 ,Candy,糖果,10102629,Gum Other Brand,口香糖其他
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,26 ,Candy,糖果,10102631,Mints Mnstr Brand,薄荷糖主流
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,26 ,Candy,糖果,10102639,Mints Other Brand,薄荷糖其他
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,26 ,Candy,糖果,10102641,Candied Nuts,果仁酥糖
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,26 ,Candy,糖果,10102651,Other Candy,其他糖果
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,26 ,Candy,糖果,10102652,Bulk Candy,稱重糖果
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,27 ,Chocolate,巧克力,10102701,Choc Bar Mnstr Brd,大塊巧克力主流
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,27 ,Chocolate,巧克力,10102711,Choc Bar Other Brd,大塊巧克力其他
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,27 ,Chocolate,巧克力,10102721,Choc BagBox MnstrBrd,袋/盒裝巧克力主流
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,27 ,Chocolate,巧克力,10102731,Choc BagBox OtherBrd,袋/盒裝巧克力其他
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,27,Chocolate,巧克力,10102741,Candy Bar Mnstr Brd,巧克力糖果條主流
+Snacks,零食,零食,Candy/Choco.,糖果/巧克力,糖果/巧克力,27,Chocolate,巧克力,10102751,Candy Bar Other Brd,巧克力糖果條其他
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,21,Cracker,鹹餅乾,10102101,Cracker Mnstr Brand,鹹餅乾主流
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,21,Cracker,鹹餅乾,10102102,Cracker Ch/Tw Brand,鹹餅乾中系台系
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,21,Cracker,鹹餅乾,10102103,Cracker Kr Brand,鹹餅乾韓系
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,21,Cracker,鹹餅乾,10102104,Cracker Jp Brand,鹹餅乾日系
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,21,Cracker,鹹餅乾,10102105,Cracker SE Asian Brd,鹹餅乾東南亞系
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,21,Cracker,鹹餅乾,10102111,Other Cracker Brand,其他鹹餅乾
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,22,Cookie,甜餅乾/曲奇,10102201,Cookie Mnstr Brand,甜餅乾主流
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,22,Cookie,甜餅乾/曲奇,10102209,Cookie Other Brand,甜餅乾其他
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,22,Cookie,甜餅乾/曲奇,10102211,Butter Cookie US Brd,奶油曲奇美系
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,22,Cookie,甜餅乾/曲奇,10102212,Butter Cookie EU Brd,奶油曲奇歐系
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,22,Cookie,甜餅乾/曲奇,10102219,Butter Cookie OthBrd,奶油曲奇其他
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,22,Cookie,甜餅乾/曲奇,10102221,Digestive Biscuit,雜糧/麥消化餅乾
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,22,Cookie,甜餅乾/曲奇,10102222,Tuiles,瓦片餅乾
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,22,Cookie,甜餅乾/曲奇,10102231,Wafer Chinese Brand,威化餅乾中系
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,22,Cookie,甜餅乾/曲奇,10102239,Wafer Other Brand,威化餅乾其他
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,22,Cookie,甜餅乾/曲奇,10102241,Eggroll Ch Brand,蛋捲中系
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,22,Cookie,甜餅乾/曲奇,10102249,Eggroll Other Brand,蛋捲其他
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,22,Cookie,甜餅乾/曲奇,10102251,ChocCoat CookieStick,巧克力塗層餅乾棒
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,22,Cookie,甜餅乾/曲奇,10102261,Other Cookie,其他甜餅乾/曲奇
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,23,Rice Cracker&Popcorn,米果/爆米花,10102301,Rice Cracker ChTwBrd,米果中系台系
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,23,Rice Cracker&Popcorn,米果/爆米花,10102302,Rice Cracker Kr Brd,米果韓系
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,23,Rice Cracker&Popcorn,米果/爆米花,10102303,Rice Cracker Jp Brd,米果日系
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,23,Rice Cracker&Popcorn,米果/爆米花,10102304,Rice Crack SEAsiaBrd,米果東南亞系
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,23,Rice Cracker&Popcorn,米果/爆米花,10102311,Rice Cracker Oth Brd,米果其他
+Snacks,零食,零食,Cookies/Rice Cracker,餅乾/米果,饼干/米果,23,Rice Cracker&Popcorn,米果/爆米花,10102321,Popcorn,爆米花
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102901,Sunflower Seeds,葵花子
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102902,Watermelon Seeds,西瓜子
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102903,Pumpkin Seeds,南瓜子
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102904,Peanut w/Shell,帶殼花生
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102905,Walnut w/Shell,帶殼核桃
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102906,Pine Seeds w/Shell,帶殼松子
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102907,Pistachio w/Shell,開心果
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102911,Oth SeedsNuts wShell,其他帶殼瓜子堅果
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102921,Shelled Seeds,瓜子仁
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102922,Shelled Peanut,花生仁
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102923,Walnut Kernel,核桃仁
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102924,Cashew,腰果
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102925,Almond,杏仁
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102926,Bean Snack,豆類零食
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102927,Chestnut,板栗仁
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102931,Mixed Nuts,綜合果仁
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102932,Oth ShelledSeedsNuts,其他瓜子堅果仁
+Snacks,零食,零食,Nuts/Seeds,瓜子/花生/堅果,瓜子/花生/坚果,29,Nuts & Seeds,堅果/瓜子,10102941,Bulk Seeds & Nuts,稱重瓜子堅果
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102801,Potato Chips MnstBrd,薯片主流
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102802,Potato Chips ChTwBrd,薯片中系台系
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102803,Potato Chips Kr Brd,薯片韓系
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102804,Potato Chips Jp Brd,薯片日系
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102805,Potato Chips SEAsnBr,薯片東南亞系
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102811,Potato Chips Oth Brd,薯片其他
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102821,Corn Chips Mnstr Brd,玉米片主流
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102822,Corn Chips Ch/Tw Brd,玉米片中系台系
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102823,Corn Chips Kr Brand,玉米片韓系
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102824,Corn Chips Jp Brand,玉米片日系
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102825,Corn Chips SEAsn Brd,玉米片東南亞系
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102831,Corn Chips Other Brd,玉米片其他
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102841,Shrimp Chips,蝦片
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102851,Other Chips,其他薯片蝦片
+Snacks,零食,零食,Chips,薯片,薯片,28,Chips,薯片,10102861,Chips Salsa Sauce,薯片蘸酱
+Snacks,零食,零食,Jelly/Mochi,果凍/蔴糬,果冻/麻糬,25,Jelly,果凍布丁,10102501,Jelly Chinese Brand,果凍布丁中系
+Snacks,零食,零食,Jelly/Mochi,果凍/蔴糬,果冻/麻糬,25,Jelly,果凍布丁,10102502,Jelly Japanese Brand,果凍布丁日系
+Snacks,零食,零食,Jelly/Mochi,果凍/蔴糬,果冻/麻糬,25,Jelly,果凍布丁,10102511,Jelly Other Brand,果凍布丁其他
+Snacks,零食,零食,Jelly/Mochi,果凍/蔴糬,果冻/麻糬,25,Jelly,果凍布丁,10102531,Other Jelly,其他果凍布丁
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103001,Beef Jerky Asian Brd,牛肉亞系
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103009,Beef Jerky Other Brd,牛肉乾其他
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103011,Pork Jerky Asian Brd,豬肉乾亞系
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103019,Pork Jerky Other Brd,豬肉乾其他
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103021,Pork Rind Mnstr Brd,豬皮零食主流
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103022,Pork Rind LatinStyle,豬皮零食西語裔系
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103029,Pork Rind Other Brd,豬皮零食其他
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103031,Marinated Egg Snack,即食滷蛋
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103041,Dry Fish Snack,魚片魚乾魚絲
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103042,Dry Squid,魷魚絲
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103051,Beancurd Snack ChBrd,豆乾零食中系
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103052,Beancurd Snack TwBrd,豆乾零食台系
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103059,Beancurd Snack OthBr,豆乾零食其他
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103061,Gluten Snack Ch Brd,麵筋零食中系
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103062,Gluten Snack Tw Brd,麵筋零食台系
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103069,Gluten Snack Oth Brd,麵筋零食其他
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103071,Konjac Snack,魔芋
+Snacks,零食,零食,Bean Curd/Jerkies/Dried Seafood,豆乾/肉乾/海鮮零食,豆干/肉干/海鲜零食,30,Jerky & Soy Snack,肉乾/豆乾,10103081,Oth Jerky Soy Snack,其他肉乾豆乾
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103101,Dry Mango,芒果乾
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103102,Raisin/Grape Snack,葡萄乾
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103103,Dry Banana,香蕉乾
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103104,Dry Apple,蘋果乾/脆
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103105,Dry Date,棗乾
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103111,Dry Sweet Potato,地瓜乾/紫薯乾
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103112,Dry Mushroom Chips,蘑菇乾
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103121,Mixed Dry Fruit Vege,綜合果蔬乾
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103122,Other Dry Fruit Vege,其他果蔬乾
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103131,Marinated Plum,梅乾/話梅
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103132,Marinated Apricot,杏乾
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103133,Hawthorn Snack,山楂零食
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103141,Oth Marinated Fruit,其他果乾蜜餞
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,31,Dry Fruit&Vege Snack,果蔬乾/蜜餞,10103142,Bulk Dry Fruit &Vege,稱重果蔬乾/蜜餞
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,32,Seaweed Snack,即食海苔,10103201,Seaweed Snack Kr Brd,即食海苔韓系
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,32,Seaweed Snack,即食海苔,10103202,Seaweed Snack Jp Brd,即食海苔日系
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,32,Seaweed Snack,即食海苔,10103211,Seaweed Snack OthBrd,即食海苔其他
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,32,Seaweed Snack,即食海苔,10103221,Sushi Seaweed,包飯海苔
+Snacks,零食,零食,Dried Fruits/Seaweed,果乾/海苔,果干/海苔,32,Seaweed Snack,即食海苔,10103231,Other Seaweed Snack,其他即食海苔
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102401,Snack Cake Mnstr Brd,零食蛋糕主流
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102402,Snack Cake Ch/Tw Brd,零食蛋糕中系台系
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102403,Snack Cake Jp Brand,零食蛋糕日系
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102404,Snack Cake Kr Brand,零食蛋糕韓系
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102411,Snack Cake Oth Brand,零食蛋糕其他
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102421,Snack Bread MnstrBrd,零食麵包主流
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102422,Snack Bread ChTw Brd,零食麵包中系台系
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102423,Snack Bread Jp Brand,零食麵包日系
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102424,Snack Bread Kr Brand,零食麵包韓系
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102431,Snack Bread Oth Brd,零食麵包其他
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102441,Fruit Cake,水果酥
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102442,Red/Mungbean Pastry,紅豆綠豆酥餅/糕
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102443,Sachima Soft Cake,沙琪瑪
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102444,Mochi,麻糬
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,24,Pastry,糕餅點心,10102445,Puff Cookie,泡芙
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,43,Brand Bakery SSL,供應商烘培短保,10104301,Toast,吐司
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,43,Brand Bakery SSL,供應商烘培短保,10104302,Roll,餐包
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,43,Brand Bakery SSL,供應商烘培短保,10104303,Tortilla,卷餅
+Snacks,零食,零食,Pastry/Cake,糕點/蛋糕,糕点/蛋糕,43,Brand Bakery SSL,供應商烘培短保,10104309,Other Brd Bakery SSL,其他供應商烘培短保
+Instant,速食,速食,Drink Mix,即食沖調,即食冲调,33,Drink Powder,沖泡飲料,10103301,GrainsPowder NoSugar,無糖穀物粉
+Instant,速食,速食,Drink Mix,即食沖調,即食冲调,33,Drink Powder,沖泡飲料,10103311,Sesame Powder,芝麻糊
+Instant,速食,速食,Drink Mix,即食沖調,即食冲调,33,Drink Powder,沖泡飲料,10103312,Soy Milk Powder,豆漿粉
+Instant,速食,速食,Drink Mix,即食沖調,即食冲调,33,Drink Powder,沖泡飲料,10103321,Other Grain Powder,其他穀物粉
+Instant,速食,速食,Drink Mix,即食沖調,即食冲调,33,Drink Powder,沖泡飲料,10103341,Other Drink Powder,其他沖泡飲料
+Instant,速食,速食,Drink Mix,即食沖調,即食冲调,35,Cereal,麥片,10103501,Oatmeal Mnstr Brand,燕麥片主流
+Instant,速食,速食,Drink Mix,即食沖調,即食冲调,35,Cereal,麥片,10103511,Oatmeal Other Brand,燕麥片其他
+Instant,速食,速食,Drink Mix,即食沖調,即食冲调,35,Cereal,麥片,10103521,Granola Mnstr Brand,穀麥片主流
+Instant,速食,速食,Drink Mix,即食沖調,即食冲调,35,Cereal,麥片,10103531,Granola Other Brand,穀麥片其他
+Instant,速食,速食,Drink Mix,即食沖調,即食冲调,35,Cereal,麥片,10103541,Cereal Mnstr Brand,早餐穀物主流
+Instant,速食,速食,Drink Mix,即食沖調,即食冲调,35,Cereal,麥片,10103551,Cereal Other Brand,早餐穀物其他
+Instant,速食,速食,Drink Mix,即食沖調,即食冲调,35,Cereal,麥片,10103561,Granola/Cereal Bar,早餐穀物棒
